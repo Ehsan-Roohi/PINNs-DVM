@@ -1,0 +1,317 @@
+{
+  "scope": "Required historical inputs; not reconstructed or silently replaced by evaluation curves",
+  "inputs": [
+    {
+      "config": "smoke_v6d_macro_locked_polish.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "smoke_v6d_macro_locked_polish.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/dvm_sparse_v6d_kn1_t0p02.npz",
+      "included": false
+    },
+    {
+      "config": "smoke_v6d_macro_locked_polish.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "smoke_v6d_continue_from9000.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "smoke_v6d_continue_from9000.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/dvm_sparse_v6d_kn1_t0p02.npz",
+      "included": false
+    },
+    {
+      "config": "smoke_v6d_continue_from9000.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6d_macro_locked_polish/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "smoke_v6b_exp_positive.json",
+      "key": "train.anchor_file",
+      "required_native_path": "anchors/particle_bgk_cons_kn1_t0p02.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig4_m32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig4_m32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qsig4_m32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig4_m32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qsig8_m32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig16_m32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig16_m32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qsig16_m32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig16_m32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_full42_m160.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_full42_m160.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_full42_m160_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_full42_m160.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_macro32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_macro32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_macro32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_macro32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_none.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_none.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_none_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_none.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_qonly8_m32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qonly8_m32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qonly8_m32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qonly8_m32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m64.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m64.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qsig8_m64_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_m64.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_nomacro.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_nomacro.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_qsig8_nomacro_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_qsig8_nomacro.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "ab2_sigonly8_m32.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/dvm_smoke_fixed.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_sigonly8_m32.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/ab2_sigonly8_m32_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "ab2_sigonly8_m32.json",
+      "key": "train.init_model",
+      "required_native_path": "runs/smoke_v6b_exp_positive/ckpt_last.pt",
+      "included": false
+    },
+    {
+      "config": "paper_kn05_t020.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/paper_kn05_t020_dvm.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn05_t020.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/paper_kn05_t020_dvm_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn05_t020.json",
+      "key": "train.init_model",
+      "required_native_path": "best/best_v6d_continue_3500.pt",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t015.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/paper_kn1_t015_dvm.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t015.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/paper_kn1_t015_dvm_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t015.json",
+      "key": "train.init_model",
+      "required_native_path": "best/best_v6d_continue_3500.pt",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t025.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/paper_kn1_t025_dvm.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t025.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/paper_kn1_t025_dvm_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn1_t025.json",
+      "key": "train.init_model",
+      "required_native_path": "best/best_v6d_continue_3500.pt",
+      "included": false
+    },
+    {
+      "config": "paper_kn2_t020.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/paper_kn2_t020_dvm.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn2_t020.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/paper_kn2_t020_dvm_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "paper_kn2_t020.json",
+      "key": "train.init_model",
+      "required_native_path": "best/best_v6d_continue_3500.pt",
+      "included": false
+    },
+    {
+      "config": "paper_mild0375_t020.json",
+      "key": "anchor.dvm_ref",
+      "required_native_path": "ref/paper_mild0375_t020_dvm.npz",
+      "included": false
+    },
+    {
+      "config": "paper_mild0375_t020.json",
+      "key": "anchor.path",
+      "required_native_path": "anchors/paper_mild0375_t020_dvm_sparse.npz",
+      "included": false
+    },
+    {
+      "config": "paper_mild0375_t020.json",
+      "key": "train.init_model",
+      "required_native_path": "best/best_v6d_continue_3500.pt",
+      "included": false
+    }
+  ]
+}

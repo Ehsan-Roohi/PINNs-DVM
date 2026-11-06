@@ -1,0 +1,8 @@
+anchor_strategy,n_scalar_anchors,rel_L2_error_Delta
+Full scalar fit,all,3.07e-4
+Uniform,17,1.01e-1
+Uniform,33,1.50e-3
+Uniform,65,3.15e-4
+Hybrid amplitude/gradient/uniform,33,9.85e-2
+Hybrid amplitude/gradient/uniform,65,1.40e-2
+Peak-only,65,6.55e-1

@@ -1,0 +1,82 @@
+{
+  "seed": 606,
+  "dtype": "float32",
+  "case": {
+    "x_min": -0.5,
+    "x_max": 0.5,
+    "t_final": 0.02,
+    "kn": 1.0,
+    "smooth_k": 20.0,
+    "left": {
+      "rho": 1.0,
+      "ux": 0.0,
+      "T": 1.0
+    },
+    "right": {
+      "rho": 0.125,
+      "ux": 0.0,
+      "T": 0.8
+    }
+  },
+  "velocity": {
+    "vmax": 7.0,
+    "nvx": 32,
+    "nvy": 12,
+    "nvz": 12,
+    "weight_alpha": 0.1,
+    "weight_beta": 4.0,
+    "normalize_weight": true
+  },
+  "model": {
+    "hidden": 128,
+    "layers": 4,
+    "psi_max": 0.65,
+    "gate_width": 0.13,
+    "q_amp": 0.25,
+    "sig_amp": 0.25
+  },
+  "anchor": {
+    "dvm_ref": "ref/dvm_smoke_fixed.npz",
+    "path": "anchors/ab2_qsig8_m32_sparse.npz",
+    "x_min": -0.105,
+    "x_max": 0.135,
+    "n_points": 8,
+    "q_std_floor": 0.003,
+    "sig_std_floor": 0.003
+  },
+  "train": {
+    "device": "auto",
+    "allow_tf32": true,
+    "steps": 9000,
+    "batch_pde": 8,
+    "batch_bc": 4,
+    "lr": 1.2e-05,
+    "min_lr": 8e-07,
+    "weight_decay": 1e-07,
+    "lambda_pde": 1.0,
+    "lambda_pde_rel": 0.01,
+    "lambda_pos": 10.0,
+    "lambda_bc": 1.0,
+    "lambda_anchor_q": 0.7,
+    "lambda_anchor_sig": 0.9,
+    "lambda_macro_lock": 20.0,
+    "macro_lock_u_weight": 12.0,
+    "macro_lock_points": 32,
+    "shock_fraction": 0.65,
+    "shock_sigma": 0.08,
+    "rel_eps": 1e-05,
+    "fac_floor": 0.02,
+    "grad_clip": 0.35,
+    "log_every": 100,
+    "save_every": 1000,
+    "init_model": "runs/smoke_v6b_exp_positive/ckpt_last.pt"
+  },
+  "run": {
+    "name": "ab2_qsig8_m32"
+  },
+  "ablation_note": "8 q/sigma anchor points + 32 macro-lock points; main minimal-data candidate",
+  "anchor_data_count": {
+    "q_sigma_anchor_points": 8,
+    "macro_lock_points": 32
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "scope": "Required historical inputs; not reconstructed or silently replaced by evaluation curves",
+  "inputs": [
+    {
+      "config": "stationary_mach2_closure.json",
+      "key": "ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "stationary_mach2_closure.json",
+      "key": "init",
+      "required_native_path": "best/standing_M2_x40_v12_mboost_final/ckpt_best.pt",
+      "included": false
+    },
+    {
+      "config": "stationary_mach2_closure.json",
+      "key": "micro_ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro_microanchors.npz",
+      "included": false
+    },
+    {
+      "config": "stationary_mach2_closure.json",
+      "key": "ref_used",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_control.json",
+      "key": "ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_control.json",
+      "key": "init",
+      "required_native_path": "best/standing_M2_x40_v12_mboost_final/ckpt_best.pt",
+      "included": false
+    },
+    {
+      "config": "mach2_control.json",
+      "key": "micro_ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro_microanchors.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_control.json",
+      "key": "ref_used",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys.json",
+      "key": "ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys.json",
+      "key": "init",
+      "required_native_path": "best/standing_M2_x40_v12_mboost_final/ckpt_best.pt",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys.json",
+      "key": "micro_ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro_microanchors.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys.json",
+      "key": "ref_used",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w5.json",
+      "key": "ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w5.json",
+      "key": "init",
+      "required_native_path": "best/standing_M2_x40_v12_mboost_final/ckpt_best.pt",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w5.json",
+      "key": "micro_ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro_microanchors.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w5.json",
+      "key": "ref_used",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w10.json",
+      "key": "ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w10.json",
+      "key": "init",
+      "required_native_path": "best/standing_M2_x40_v12_mboost_final/ckpt_best.pt",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w10.json",
+      "key": "micro_ref",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro_microanchors.npz",
+      "included": false
+    },
+    {
+      "config": "mach2_rphys_w10.json",
+      "key": "ref_used",
+      "required_native_path": "ref/standing_M2_x40_hmom_dvm_densemicro.npz",
+      "included": false
+    }
+  ]
+}

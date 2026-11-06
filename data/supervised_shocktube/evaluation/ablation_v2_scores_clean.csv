@@ -1,0 +1,11 @@
+case,q_sigma_anchor_points,macro_lock_points,rho,ux,T,qx,sigma_xx,note
+ab2_none,0,0,0.02352194,0.6026342,0.01001094,0.425186,0.5504394,PDE+BC+positivity only; no moment anchors and no macro-lock
+ab2_macro32,0,32,0.003622268,0.01558094,0.002333046,0.8788504,1.507847,32 macro-lock points only; no q/sigma moment anchors
+ab2_qsig4_m32,4,32,0.005442783,0.01530292,0.004193247,0.0963386,0.2923917,4 q/sigma anchor points + 32 macro-lock points
+ab2_qsig8_m32,8,32,0.004952297,0.01864574,0.003052592,0.09519793,0.1077708,8 q/sigma anchor points + 32 macro-lock points; main minimal-data candidate
+ab2_qsig16_m32,16,32,0.005075834,0.01649967,0.003587808,0.08867188,0.06438401,16 q/sigma anchor points + 32 macro-lock points
+ab2_qsig8_m64,8,64,0.004369925,0.01472042,0.002470242,0.08620854,0.07601725,8 q/sigma anchor points + 64 macro-lock points
+ab2_full42_m160,42,160,0.00368046,0.01281493,0.002568043,0.0829334,0.05038005,upper-bound full version: 42 moment anchors + 160 macro-lock points
+ab2_qonly8_m32,8,32,0.006375059,0.01696035,0.004431748,0.06226633,1.192216,q anchor only + 32 macro-lock points
+ab2_sigonly8_m32,8,32,0.003610487,0.01713675,0.002348503,0.9593077,0.08815367,sigma anchor only + 32 macro-lock points
+ab2_qsig8_nomacro,8,0,0.136868,0.5414928,0.02304304,0.07951598,0.08869893,8 q/sigma anchor points only; no macro-lock

@@ -1,0 +1,67 @@
+{
+  "scope": "Saved-only plotting; no inference/training; all three seeds included.",
+  "information_regime": "equation-trained Shakhov Mach 2",
+  "inputs": {
+    "data/independent_m2/evaluation/RESULT.json": "1f28cca29cdf8a17c2b71f909a00aa38d502afb08e22cddd960b814dd17c729e",
+    "data/independent_m2/evaluation/seed141001_adam20000_core.npz": "5818232317ba3e81360d2fa1df6ab39348abd76c88a8b62d140c52c484a42334",
+    "data/independent_m2/seed_141001/adam/history.jsonl": "7091e2f2d7dba99d414731c71f9b9d97694e51c2cd9678a79a42c724e99b6404",
+    "data/independent_m2/evaluation/seed141001_ssb500_core.npz": "31c5e52e1be13952eb77aa02c279490ba29a77ff474969bf1fbf761ca4d3bcbc",
+    "data/independent_m2/seed_141001/ssb/history.jsonl": "9bb0134902de8a5be06b8be0bb81aecf47e82c0a21b24f4e916f2dcee1231272",
+    "data/independent_m2/evaluation/seed141001_fixed500_core.npz": "196fff81dc2edd3c400ba2f83b28221e7c6ed6dc67c438405838f8ab4f4a755d",
+    "data/independent_m2/seed_141001/fixed/history.jsonl": "55176a999fbff553b4fed22354f46f187e91fe130062c7ccc07574f288a21b40",
+    "data/independent_m2/evaluation/seed141002_adam20000_core.npz": "4ca76aa5aad148f760b7d609e3587b62d4b0e865c21c3f177597c8d3ef1f5fc7",
+    "data/independent_m2/seed_141002/adam/history.jsonl": "8109d5822a245eb68517a1dd570136c2b77003ddc16c5c1609e565c49a91aa4b",
+    "data/independent_m2/evaluation/seed141002_ssb500_core.npz": "75a5146edb623843400226d0a7b2799f699aabb65afa7dea2cbd2c4dcfd33d05",
+    "data/independent_m2/seed_141002/ssb/history.jsonl": "2a9775afffd938866c9bf6fc034a41ebb053d2b95adc6f219612905b05cdc494",
+    "data/independent_m2/evaluation/seed141002_fixed500_core.npz": "cb834bd87a38272512fd90b5da8d173e6a208e57276162437f5e45723df0c72f",
+    "data/independent_m2/seed_141002/fixed/history.jsonl": "f4e75c08ccad0125d54957c8eaa838a3d2748a8a7c3230f617a1b64fe411edc4",
+    "data/independent_m2/evaluation/seed141003_adam20000_core.npz": "83960ee127b4f0f0ad2fefb82d85ee9fdc426d1f02d47a71dda87b02bec95d3a",
+    "data/independent_m2/seed_141003/adam/history.jsonl": "8e24ad497bed95942923f90bdf8c5fb12d7168cd0cb966f3b5d41a331e211b96",
+    "data/independent_m2/evaluation/seed141003_ssb500_core.npz": "8c99d30ac66886ec97a1e36aecf1037a566d44d724d2f6ba8f602c761987761b",
+    "data/independent_m2/seed_141003/ssb/history.jsonl": "963b7f4801a7448f99780063925a75de689a2e9e107712ccc52ff47aa1d3906a",
+    "data/independent_m2/evaluation/seed141003_fixed500_core.npz": "74410ac5107551ecf81751a03da237d67b8823ed31a6c5159e2b1f717fd3a9cd",
+    "data/independent_m2/seed_141003/fixed/history.jsonl": "e502cca6f95aa6130ed6e6e5a850f614eaf43ad2315add793897ed784f29b9ad"
+  },
+  "figure_sha256": "46f05e0ff2087d2e472cde893174679c7adb819a89e290d5622fb12623e5b344",
+  "generator": "plotting/independent_seeds/plot_optimizer_effect.py",
+  "generator_sha256": "fea7e075f6350b1e78bdc296aea1c4c67155320af712de550acd5282e6be0ae9",
+  "metrics": {
+    "141001_adam20000": {
+      "q": 20.38060987645854,
+      "sigma": 17.61642536880008
+    },
+    "141001_ssb500": {
+      "q": 1.823039186241731,
+      "sigma": 0.8656666924080911
+    },
+    "141001_fixed500": {
+      "q": 1.1062720803614705,
+      "sigma": 1.2860084889755474
+    },
+    "141002_adam20000": {
+      "q": 19.846171672763205,
+      "sigma": 17.22780963023269
+    },
+    "141002_ssb500": {
+      "q": 2.2067276615182227,
+      "sigma": 1.1138217362400156
+    },
+    "141002_fixed500": {
+      "q": 0.9906518365662359,
+      "sigma": 1.2813212258014508
+    },
+    "141003_adam20000": {
+      "q": 20.334552588434576,
+      "sigma": 14.901372469915472
+    },
+    "141003_ssb500": {
+      "q": 2.3084663207741394,
+      "sigma": 1.2668501535319403
+    },
+    "141003_fixed500": {
+      "q": 1.0150989515806041,
+      "sigma": 1.2560743979226572
+    }
+  },
+  "reference": "Existing saved linear interpolation onto unchanged model core nodes; no new phase or amplitude adjustment."
+}

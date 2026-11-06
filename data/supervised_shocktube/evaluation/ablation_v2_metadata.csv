@@ -1,0 +1,11 @@
+case,q_sigma_anchor_points,macro_lock_points,note
+ab2_none,0,0,"PDE+BC+positivity only; no moment anchors and no macro-lock"
+ab2_macro32,0,32,"32 macro-lock points only; no q/sigma moment anchors"
+ab2_qsig4_m32,4,32,"4 q/sigma anchor points + 32 macro-lock points"
+ab2_qsig8_m32,8,32,"8 q/sigma anchor points + 32 macro-lock points; main minimal-data candidate"
+ab2_qsig16_m32,16,32,"16 q/sigma anchor points + 32 macro-lock points"
+ab2_qsig8_m64,8,64,"8 q/sigma anchor points + 64 macro-lock points"
+ab2_full42_m160,42,160,"upper-bound full version: 42 moment anchors + 160 macro-lock points"
+ab2_qonly8_m32,8,32,"q anchor only + 32 macro-lock points"
+ab2_sigonly8_m32,8,32,"sigma anchor only + 32 macro-lock points"
+ab2_qsig8_nomacro,8,0,"8 q/sigma anchor points only; no macro-lock"

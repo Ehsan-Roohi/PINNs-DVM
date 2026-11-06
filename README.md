@@ -1,10 +1,12 @@
 # PINNs-DVM
 
-Code and saved results for **Field-data-free neural kinetic solvers for shock waves and higher-order moments**.
+Code and saved results for **Neural kinetic solvers for shock waves: sparse-moment supervision and physics-based training**.
 
-The reported neural calculations use kinetic equations, analytic initial and inflow states, and moments of their own predicted distributions. DVM fields are supplied for **post-solve evaluation**, not as training targets.
+This repository distinguishes **data-assisted** calculations (moment supervision and reference-derived scales or sampling) from **equation-trained** neural solvers and **equation-based characteristic corrections**. DVM fields are post-solve evaluation data for the latter methods; the supervised subtrees explicitly use reference information during training. Classification is case-specific, not a blanket data-free claim.
 
 ## Contents
+
+- `code/supervised_shocktube` and `code/supervised_closure`: recovered data-assisted algorithms and case configurations, with matching saved comparisons under `data`. Read their coverage notes before attempting reproduction; native training targets and parent checkpoints are required separately.
 
 - `code/shocktube`: independently initialised BGK and Shakhov characteristic PINNs, their self-scaled Broyden optimiser, full-state continuation and independent DVM reference solver.
 - `code/independent_m2`: three independently initialised Shakhov Mach-2 calculations with seeds 141001, 141002 and 141003.
@@ -60,3 +62,15 @@ python tools/verify_manifest.py
 `MANIFEST.json` records original and release hashes, including relocated private paths and extracted portable utilities. The release contains scientific code and compact numerical evidence; it excludes large native checkpoint archives, manuscript files and reviewer correspondence. Exact historical full-state restarts require the checkpoint inputs listed in the recovery manifests. Saved profiles alone cannot reproduce an entire training trajectory.
 
 Release checks cover syntax, saved-data plotting and small CPU algebra tests; they are not fresh GPU reruns of the published experiments. No software licence has been assigned in this repository.
+
+## Optimizer stages and physical profiles
+
+The [Mach-2 comparison](figures/mach2_optimizer_effect.pdf) shows recorded losses,
+heat flux and stress for all three equation-trained initializations after Adam,
+SSB and split-half SSB. Shared physical axes expose improvements and regressions.
+These are sequential training stages, not an equal-budget optimizer benchmark.
+Regenerate the figure from saved arrays without loading a neural checkpoint:
+
+```bash
+python plotting/independent_seeds/plot_optimizer_effect.py --release-data data/independent_m2 --outdir output
+```
