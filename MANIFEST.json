@@ -754,30 +754,6 @@
       "transformation": "private absolute-location redaction only"
     },
     {
-      "path": "provenance/shocktube_verification.json",
-      "source": "SHOCKTUBE_REPAIR/PHYSICS_ONLY/REFINEMENT/SAVED_INPUTS/VERIFICATION.json",
-      "source_sha256": "62d03cefed19dc3da2025b9d3ff605cf6aedbb313b77843bb6b473aba41f5c9b",
-      "sha256": "242bbd1e3925088cf787856b91c6bb939469f4e0a2784d1c2995eefb6b7752bc",
-      "bytes": 2598,
-      "transformation": "private absolute-location redaction only"
-    },
-    {
-      "path": "provenance/shocktube_archive_receipt.json",
-      "source": "SHOCKTUBE_REPAIR/PHYSICS_ONLY/REFINEMENT/PRESERVATION/LOCAL_ACK.json",
-      "source_sha256": "d4cc110e02a0d6549d48aa6cd22a3af7bf32777b171f8821a8e1462ba2a129e2",
-      "sha256": "6122b05e64ae732c11c74fa43d9e27133a9754191c64e1a2235de792d64c768f",
-      "bytes": 9720,
-      "transformation": "private absolute-location redaction only"
-    },
-    {
-      "path": "provenance/independent_m2_verification.json",
-      "source": "INDEPENDENT_SEEDS/SAVED_INPUTS/ALL_MEMBER_VERIFICATION.json",
-      "source_sha256": "3106cb5078388b728837d4831af7c8fce6086ff116a0274c2a2f6f730e6290d9",
-      "sha256": "3e89bb382532778c45f0191c14cee30112c0243560cc7b600d5e723962e52135",
-      "bytes": 11461,
-      "transformation": "private absolute-location redaction only"
-    },
-    {
       "path": "provenance/independent_m2_summary.json",
       "source": "INDEPENDENT_SEEDS/SAVED_REPORT_SUMMARY.json",
       "source_sha256": "38bf50f16da6abda3ca947de26ae234a8ccf336f02361b890bd9c31fe151e20d",
@@ -810,7 +786,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M2/loss/M2_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_a.csv",
       "source": "stationary_archive/M2_RECORDED_OLD.csv",
       "source_sha256": "54d05267b1e5e2cd452e65d4c36418228689a4e240e319d37f732ef9ee1c3ca2",
       "sha256": "54d05267b1e5e2cd452e65d4c36418228689a4e240e319d37f732ef9ee1c3ca2",
@@ -818,7 +794,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M2/loss/M2_RECORDED_CURRENT.csv",
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_b.csv",
       "source": "stationary_archive/M2_RECORDED_CURRENT.csv",
       "source_sha256": "299f6ecd929384413aedc26cd9a68ef6a5482d53ccabf42ad0667ffe3d791a69",
       "sha256": "299f6ecd929384413aedc26cd9a68ef6a5482d53ccabf42ad0667ffe3d791a69",
@@ -898,7 +874,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M3/loss/M3_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_a.csv",
       "source": "stationary_archive/M3_RECORDED_OLD.csv",
       "source_sha256": "63a2e450901754e7f0c669220674ba1e57517643aef7444077f0f8564b4db453",
       "sha256": "63a2e450901754e7f0c669220674ba1e57517643aef7444077f0f8564b4db453",
@@ -906,7 +882,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M3/loss/M3_RECORDED_CURRENT.csv",
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_b.csv",
       "source": "stationary_archive/M3_RECORDED_CURRENT.csv",
       "source_sha256": "510085593f6c928a69eeebfb91229652d3d4fe2feff3430c3d69cd5545eccd8a",
       "sha256": "510085593f6c928a69eeebfb91229652d3d4fe2feff3430c3d69cd5545eccd8a",
@@ -1018,7 +994,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M4/loss/M4_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_a.csv",
       "source": "stationary_archive/M4_RECORDED_OLD.csv",
       "source_sha256": "f19873a7fbf5cffdfa5155a1d7926469422cff13d3aa94f3173cdae727368eea",
       "sha256": "f19873a7fbf5cffdfa5155a1d7926469422cff13d3aa94f3173cdae727368eea",
@@ -1026,7 +1002,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M4/loss/M4_RECORDED_CURRENT.csv",
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_b.csv",
       "source": "stationary_archive/M4_RECORDED_CURRENT.csv",
       "source_sha256": "58eb15606517236f7cbc9d1187bb806918414a8739f0a5d110b3345cb00a5850",
       "sha256": "58eb15606517236f7cbc9d1187bb806918414a8739f0a5d110b3345cb00a5850",
@@ -1138,7 +1114,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M5/loss/M5_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_a.csv",
       "source": "stationary_archive/M5_RECORDED_OLD.csv",
       "source_sha256": "2337d7abed835c5f2e79bf574b0cbf0efc758dc4fcf5f941a5db849a2c0bfbd7",
       "sha256": "2337d7abed835c5f2e79bf574b0cbf0efc758dc4fcf5f941a5db849a2c0bfbd7",
@@ -1146,7 +1122,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M5/loss/M5_RECORDED_CURRENT.csv",
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_b.csv",
       "source": "stationary_archive/M5_RECORDED_CURRENT.csv",
       "source_sha256": "683a72409ce2ee4cd8a78d93944737c4edef308123739d56320249b3d372377f",
       "sha256": "683a72409ce2ee4cd8a78d93944737c4edef308123739d56320249b3d372377f",
@@ -1258,7 +1234,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M6/loss/M6_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_a.csv",
       "source": "stationary_archive/M6_RECORDED_OLD.csv",
       "source_sha256": "846238cc10d0048ecbea2093c5aa5298c57a29fe079d1b1850649ecf697c019c",
       "sha256": "846238cc10d0048ecbea2093c5aa5298c57a29fe079d1b1850649ecf697c019c",
@@ -1266,7 +1242,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M6/loss/M6_RECORDED_CURRENT.csv",
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_b.csv",
       "source": "stationary_archive/M6_RECORDED_CURRENT.csv",
       "source_sha256": "bd39745b35e341842a303bf57d78e6c20d848df926a2628e846c4a062c3b056e",
       "sha256": "bd39745b35e341842a303bf57d78e6c20d848df926a2628e846c4a062c3b056e",
@@ -1274,7 +1250,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_neural/M6/loss/M6_NN_TO_FIGURE7450.csv",
+      "path": "data/stationary_neural/M6/loss/mach6_neural_steps1001_7450.csv",
       "source": "stationary_archive/M6_NN_TO_FIGURE7450.csv",
       "source_sha256": "023f085c49266a6faab61d12a4a267be57548eb64523d196f644f59f1cf47e6c",
       "sha256": "023f085c49266a6faab61d12a4a267be57548eb64523d196f644f59f1cf47e6c",
@@ -1490,7 +1466,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M7_NN15_TO_NN18_SCI.csv",
+      "path": "data/stationary_neural/M7/loss/mach7_neural_steps15_18.csv",
       "source": "admitted_saved_artifact/M7_NN15_TO_NN18_SCI.csv",
       "source_sha256": "5dc139a6f4980c449379918632d5ced7a867cb89da0af8d6f5cc00765ef153ca",
       "sha256": "5dc139a6f4980c449379918632d5ced7a867cb89da0af8d6f5cc00765ef153ca",
@@ -1498,7 +1474,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M12_CHORD_FROM_M8_20261031.csv",
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_from_mach8.csv",
       "source": "admitted_saved_artifact/M12_CHORD_FROM_M8_20261031.csv",
       "source_sha256": "f77e961b0fd7e28009bd7df09dbadeca3c265f88b538459b1b38605c56e319a6",
       "sha256": "f77e961b0fd7e28009bd7df09dbadeca3c265f88b538459b1b38605c56e319a6",
@@ -1506,7 +1482,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M12_CHORD_ANALYTIC_RH_20261031.csv",
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_analytic_rh.csv",
       "source": "admitted_saved_artifact/M12_CHORD_ANALYTIC_RH_20261031.csv",
       "source_sha256": "21c24f0bf378697440d1c56edc854ba33b48247b1588cb26c4bbbc68466797c0",
       "sha256": "21c24f0bf378697440d1c56edc854ba33b48247b1588cb26c4bbbc68466797c0",
@@ -1514,7 +1490,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M12_SPLIT235_FROM_M8_20261031.csv",
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_basis235.csv",
       "source": "admitted_saved_artifact/M12_SPLIT235_FROM_M8_20261031.csv",
       "source_sha256": "e3a9baca5597772da091264e0404c3a0142ca74c62828b41fc03f3d30e904170",
       "sha256": "e3a9baca5597772da091264e0404c3a0142ca74c62828b41fc03f3d30e904170",
@@ -1522,7 +1498,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_20261030.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage1.csv",
       "source": "admitted_saved_artifact/M8_ACTUAL3975_CHARACTERISTIC_JOINT_20261030.csv",
       "source_sha256": "00b487fdc617ee7cdd00f0328e1f6f86ff069e9daddc08686975d2bf12f062fd",
       "sha256": "00b487fdc617ee7cdd00f0328e1f6f86ff069e9daddc08686975d2bf12f062fd",
@@ -1530,7 +1506,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_STAGE2_20261030.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage2.csv",
       "source": "admitted_saved_artifact/M8_ACTUAL3975_CHARACTERISTIC_JOINT_STAGE2_20261030.csv",
       "source_sha256": "d3c64907370d3e2ba64a2271b87fae386370ca9b977dab26bdcc315ae080f859",
       "sha256": "d3c64907370d3e2ba64a2271b87fae386370ca9b977dab26bdcc315ae080f859",
@@ -1538,7 +1514,7 @@
       "transformation": "byte-identical"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_BASIS119_FINAL.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_basis119.csv",
       "source": "admitted_saved_artifact/M8_ACTUAL3975_BASIS119_FINAL.csv",
       "source_sha256": "d15c7400fa2b50086175c0d9610c086611e783e6ec6a9b6b2239633be56cd8d8",
       "sha256": "d15c7400fa2b50086175c0d9610c086611e783e6ec6a9b6b2239633be56cd8d8",
@@ -1834,8 +1810,8 @@
       "transformation": "byte-identical"
     }
   ],
-  "files": 229,
-  "bytes": 42635267,
+  "files": 226,
+  "bytes": 42611473,
   "scientific_execution_during_packaging": false,
   "pending": [
     "owner software license",
@@ -1852,9 +1828,9 @@
   ],
   "release_files": [
     {
-      "path": "code/independent_m2/run_lineage.py",
-      "bytes": 7122,
-      "sha256": "7df7483c6a16052d575b231a421bd65f1103e397a88c90c4eda847f430dc12c1"
+      "path": "README.md",
+      "bytes": 5340,
+      "sha256": "21b8221699b994ef1e810d4dc3a7c1f7fa68dac7b63694e2acffb48ecfcac276"
     },
     {
       "path": "code/independent_m2/SOURCE/adam/config.json",
@@ -1932,6 +1908,11 @@
       "sha256": "69d05fb79c9b4c0179bbe1d6dc8078e25a506e75eb3adb653521807251da9a94"
     },
     {
+      "path": "code/independent_m2/run_lineage.py",
+      "bytes": 7122,
+      "sha256": "7df7483c6a16052d575b231a421bd65f1103e397a88c90c4eda847f430dc12c1"
+    },
+    {
       "path": "code/independent_m2/test_restart.py",
       "bytes": 4614,
       "sha256": "39b307d37e6e6a2d82973c09af71d0c907f3c878a126db968da0f50e078ecd0e"
@@ -1940,6 +1921,11 @@
       "path": "code/shocktube/BGK_CONFIG.json",
       "bytes": 389,
       "sha256": "75dc7426bd264fdfa469d27b4d33996df8b6288c4a00b38e25ef07ee3e6f8503"
+    },
+    {
+      "path": "code/shocktube/SHAKHOV_CONFIG.json",
+      "bytes": 393,
+      "sha256": "e9028a6316dea586c9f601f04f856a8ce0efd78314043ea139f92d5fe5853cf6"
     },
     {
       "path": "code/shocktube/characteristic.py",
@@ -1955,11 +1941,6 @@
       "path": "code/shocktube/reference_pair.py",
       "bytes": 6609,
       "sha256": "63e5468337d914eeeeb04d9b22188d8130f37bc0ae9da2e1b2572867ffefeec2"
-    },
-    {
-      "path": "code/shocktube/SHAKHOV_CONFIG.json",
-      "bytes": 393,
-      "sha256": "e9028a6316dea586c9f601f04f856a8ce0efd78314043ea139f92d5fe5853cf6"
     },
     {
       "path": "code/shocktube/ssb_optimizer.py",
@@ -1985,6 +1966,11 @@
       "path": "code/shocktube/train_characteristic.py",
       "bytes": 8779,
       "sha256": "3758925c35d2bd18dddedc9945410768e72ab33424cff80667d2942202cbe623"
+    },
+    {
+      "path": "code/stationary_characteristic/README.md",
+      "bytes": 2004,
+      "sha256": "00b974c0f654e954cc539aa59cad6ca1994c46510288f9b5b76ffd23763ea43e"
     },
     {
       "path": "code/stationary_characteristic/historical/m12_physics_runtime.py",
@@ -2052,6 +2038,16 @@
       "sha256": "5a89c620fdcecfa1460a981790f0c41f3420ebd01b3cf3a1b7d896964271cc24"
     },
     {
+      "path": "code/stationary_characteristic/portable/M7_NN18_OWN_MACRO_GAUGE_INITIALIZER.npz",
+      "bytes": 15892,
+      "sha256": "77124a8f06afe8012ddf0c684c29902dcf1f3059dd2c32a5b43318acf6c1a005"
+    },
+    {
+      "path": "code/stationary_characteristic/portable/M7_PILOT_CONFIG.json",
+      "bytes": 8454,
+      "sha256": "b5d7571b758209fed1880c63657bf43e81b24e8e52d6d45d313a919c83d7e654"
+    },
+    {
       "path": "code/stationary_characteristic/portable/diagnostic_adapter.py",
       "bytes": 3074,
       "sha256": "b6e076ad4137e212a6e1d161c59c35811e5c4cbef4493173dbfee00913e53add"
@@ -2065,16 +2061,6 @@
       "path": "code/stationary_characteristic/portable/historical_math.py",
       "bytes": 2107,
       "sha256": "00d1fe53f12172d789fc8b57096c13e543178e9a2dc2c7f0bded10cd193a6104"
-    },
-    {
-      "path": "code/stationary_characteristic/portable/M7_NN18_OWN_MACRO_GAUGE_INITIALIZER.npz",
-      "bytes": 15892,
-      "sha256": "77124a8f06afe8012ddf0c684c29902dcf1f3059dd2c32a5b43318acf6c1a005"
-    },
-    {
-      "path": "code/stationary_characteristic/portable/M7_PILOT_CONFIG.json",
-      "bytes": 8454,
-      "sha256": "b5d7571b758209fed1880c63657bf43e81b24e8e52d6d45d313a919c83d7e654"
     },
     {
       "path": "code/stationary_characteristic/portable/moment_features.py",
@@ -2105,11 +2091,6 @@
       "path": "code/stationary_characteristic/portable/test_tiny.py",
       "bytes": 1015,
       "sha256": "fd8a3c2f8b5eb0fc0849d1c742931b293cfa08a6af181d361aca89e9e3244164"
-    },
-    {
-      "path": "code/stationary_characteristic/README.md",
-      "bytes": 2004,
-      "sha256": "00b974c0f654e954cc539aa59cad6ca1994c46510288f9b5b76ffd23763ea43e"
     },
     {
       "path": "code/stationary_neural/M2/base_solver.py",
@@ -2382,6 +2363,11 @@
       "sha256": "ac6e9b833c4f5ad287cae9aaa40c4358cbb4134442110294fb83aea197ce1c1d"
     },
     {
+      "path": "data/independent_m2/seed_141001/adam/STATUS.json",
+      "bytes": 2447,
+      "sha256": "662cc5f3d0597b0ef65a4dde567e04ab0b4dc2574c9fffd4dd2b08a2f79e6e5c"
+    },
+    {
       "path": "data/independent_m2/seed_141001/adam/history.jsonl",
       "bytes": 1126457,
       "sha256": "7091e2f2d7dba99d414731c71f9b9d97694e51c2cd9678a79a42c724e99b6404"
@@ -2392,9 +2378,9 @@
       "sha256": "545af637d1d5766b30134b9e25883d28c6af59143a21d26058c5949486b07b47"
     },
     {
-      "path": "data/independent_m2/seed_141001/adam/STATUS.json",
-      "bytes": 2447,
-      "sha256": "662cc5f3d0597b0ef65a4dde567e04ab0b4dc2574c9fffd4dd2b08a2f79e6e5c"
+      "path": "data/independent_m2/seed_141001/fixed/STATUS.json",
+      "bytes": 5986,
+      "sha256": "d16bed292efc3481ef70dde43464d666e1c4eb56b8ce8469c73290a3cc69cc9e"
     },
     {
       "path": "data/independent_m2/seed_141001/fixed/history.jsonl",
@@ -2407,9 +2393,9 @@
       "sha256": "69651b30e1aa75e9d457ac7a558996b8f643c459d38edcbf9c3f4e6a2340c14a"
     },
     {
-      "path": "data/independent_m2/seed_141001/fixed/STATUS.json",
-      "bytes": 5986,
-      "sha256": "d16bed292efc3481ef70dde43464d666e1c4eb56b8ce8469c73290a3cc69cc9e"
+      "path": "data/independent_m2/seed_141001/ssb/STATUS.json",
+      "bytes": 2650,
+      "sha256": "3bf93bc944cd7f4fcfaf12aa48a04bbbdc3813b469c00093fb861da4d3474a0a"
     },
     {
       "path": "data/independent_m2/seed_141001/ssb/history.jsonl",
@@ -2422,9 +2408,9 @@
       "sha256": "9232d5f3e16bbfa5f6e91bfd86adbb7f2b75b8f5f37e7f87c593ea40c8c8ac81"
     },
     {
-      "path": "data/independent_m2/seed_141001/ssb/STATUS.json",
-      "bytes": 2650,
-      "sha256": "3bf93bc944cd7f4fcfaf12aa48a04bbbdc3813b469c00093fb861da4d3474a0a"
+      "path": "data/independent_m2/seed_141002/adam/STATUS.json",
+      "bytes": 2452,
+      "sha256": "2347c2de1a9032539a49a3bc87218efae4bc6575056c97e8f8b26e3f6a3054e9"
     },
     {
       "path": "data/independent_m2/seed_141002/adam/history.jsonl",
@@ -2437,9 +2423,9 @@
       "sha256": "336d15d213131009e7904d4fffcca9880e906990ebce540811bcd17d4cf483dc"
     },
     {
-      "path": "data/independent_m2/seed_141002/adam/STATUS.json",
-      "bytes": 2452,
-      "sha256": "2347c2de1a9032539a49a3bc87218efae4bc6575056c97e8f8b26e3f6a3054e9"
+      "path": "data/independent_m2/seed_141002/fixed/STATUS.json",
+      "bytes": 5989,
+      "sha256": "c61e958b0d46c56241d29dd1283fe34935be0d893001f5442ecf75bb48607212"
     },
     {
       "path": "data/independent_m2/seed_141002/fixed/history.jsonl",
@@ -2452,9 +2438,9 @@
       "sha256": "a0915fbb1ff7216124a56482b16ef16b698376fd37057f479c07284664b84992"
     },
     {
-      "path": "data/independent_m2/seed_141002/fixed/STATUS.json",
-      "bytes": 5989,
-      "sha256": "c61e958b0d46c56241d29dd1283fe34935be0d893001f5442ecf75bb48607212"
+      "path": "data/independent_m2/seed_141002/ssb/STATUS.json",
+      "bytes": 2657,
+      "sha256": "10a2d087312b95eaf60420df463e8989ff65152c974607f29b2fd0e83e32107b"
     },
     {
       "path": "data/independent_m2/seed_141002/ssb/history.jsonl",
@@ -2467,9 +2453,9 @@
       "sha256": "2a0fe6a038c36617cc112644660c28a7e4f70efe2d2cfe319685d505954b4e2b"
     },
     {
-      "path": "data/independent_m2/seed_141002/ssb/STATUS.json",
-      "bytes": 2657,
-      "sha256": "10a2d087312b95eaf60420df463e8989ff65152c974607f29b2fd0e83e32107b"
+      "path": "data/independent_m2/seed_141003/adam/STATUS.json",
+      "bytes": 2451,
+      "sha256": "1f074e79c63c6cca4109c4c55f2f97d78e0d33442f68499944eb054f91440361"
     },
     {
       "path": "data/independent_m2/seed_141003/adam/history.jsonl",
@@ -2482,9 +2468,9 @@
       "sha256": "2438f704cefd1ec5433d9d9ca0dc0e203ba7c881f3c31317fc9ad799b0098fde"
     },
     {
-      "path": "data/independent_m2/seed_141003/adam/STATUS.json",
-      "bytes": 2451,
-      "sha256": "1f074e79c63c6cca4109c4c55f2f97d78e0d33442f68499944eb054f91440361"
+      "path": "data/independent_m2/seed_141003/fixed/STATUS.json",
+      "bytes": 5992,
+      "sha256": "78519025b36d58b86af9ba27c654831883f593e9c9dcec36886828c198866332"
     },
     {
       "path": "data/independent_m2/seed_141003/fixed/history.jsonl",
@@ -2497,9 +2483,9 @@
       "sha256": "976cdbc7b229cc108986e5afdf0165503a501ce0b72080b537d786ecd6c5bbc7"
     },
     {
-      "path": "data/independent_m2/seed_141003/fixed/STATUS.json",
-      "bytes": 5992,
-      "sha256": "78519025b36d58b86af9ba27c654831883f593e9c9dcec36886828c198866332"
+      "path": "data/independent_m2/seed_141003/ssb/STATUS.json",
+      "bytes": 2657,
+      "sha256": "b4e4dee102823e15bcd17943abf6bc34f6ce3bc76d970d5a6b413aef2ecdd8ef"
     },
     {
       "path": "data/independent_m2/seed_141003/ssb/history.jsonl",
@@ -2512,14 +2498,14 @@
       "sha256": "5d443ca4a74f7461b2d087796626a237a08dc0671516700133c3e7e3d22ea252"
     },
     {
-      "path": "data/independent_m2/seed_141003/ssb/STATUS.json",
-      "bytes": 2657,
-      "sha256": "b4e4dee102823e15bcd17943abf6bc34f6ce3bc76d970d5a6b413aef2ecdd8ef"
-    },
-    {
       "path": "data/shocktube/ALL_NINE_FIELD_METRICS.csv",
       "bytes": 1752,
       "sha256": "c04fe4db8dfe0d38b9e719a75b4954285f8f42b62f3aea019faed6e272e454f3"
+    },
+    {
+      "path": "data/shocktube/COMPARISON_REPORT.json",
+      "bytes": 23909,
+      "sha256": "f5951de184fc0916d2cd606b6acb9b481dc562ff835f4466fe637bf4d2f249b0"
     },
     {
       "path": "data/shocktube/bgk/NATIVE_VALIDATION.json",
@@ -2570,11 +2556,6 @@
       "path": "data/shocktube/bgk_matched_fields.csv",
       "bytes": 1974439,
       "sha256": "e5dbaef26825e1066f9cc8faad396379e8227f209c541c703cc8776c02819952"
-    },
-    {
-      "path": "data/shocktube/COMPARISON_REPORT.json",
-      "bytes": 23909,
-      "sha256": "f5951de184fc0916d2cd606b6acb9b481dc562ff835f4466fe637bf4d2f249b0"
     },
     {
       "path": "data/shocktube/shakhov/NATIVE_VALIDATION.json",
@@ -2632,6 +2613,16 @@
       "sha256": "ec683c22ee3b504b7256e3c4f612f19f3261c56ae1fd2f9476661d73b4ea05dd"
     },
     {
+      "path": "data/stationary_characteristic/M12_MEDIUM_MATCHED_SAVED.npz",
+      "bytes": 847140,
+      "sha256": "9d06bf5684302340a2bdaa37620b70a2f0952b0d9e9c4d03e0080e3b3402dbd1"
+    },
+    {
+      "path": "data/stationary_characteristic/MATCHED_EXISTING_MODEL_POINTS.npz",
+      "bytes": 258482,
+      "sha256": "e9a11bafbe863e4bc78f3557d4d8eb8a1b1b3388d073e426d0b585eedc007121"
+    },
+    {
       "path": "data/stationary_characteristic/higher/char_m12_model_metric_nodes.csv",
       "bytes": 198123,
       "sha256": "5f3b4c9ab6f608916ef21d2d0250fa1f85e2efcd17ede5566509352b931b7a7b"
@@ -2677,49 +2668,34 @@
       "sha256": "66c742b5d52ef63e5a75a91284d7d84baf9e9949069c98e4cc7bfd7f6a07b38d"
     },
     {
-      "path": "data/stationary_characteristic/loss/M12_CHORD_ANALYTIC_RH_20261031.csv",
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_analytic_rh.csv",
       "bytes": 2206,
       "sha256": "21c24f0bf378697440d1c56edc854ba33b48247b1588cb26c4bbbc68466797c0"
     },
     {
-      "path": "data/stationary_characteristic/loss/M12_CHORD_FROM_M8_20261031.csv",
-      "bytes": 785,
-      "sha256": "f77e961b0fd7e28009bd7df09dbadeca3c265f88b538459b1b38605c56e319a6"
-    },
-    {
-      "path": "data/stationary_characteristic/loss/M12_SPLIT235_FROM_M8_20261031.csv",
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_basis235.csv",
       "bytes": 236,
       "sha256": "e3a9baca5597772da091264e0404c3a0142ca74c62828b41fc03f3d30e904170"
     },
     {
-      "path": "data/stationary_characteristic/loss/M7_NN15_TO_NN18_SCI.csv",
-      "bytes": 304,
-      "sha256": "5dc139a6f4980c449379918632d5ced7a867cb89da0af8d6f5cc00765ef153ca"
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_from_mach8.csv",
+      "bytes": 785,
+      "sha256": "f77e961b0fd7e28009bd7df09dbadeca3c265f88b538459b1b38605c56e319a6"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_BASIS119_FINAL.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_basis119.csv",
       "bytes": 239,
       "sha256": "d15c7400fa2b50086175c0d9610c086611e783e6ec6a9b6b2239633be56cd8d8"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_20261030.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage1.csv",
       "bytes": 1634,
       "sha256": "00b487fdc617ee7cdd00f0328e1f6f86ff069e9daddc08686975d2bf12f062fd"
     },
     {
-      "path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_STAGE2_20261030.csv",
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage2.csv",
       "bytes": 1137,
       "sha256": "d3c64907370d3e2ba64a2271b87fae386370ca9b977dab26bdcc315ae080f859"
-    },
-    {
-      "path": "data/stationary_characteristic/M12_MEDIUM_MATCHED_SAVED.npz",
-      "bytes": 847140,
-      "sha256": "9d06bf5684302340a2bdaa37620b70a2f0952b0d9e9c4d03e0080e3b3402dbd1"
-    },
-    {
-      "path": "data/stationary_characteristic/MATCHED_EXISTING_MODEL_POINTS.npz",
-      "bytes": 258482,
-      "sha256": "e9a11bafbe863e4bc78f3557d4d8eb8a1b1b3388d073e426d0b585eedc007121"
     },
     {
       "path": "data/stationary_characteristic/native_inputs/M12_SPLIT235_FROM_M8_20261031/FROZEN_CANDIDATE.json",
@@ -2737,11 +2713,6 @@
       "sha256": "4755c5fb10095cf0ebf5a0ad30a4be66c15d4adfabefbf08d106126806861313"
     },
     {
-      "path": "data/stationary_characteristic/native_inputs/M12_SPLIT235_PLAN_20261031/from_m8_SEED.npz",
-      "bytes": 154132,
-      "sha256": "b596cf499ccedbe347502ab7c893d28e3e7fa65e2245b842cb3756d1b656f14e"
-    },
-    {
       "path": "data/stationary_characteristic/native_inputs/M12_SPLIT235_PLAN_20261031/FROZEN_PROTOCOL.json",
       "bytes": 3485,
       "sha256": "a82055c554fe7bb42a1deacae0c35b71ef2e8c3fce4a56192f539ed50e7969b3"
@@ -2750,6 +2721,11 @@
       "path": "data/stationary_characteristic/native_inputs/M12_SPLIT235_PLAN_20261031/TRAIN_GEOMETRY.npz",
       "bytes": 1540,
       "sha256": "b96815af86466a344f50729ff987c244fd6aa79d336b3e7aa8ffdcb237d27bda"
+    },
+    {
+      "path": "data/stationary_characteristic/native_inputs/M12_SPLIT235_PLAN_20261031/from_m8_SEED.npz",
+      "bytes": 154132,
+      "sha256": "b596cf499ccedbe347502ab7c893d28e3e7fa65e2245b842cb3756d1b656f14e"
     },
     {
       "path": "data/stationary_characteristic/native_inputs/M8_ACTUAL3975_BASIS119_20261030/FROZEN_CANDIDATE.json",
@@ -2772,14 +2748,14 @@
       "sha256": "a61464f1ad9e00d115a6171f249c6334029b690e623d78aa38d3b2ed5cef9d53"
     },
     {
-      "path": "data/stationary_neural/M2/loss/M2_RECORDED_CURRENT.csv",
-      "bytes": 43821,
-      "sha256": "299f6ecd929384413aedc26cd9a68ef6a5482d53ccabf42ad0667ffe3d791a69"
-    },
-    {
-      "path": "data/stationary_neural/M2/loss/M2_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_a.csv",
       "bytes": 2260151,
       "sha256": "54d05267b1e5e2cd452e65d4c36418228689a4e240e319d37f732ef9ee1c3ca2"
+    },
+    {
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_b.csv",
+      "bytes": 43821,
+      "sha256": "299f6ecd929384413aedc26cd9a68ef6a5482d53ccabf42ad0667ffe3d791a69"
     },
     {
       "path": "data/stationary_neural/M2/model_profiles.npz",
@@ -2817,14 +2793,14 @@
       "sha256": "baa7f87768fd74b83961f18c003ad4c8eb2b8240528f2a3246aa01b907dfa879"
     },
     {
-      "path": "data/stationary_neural/M3/loss/M3_RECORDED_CURRENT.csv",
-      "bytes": 113560,
-      "sha256": "510085593f6c928a69eeebfb91229652d3d4fe2feff3430c3d69cd5545eccd8a"
-    },
-    {
-      "path": "data/stationary_neural/M3/loss/M3_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_a.csv",
       "bytes": 1451633,
       "sha256": "63a2e450901754e7f0c669220674ba1e57517643aef7444077f0f8564b4db453"
+    },
+    {
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_b.csv",
+      "bytes": 113560,
+      "sha256": "510085593f6c928a69eeebfb91229652d3d4fe2feff3430c3d69cd5545eccd8a"
     },
     {
       "path": "data/stationary_neural/M3/model_profiles.npz",
@@ -2862,14 +2838,14 @@
       "sha256": "a0217d2f2a148173f785d8204e1f70c96c71feac3e532cebb75441eda6fccf7d"
     },
     {
-      "path": "data/stationary_neural/M4/loss/M4_RECORDED_CURRENT.csv",
-      "bytes": 4073288,
-      "sha256": "58eb15606517236f7cbc9d1187bb806918414a8739f0a5d110b3345cb00a5850"
-    },
-    {
-      "path": "data/stationary_neural/M4/loss/M4_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_a.csv",
       "bytes": 3691771,
       "sha256": "f19873a7fbf5cffdfa5155a1d7926469422cff13d3aa94f3173cdae727368eea"
+    },
+    {
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_b.csv",
+      "bytes": 4073288,
+      "sha256": "58eb15606517236f7cbc9d1187bb806918414a8739f0a5d110b3345cb00a5850"
     },
     {
       "path": "data/stationary_neural/M4/model_profiles.npz",
@@ -2907,14 +2883,14 @@
       "sha256": "1c76a4362b0d6f12c0618bc8dfd89d1496fba0d73170866d6b26c119a3069f4f"
     },
     {
-      "path": "data/stationary_neural/M5/loss/M5_RECORDED_CURRENT.csv",
-      "bytes": 402765,
-      "sha256": "683a72409ce2ee4cd8a78d93944737c4edef308123739d56320249b3d372377f"
-    },
-    {
-      "path": "data/stationary_neural/M5/loss/M5_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_a.csv",
       "bytes": 88995,
       "sha256": "2337d7abed835c5f2e79bf574b0cbf0efc758dc4fcf5f941a5db849a2c0bfbd7"
+    },
+    {
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_b.csv",
+      "bytes": 402765,
+      "sha256": "683a72409ce2ee4cd8a78d93944737c4edef308123739d56320249b3d372377f"
     },
     {
       "path": "data/stationary_neural/M5/model_profiles.npz",
@@ -2952,19 +2928,19 @@
       "sha256": "34610e9273a675497cfa45b3a04394e024d54eab41ee95aae94bb6f8bb248ff0"
     },
     {
-      "path": "data/stationary_neural/M6/loss/M6_NN_TO_FIGURE7450.csv",
+      "path": "data/stationary_neural/M6/loss/mach6_neural_steps1001_7450.csv",
       "bytes": 405318,
       "sha256": "023f085c49266a6faab61d12a4a267be57548eb64523d196f644f59f1cf47e6c"
     },
     {
-      "path": "data/stationary_neural/M6/loss/M6_RECORDED_CURRENT.csv",
-      "bytes": 1728898,
-      "sha256": "bd39745b35e341842a303bf57d78e6c20d848df926a2628e846c4a062c3b056e"
-    },
-    {
-      "path": "data/stationary_neural/M6/loss/M6_RECORDED_OLD.csv",
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_a.csv",
       "bytes": 65197,
       "sha256": "846238cc10d0048ecbea2093c5aa5298c57a29fe079d1b1850649ecf697c019c"
+    },
+    {
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_b.csv",
+      "bytes": 1728898,
+      "sha256": "bd39745b35e341842a303bf57d78e6c20d848df926a2628e846c4a062c3b056e"
     },
     {
       "path": "data/stationary_neural/M6/model_profiles.npz",
@@ -2997,6 +2973,11 @@
       "sha256": "43d95dc96731130b3f72d9ba911bb94646a5b215512c525be713a5332764a5ba"
     },
     {
+      "path": "data/stationary_neural/M7/loss/mach7_neural_steps15_18.csv",
+      "bytes": 304,
+      "sha256": "5dc139a6f4980c449379918632d5ced7a867cb89da0af8d6f5cc00765ef153ca"
+    },
+    {
       "path": "data/stationary_neural/M7/model_fields.csv",
       "bytes": 116106,
       "sha256": "5bdfd9ee1473262a17d82535b850df4c3e398d127bde2823c27d8205ae44719e"
@@ -3022,34 +3003,24 @@
       "sha256": "0a4e6303eeb00ce235692080b3830dccc96ebbf0ab6e042559fe8c44abe054c1"
     },
     {
+      "path": "provenance/archive_integrity.json",
+      "bytes": 10094,
+      "sha256": "861a109def45800146bd7e21f39a99335652802497a4279c011b781822f31bd7"
+    },
+    {
       "path": "provenance/independent_m2_summary.json",
       "bytes": 12465,
       "sha256": "894921cd86b4a909df9ad35143d339c29a09749ac31116cb352842f48bab8f8c"
     },
     {
-      "path": "provenance/independent_m2_verification.json",
-      "bytes": 11461,
-      "sha256": "3e89bb382532778c45f0191c14cee30112c0243560cc7b600d5e723962e52135"
-    },
-    {
-      "path": "provenance/shocktube_archive_receipt.json",
-      "bytes": 9720,
-      "sha256": "6122b05e64ae732c11c74fa43d9e27133a9754191c64e1a2235de792d64c768f"
-    },
-    {
-      "path": "provenance/shocktube_verification.json",
-      "bytes": 2598,
-      "sha256": "242bbd1e3925088cf787856b91c6bb939469f4e0a2784d1c2995eefb6b7752bc"
+      "path": "provenance/loss_catalog.json",
+      "bytes": 5121,
+      "sha256": "9df361d2256cbeed5ec1784b9720adb319135e066c557dfa04d080c24a01475b"
     },
     {
       "path": "provenance/stationary_eligibility.json",
       "bytes": 22203,
       "sha256": "d5be9cea1fff96da119db723b276fe5a98023b717ec7cf0f229becd5a53ddd38"
-    },
-    {
-      "path": "README.md",
-      "bytes": 4505,
-      "sha256": "609e4950b69ce31a33e722b9218d5c811e8c5f9a2679817a53f8d316d29634c2"
     },
     {
       "path": "requirements.txt",
@@ -3078,5 +3049,33 @@
     "python_syntax": "PASS",
     "cache_removed": ".mplconfig",
     "portable_characteristic": "PASS:2 CPU algebra tests,0.022s; no scientific trajectory run"
+  },
+  "organization": {
+    "scientific_stages_preserved": [
+      "independent_m2/adam",
+      "independent_m2/ssb",
+      "independent_m2/fixed"
+    ],
+    "self_contained_kernel_copies": "Retained to preserve local imports and source-bound stage implementations. These are not alternate releases.",
+    "obsolete_operational_receipts_removed": [
+      {
+        "path": "provenance/shocktube_archive_receipt.json",
+        "bytes": 9720,
+        "sha256": "6122b05e64ae732c11c74fa43d9e27133a9754191c64e1a2235de792d64c768f"
+      },
+      {
+        "path": "provenance/shocktube_verification.json",
+        "bytes": 2598,
+        "sha256": "242bbd1e3925088cf787856b91c6bb939469f4e0a2784d1c2995eefb6b7752bc"
+      },
+      {
+        "path": "provenance/independent_m2_verification.json",
+        "bytes": 11461,
+        "sha256": "3e89bb382532778c45f0191c14cee30112c0243560cc7b600d5e723962e52135"
+      }
+    ],
+    "bytes_removed": 23779,
+    "replacement": "provenance/archive_integrity.json",
+    "loss_file_catalog": "provenance/loss_catalog.json"
   }
 }

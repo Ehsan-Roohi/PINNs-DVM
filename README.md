@@ -13,7 +13,7 @@ The reported neural calculations use kinetic equations, analytic initial and inf
 - `data`: signed physical profiles, higher moments, matched references and stage-specific optimisation histories.
 - `provenance` and `MANIFEST.json`: source identities, transformations, input bindings and release hashes.
 
-The stationary neural results cover Shakhov Mach 2–5 and BGK Mach 6–7. Characteristic BGK corrections cover Mach 7, 8 and 12. These are own-model continuation trajectories, not separate cold starts at every Mach number. The independent Mach-2 and transient experiments are identified separately.
+The stationary neural results cover Shakhov Mach 2–5 and BGK Mach 6–7. Characteristic BGK corrections cover Mach 7, 8 and 12. These are own-model continuation trajectories, not separate cold starts at every Mach number. The independent Mach-2 and shock-tube experiments are identified separately.
 
 ## Run the shock-tube calculation
 
@@ -38,6 +38,12 @@ python run_lineage.py --out YOUR_NEW_RUN_DIRECTORY --seed 141001
 ```
 
 Repeat separately for seeds 141002 and 141003. Each lineage comprises 20,000 Adam updates, 500 SSB updates and 500 SSB updates with split-half quadrature. The preserved runner requires Linux file locks and its admitted V100/A100 hardware. It does not submit cluster jobs. Objectives from different quadrature stages must not be treated as one fixed objective.
+
+## Dataset organisation
+
+Each physical problem has one current dataset directory. Mach-number directories denote different flow cases; Adam, SSB and split-half directories denote distinct optimisation stages. Recorded-history sets A and B identify separate source records, not competing releases or necessarily consecutive stages. Original counters, phase labels and objective definitions remain in the CSV files; `provenance/loss_catalog.json` maps concise filenames to their original records. Overlapping histories are not silently merged.
+
+Kernel copies inside case directories keep each source-bound calculation self-contained. `provenance/archive_integrity.json` records compact archive verification, while the manifest identifies every released file. Operational download logs and collector receipts are not distributed.
 
 ## Interpret the data
 

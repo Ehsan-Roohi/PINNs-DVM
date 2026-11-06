@@ -1,0 +1,95 @@
+{
+  "description": "Source CSV bytes, original phase labels and counters are unchanged. Sets A and B are separate recorded source histories, not necessarily consecutive or non-overlapping stages. No histories are merged.",
+  "files": [
+    {
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_a.csv",
+      "original_path": "data/stationary_neural/M2/loss/M2_RECORDED_OLD.csv",
+      "sha256": "54d05267b1e5e2cd452e65d4c36418228689a4e240e319d37f732ef9ee1c3ca2"
+    },
+    {
+      "path": "data/stationary_neural/M2/loss/mach2_recorded_history_set_b.csv",
+      "original_path": "data/stationary_neural/M2/loss/M2_RECORDED_CURRENT.csv",
+      "sha256": "299f6ecd929384413aedc26cd9a68ef6a5482d53ccabf42ad0667ffe3d791a69"
+    },
+    {
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_a.csv",
+      "original_path": "data/stationary_neural/M3/loss/M3_RECORDED_OLD.csv",
+      "sha256": "63a2e450901754e7f0c669220674ba1e57517643aef7444077f0f8564b4db453"
+    },
+    {
+      "path": "data/stationary_neural/M3/loss/mach3_recorded_history_set_b.csv",
+      "original_path": "data/stationary_neural/M3/loss/M3_RECORDED_CURRENT.csv",
+      "sha256": "510085593f6c928a69eeebfb91229652d3d4fe2feff3430c3d69cd5545eccd8a"
+    },
+    {
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_a.csv",
+      "original_path": "data/stationary_neural/M4/loss/M4_RECORDED_OLD.csv",
+      "sha256": "f19873a7fbf5cffdfa5155a1d7926469422cff13d3aa94f3173cdae727368eea"
+    },
+    {
+      "path": "data/stationary_neural/M4/loss/mach4_recorded_history_set_b.csv",
+      "original_path": "data/stationary_neural/M4/loss/M4_RECORDED_CURRENT.csv",
+      "sha256": "58eb15606517236f7cbc9d1187bb806918414a8739f0a5d110b3345cb00a5850"
+    },
+    {
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_a.csv",
+      "original_path": "data/stationary_neural/M5/loss/M5_RECORDED_OLD.csv",
+      "sha256": "2337d7abed835c5f2e79bf574b0cbf0efc758dc4fcf5f941a5db849a2c0bfbd7"
+    },
+    {
+      "path": "data/stationary_neural/M5/loss/mach5_recorded_history_set_b.csv",
+      "original_path": "data/stationary_neural/M5/loss/M5_RECORDED_CURRENT.csv",
+      "sha256": "683a72409ce2ee4cd8a78d93944737c4edef308123739d56320249b3d372377f"
+    },
+    {
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_a.csv",
+      "original_path": "data/stationary_neural/M6/loss/M6_RECORDED_OLD.csv",
+      "sha256": "846238cc10d0048ecbea2093c5aa5298c57a29fe079d1b1850649ecf697c019c"
+    },
+    {
+      "path": "data/stationary_neural/M6/loss/mach6_recorded_history_set_b.csv",
+      "original_path": "data/stationary_neural/M6/loss/M6_RECORDED_CURRENT.csv",
+      "sha256": "bd39745b35e341842a303bf57d78e6c20d848df926a2628e846c4a062c3b056e"
+    },
+    {
+      "path": "data/stationary_neural/M6/loss/mach6_neural_steps1001_7450.csv",
+      "original_path": "data/stationary_neural/M6/loss/M6_NN_TO_FIGURE7450.csv",
+      "sha256": "023f085c49266a6faab61d12a4a267be57548eb64523d196f644f59f1cf47e6c"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_analytic_rh.csv",
+      "original_path": "data/stationary_characteristic/loss/M12_CHORD_ANALYTIC_RH_20261031.csv",
+      "sha256": "21c24f0bf378697440d1c56edc854ba33b48247b1588cb26c4bbbc68466797c0"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_from_mach8.csv",
+      "original_path": "data/stationary_characteristic/loss/M12_CHORD_FROM_M8_20261031.csv",
+      "sha256": "f77e961b0fd7e28009bd7df09dbadeca3c265f88b538459b1b38605c56e319a6"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach12_characteristic_basis235.csv",
+      "original_path": "data/stationary_characteristic/loss/M12_SPLIT235_FROM_M8_20261031.csv",
+      "sha256": "e3a9baca5597772da091264e0404c3a0142ca74c62828b41fc03f3d30e904170"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_basis119.csv",
+      "original_path": "data/stationary_characteristic/loss/M8_ACTUAL3975_BASIS119_FINAL.csv",
+      "sha256": "d15c7400fa2b50086175c0d9610c086611e783e6ec6a9b6b2239633be56cd8d8"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage1.csv",
+      "original_path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_20261030.csv",
+      "sha256": "00b487fdc617ee7cdd00f0328e1f6f86ff069e9daddc08686975d2bf12f062fd"
+    },
+    {
+      "path": "data/stationary_characteristic/loss/mach8_characteristic_stage2.csv",
+      "original_path": "data/stationary_characteristic/loss/M8_ACTUAL3975_CHARACTERISTIC_JOINT_STAGE2_20261030.csv",
+      "sha256": "d3c64907370d3e2ba64a2271b87fae386370ca9b977dab26bdcc315ae080f859"
+    },
+    {
+      "path": "data/stationary_neural/M7/loss/mach7_neural_steps15_18.csv",
+      "original_path": "data/stationary_characteristic/loss/M7_NN15_TO_NN18_SCI.csv",
+      "sha256": "5dc139a6f4980c449379918632d5ced7a867cb89da0af8d6f5cc00765ef153ca"
+    }
+  ]
+}
