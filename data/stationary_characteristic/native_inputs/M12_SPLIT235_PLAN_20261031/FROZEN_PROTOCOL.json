@@ -1,0 +1,85 @@
+{
+  "utc": "2026-10-31T01:51:03.769433+00:00",
+  "intent": "Two distinct capped stages: <=2 macro corrections, freeze, then read-only full3level qualification; no reference values",
+  "model": {
+    "mach": 12,
+    "Pr": 1,
+    "tau": 1,
+    "gamma": 1.6666666666666667,
+    "RH": {
+      "rho1": 1.0,
+      "u1": 15.491933384829668,
+      "T1": 1.0,
+      "rho2": 3.9183673469387754,
+      "u2": 3.953670499253405,
+      "T2": 45.873697916666664
+    }
+  },
+  "arms": [
+    "from_m8"
+  ],
+  "primary_arm": "from_m8; no endpoint selection using DVM",
+  "transfer": "RH-normalized density/temperature shapes of OWN frozenMach8 source; x scaled by u1ratio1.5; rho*u=J12,phase analytic; no DVM labels/scales/weights",
+  "analytic_initializer": "RH Maxwellian mixture moments, width=u1*tau selected analytically; no NNdata",
+  "shared_algorithm": {
+    "macro_basis": 235,
+    "parameters": 469,
+    "source_nodes": 2401,
+    "refinement_nodes": 4801,
+    "L": 180,
+    "C": 72,
+    "primary": [
+      768,
+      176
+    ],
+    "refined": [
+      960,
+      216
+    ],
+    "cutoff_test": [
+      1080,
+      240,
+      81.0
+    ],
+    "residual_points": "fixed64 analyticGL8 pattern scaled by u1ratio; no observed reference positions",
+    "maximum_accepted_updates": 2,
+    "per_step_du_over_u1_dT_over_T2_limit": 0.005,
+    "Armijo_halvings": 8,
+    "wall_seconds_per_arm": 900,
+    "CPU_threads_per_arm": 4,
+    "cost_admission": "Correction stage: one REMAINING tangent+4reducedprimals,25percentmargin+60s must fit remaining900s. Validation independently capped900s.",
+    "stopping": "lastaccepted state, numericalsmallstep/Armijostall/max16, never convergence inferred",
+    "Jacobian_refresh_iterations": [
+      1,
+      2
+    ],
+    "derivative_test": "h1e-4 analyticradial FD and h3e-5 independent fullfinitequadrature FD, each<1e-5; initial/fullfinal moment parity required",
+    "gate_reuse": "Exact input/source/math AST identity plus original235 basis independentFD/parity PASS; no duplicate numerical fixtures"
+  },
+  "necessary_limits": {
+    "flux_max": 0.001,
+    "projection_max": 0.001,
+    "kinetic": 1e-06,
+    "tail": 1e-06,
+    "boundary": 1e-06,
+    "phase": 1e-06,
+    "quadrature": 0.0001
+  },
+  "boundary_extra_limit": 1e-06,
+  "comparison_firewall": "reference INPUTS/scripts/file names allowed; NO Mach12profiles/checkpoints/microanchors/NPZ solution arrays until BOTH arms are terminal and their field choice is fixed by physics",
+  "reference_inputs_only_inventory": "[private-location:31d12ab9a4a4]",
+  "publication_scope": "hybrid PINN/characteristic correction for1D ordinaryBGK, not zero-shot prediction, not originalNNtraining or general2Dsolver",
+  "efficiency_accounting": "report incremental Mach12 costs; historical Mach8 NN/correction cost separate, never claim free seed or total speedup without evidence",
+  "native_production_HOLDs_unchanged": true,
+  "new_GPU_Slurm_jobs": 0,
+  "DVM10_needed": false,
+  "large_outputs": "[private-location:56f3e21b3867]",
+  "parent_candidate_SHA": "804a80fe876663dbf9de023a1e829f41e8aa564cea6f29224db89bd53244fd0f",
+  "ablation": "Original119basis paired-arm outcomes reported separately; refined primary not matched to235 analytic arm",
+  "stage_budgets": {
+    "correction_seconds": 900,
+    "independent_three_level_validation_seconds": 900,
+    "total_new_two_stage_wall_cap": 1800,
+    "no_automatic_extension": true
+  }
+}

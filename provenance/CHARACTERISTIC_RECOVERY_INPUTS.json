@@ -1,0 +1,124 @@
+{
+  "scope": "Original native entry points require these immutable predecessor/geometry inputs; source-only publication does not claim bitwise trajectory replay. Portable engine accepts own x/fields NPZ without checkpoint loading.",
+  "inputs": [
+    {
+      "relative_to_historical_workdir": "M8_ACTUAL3975_MACRO_INPUT_20261030/FROZEN_MACROS.npz",
+      "sha256": "e1a5273d7ab5f7cb8a2ac857a804ea13ff7ed3dd59204accad0c04813f44cd2d",
+      "bytes": 19732,
+      "included": false,
+      "format": "npz"
+    },
+    {
+      "relative_to_historical_workdir": "M8_ACTUAL3975_MACRO_INPUT_20261030/INTENT.json",
+      "sha256": "9dd0f0861bbdd615ddcfe22490b1bdf51302eb2d728853f10471109ae6c0345d",
+      "bytes": 580,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_ACTUAL3975_MACRO_INPUT_20261030/RESULT.json",
+      "sha256": "c3818fa4044c3469aa944285f433c2f9694bf77b7b0332ac4256fd5b95623d8c",
+      "bytes": 763,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_ORIGINAL3975_MODEL_ONLY_20261030/INTENT.json",
+      "sha256": "70dc30c934e339594cf6d4c2b2168abda96785480732435fd8dcddb0280618dd",
+      "bytes": 578,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_ORIGINAL3975_MODEL_ONLY_20261030/NN_MODEL_ONLY.pt",
+      "sha256": "2e5d47b9091d074619a6e2b006bcf110feb73af464c8cbee150e991196b8d2f3",
+      "bytes": 75043,
+      "included": false,
+      "format": "torch checkpoint, load only trusted original"
+    },
+    {
+      "relative_to_historical_workdir": "M8_ORIGINAL3975_MODEL_ONLY_20261030/RESULT.json",
+      "sha256": "cea285c697d7c4b5f8f362dff1771208d6abf38e17c25ce9f71ff90ec78b7c51",
+      "bytes": 2204,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_PORTABLE_FIELD_20261030/COLD_GOLDEN_FIXTURE.npz",
+      "sha256": "3e31ce7419c0cd608167dcb9517190c5c16789386ec436128c4877f7e8930749",
+      "bytes": 440628,
+      "included": false,
+      "format": "npz"
+    },
+    {
+      "relative_to_historical_workdir": "M8_PORTABLE_FIELD_20261030/COLD_PROCESS.json",
+      "sha256": "334448e495d5f6b3048788a435f72b00b216af093705f7071ec29cbf8a1cf5a4",
+      "bytes": 702,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_PORTABLE_FIELD_20261030/COLD_RESULT.json",
+      "sha256": "49addbbdbb13a3a234c50ef62d61027f1ded99bb2c6231ed3ac1cc2638b73945",
+      "bytes": 659,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M8_PORTABLE_FIELD_20261030/FROZEN_FIELD_STATE.npz",
+      "sha256": "2b9c5bc31faf69ad8a3e43770ed5b64ef1c2b18f473cb95842f06548a0064f0a",
+      "bytes": 105586,
+      "included": false,
+      "format": "npz"
+    },
+    {
+      "relative_to_historical_workdir": "M8_PORTABLE_FIELD_20261030/METADATA.json",
+      "sha256": "fe74f27b99bbb5e9ea8a6994cc246d72d15195b28df343d57f657838a07a78c6",
+      "bytes": 781,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/FIXED_GEOMETRY.npz",
+      "sha256": "4755c5fb10095cf0ebf5a0ad30a4be66c15d4adfabefbf08d106126806861313",
+      "bytes": 60270,
+      "included": false,
+      "format": "npz"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/from_m8_SEED.npz",
+      "sha256": "b596cf499ccedbe347502ab7c893d28e3e7fa65e2245b842cb3756d1b656f14e",
+      "bytes": 154132,
+      "included": false,
+      "format": "npz"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/FROZEN_PROTOCOL.json",
+      "sha256": "7c06aeae793de7cac9c77052121f8034ce30fa41c5d82d08de15e25584907afe",
+      "bytes": 3596,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/INPUT_PINS.json",
+      "sha256": "a81327808ce840d85fc7d7ced06521b29ded4f4ab0d5ccd5320b91454fe47aaa",
+      "bytes": 2413,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/PREPARATION_RECEIPT.json",
+      "sha256": "94fef120a1fa51df4372c3112b626fa74aea2e46b6a41af4319be9c650fdbd64",
+      "bytes": 324,
+      "included": false,
+      "format": "json"
+    },
+    {
+      "relative_to_historical_workdir": "M12_SPLIT235_PLAN_20261031/TRAIN_GEOMETRY.npz",
+      "sha256": "b96815af86466a344f50729ff987c244fd6aa79d336b3e7aa8ffdcb237d27bda",
+      "bytes": 1540,
+      "included": false,
+      "format": "npz"
+    }
+  ]
+}

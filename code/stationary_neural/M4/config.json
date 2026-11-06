@@ -1,0 +1,21 @@
+{
+  "L": 60,
+  "nx": 128,
+  "chunk_size": 8,
+  "steps": 500,
+  "wall_seconds": 1200,
+  "checkpoint_every": 25,
+  "validation_every": 25,
+  "c1": 0.0001,
+  "c2": 0.9,
+  "max_evals": 40,
+  "max_step": 10,
+  "initial_step": 1,
+  "gtol": 1e-12,
+  "input_checkpoint_sha256": "a611140f140ef8540079ac021b48e5121e779f5679753a44247298857658b6f2",
+  "input_signature": "664cbcba611ddba27f0e99203e70e03022bd1976f09340829d6b078948166c35",
+  "phase": "Mach4 continuation from own Mach3 model only, fresh denseH and fresh frozen objective; not independentseed",
+  "resolution_every": 50,
+  "resolution_limit": 0.0001,
+  "input_step": 500
+}

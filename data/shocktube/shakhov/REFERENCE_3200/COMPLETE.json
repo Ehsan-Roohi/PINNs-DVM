@@ -1,0 +1,23 @@
+{
+  "completed": true,
+  "test_only": false,
+  "step": 1120,
+  "nsteps": 1120,
+  "dt": 1.785714285714286e-05,
+  "elapsed": 87.52048621000722,
+  "f_min": -1.5542769828491266e-19,
+  "negative_count": 453928,
+  "negative_mass": 2.6183603506239745e-20,
+  "min_target": -1.9699179738424676e-12,
+  "max_collision_invariant_defect": 4.774227400281004e-11,
+  "convergence_certified": false,
+  "no_clipping_of_solution": true,
+  "post_solve_only": true,
+  "signature": "dbb5c9ce579cd1b65d49b29404c402c6b96de24aa38cf34181fed870e2e63e13",
+  "peak_cuda_bytes": 2064279552,
+  "files": {
+    "FIELDS.npz": "23ac46233b3b5a7c3b504c2d39d5dcb233ebdaa7cc82d68c76b548f9b71c6bea",
+    "CHECKPOINT.npz": "aaa2b0cd15978f7946b161cac61cb32244a747360f57068f1bd072f5b7abd0f4",
+    "FULLSTATE.npz": "3a5e6a356583ab7f4b5a94ae0479ca94416e5e14346bfee4e0de6154dfc299ff"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "L": 45,
+  "nx": 128,
+  "chunk_size": 8,
+  "steps": 500,
+  "wall_seconds": 1200,
+  "checkpoint_every": 25,
+  "validation_every": 25,
+  "c1": 0.0001,
+  "c2": 0.9,
+  "max_evals": 40,
+  "max_step": 10,
+  "initial_step": 1,
+  "gtol": 1e-12,
+  "input_checkpoint_sha256": "3e53e0e3c77e14cf454fc38bba751086e0005512ce9eed5479fca89a12e164fc",
+  "input_signature": "2a1429ba53f1715c8ec949a54a88c99f1038c395bd8828cdd73719a2567c55dd",
+  "phase": "Mach3 continuation from own Mach2 fixed-gate model only, fresh denseH and fresh frozen objective; not independentseed",
+  "resolution_every": 50,
+  "resolution_limit": 0.0001,
+  "input_step": 2044
+}

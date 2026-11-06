@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETE",
+  "reason": null,
+  "ssb_steps": 300,
+  "additional_accepted": 200,
+  "target_ssb_steps": 300,
+  "checkpoint_sha": "cd8dd24c4e57ff57e1905b2c4f44a3cd458f3ebcac23ef6e7c559ef34ed764d0",
+  "parent_sha256": "6a1cdc9c1013e4f582e9f14b551503383d30f2ba157486883e1fc0386d458ee0",
+  "no_reference_access": true,
+  "continuation_deadline_epoch": 1793924640.8594298
+}

@@ -1,0 +1,6502 @@
+[
+  {
+    "stage": "adam",
+    "step": 1,
+    "recorded_loss": 0.001789478304775019
+  },
+  {
+    "stage": "adam",
+    "step": 2,
+    "recorded_loss": 0.002150689701415565
+  },
+  {
+    "stage": "adam",
+    "step": 3,
+    "recorded_loss": 0.002105414255025601
+  },
+  {
+    "stage": "adam",
+    "step": 4,
+    "recorded_loss": 0.001344727078128024
+  },
+  {
+    "stage": "adam",
+    "step": 5,
+    "recorded_loss": 0.0014501113149063443
+  },
+  {
+    "stage": "adam",
+    "step": 6,
+    "recorded_loss": 0.0014724263809267565
+  },
+  {
+    "stage": "adam",
+    "step": 7,
+    "recorded_loss": 0.000746914137402545
+  },
+  {
+    "stage": "adam",
+    "step": 8,
+    "recorded_loss": 0.000983424383652194
+  },
+  {
+    "stage": "adam",
+    "step": 9,
+    "recorded_loss": 0.001227081640899456
+  },
+  {
+    "stage": "adam",
+    "step": 10,
+    "recorded_loss": 0.0010614405901926377
+  },
+  {
+    "stage": "adam",
+    "step": 11,
+    "recorded_loss": 0.0008547997831790961
+  },
+  {
+    "stage": "adam",
+    "step": 12,
+    "recorded_loss": 0.0007351881090941661
+  },
+  {
+    "stage": "adam",
+    "step": 13,
+    "recorded_loss": 0.0012904803252663949
+  },
+  {
+    "stage": "adam",
+    "step": 14,
+    "recorded_loss": 0.0012141677353028194
+  },
+  {
+    "stage": "adam",
+    "step": 15,
+    "recorded_loss": 0.0007527867734390954
+  },
+  {
+    "stage": "adam",
+    "step": 16,
+    "recorded_loss": 0.0010226060893125965
+  },
+  {
+    "stage": "adam",
+    "step": 17,
+    "recorded_loss": 0.001385480957374166
+  },
+  {
+    "stage": "adam",
+    "step": 18,
+    "recorded_loss": 0.0014210285666514208
+  },
+  {
+    "stage": "adam",
+    "step": 19,
+    "recorded_loss": 0.0006762938561944018
+  },
+  {
+    "stage": "adam",
+    "step": 20,
+    "recorded_loss": 0.0010555628642079215
+  },
+  {
+    "stage": "adam",
+    "step": 21,
+    "recorded_loss": 0.0009207372504936343
+  },
+  {
+    "stage": "adam",
+    "step": 22,
+    "recorded_loss": 0.0015026649798830557
+  },
+  {
+    "stage": "adam",
+    "step": 23,
+    "recorded_loss": 0.0013538922922525162
+  },
+  {
+    "stage": "adam",
+    "step": 24,
+    "recorded_loss": 0.0009831183877915504
+  },
+  {
+    "stage": "adam",
+    "step": 25,
+    "recorded_loss": 0.0007935202502524729
+  },
+  {
+    "stage": "adam",
+    "step": 26,
+    "recorded_loss": 0.0011400139504875327
+  },
+  {
+    "stage": "adam",
+    "step": 27,
+    "recorded_loss": 0.0012562035715808705
+  },
+  {
+    "stage": "adam",
+    "step": 28,
+    "recorded_loss": 0.0011240409781245796
+  },
+  {
+    "stage": "adam",
+    "step": 29,
+    "recorded_loss": 0.001112426885360106
+  },
+  {
+    "stage": "adam",
+    "step": 30,
+    "recorded_loss": 0.0006056667065373318
+  },
+  {
+    "stage": "adam",
+    "step": 31,
+    "recorded_loss": 0.0009693240512069989
+  },
+  {
+    "stage": "adam",
+    "step": 32,
+    "recorded_loss": 0.0009999193301603348
+  },
+  {
+    "stage": "adam",
+    "step": 33,
+    "recorded_loss": 0.0009283852982812734
+  },
+  {
+    "stage": "adam",
+    "step": 34,
+    "recorded_loss": 0.0011066465554261944
+  },
+  {
+    "stage": "adam",
+    "step": 35,
+    "recorded_loss": 0.001031427167350395
+  },
+  {
+    "stage": "adam",
+    "step": 36,
+    "recorded_loss": 0.0010042540527771804
+  },
+  {
+    "stage": "adam",
+    "step": 37,
+    "recorded_loss": 0.0009343920862762407
+  },
+  {
+    "stage": "adam",
+    "step": 38,
+    "recorded_loss": 0.0010719255502095028
+  },
+  {
+    "stage": "adam",
+    "step": 39,
+    "recorded_loss": 0.0009098706864377571
+  },
+  {
+    "stage": "adam",
+    "step": 40,
+    "recorded_loss": 0.0006024413614224714
+  },
+  {
+    "stage": "adam",
+    "step": 41,
+    "recorded_loss": 0.0008765648632707478
+  },
+  {
+    "stage": "adam",
+    "step": 42,
+    "recorded_loss": 0.0010008583677170453
+  },
+  {
+    "stage": "adam",
+    "step": 43,
+    "recorded_loss": 0.000872781780851749
+  },
+  {
+    "stage": "adam",
+    "step": 44,
+    "recorded_loss": 0.0011232370880945993
+  },
+  {
+    "stage": "adam",
+    "step": 45,
+    "recorded_loss": 0.001106666314122755
+  },
+  {
+    "stage": "adam",
+    "step": 46,
+    "recorded_loss": 0.0011662991789086375
+  },
+  {
+    "stage": "adam",
+    "step": 47,
+    "recorded_loss": 0.0009014026575868627
+  },
+  {
+    "stage": "adam",
+    "step": 48,
+    "recorded_loss": 0.0006895592063893757
+  },
+  {
+    "stage": "adam",
+    "step": 49,
+    "recorded_loss": 0.0007472101374755044
+  },
+  {
+    "stage": "adam",
+    "step": 50,
+    "recorded_loss": 0.0006141405840602845
+  },
+  {
+    "stage": "adam",
+    "step": 51,
+    "recorded_loss": 0.000978672439068515
+  },
+  {
+    "stage": "adam",
+    "step": 52,
+    "recorded_loss": 0.0010332443491189013
+  },
+  {
+    "stage": "adam",
+    "step": 53,
+    "recorded_loss": 0.0009556714480901015
+  },
+  {
+    "stage": "adam",
+    "step": 54,
+    "recorded_loss": 0.0007531910269226143
+  },
+  {
+    "stage": "adam",
+    "step": 55,
+    "recorded_loss": 0.0007440648212065211
+  },
+  {
+    "stage": "adam",
+    "step": 56,
+    "recorded_loss": 0.0008589949909708653
+  },
+  {
+    "stage": "adam",
+    "step": 57,
+    "recorded_loss": 0.0007093638666203484
+  },
+  {
+    "stage": "adam",
+    "step": 58,
+    "recorded_loss": 0.0008446148629928628
+  },
+  {
+    "stage": "adam",
+    "step": 59,
+    "recorded_loss": 0.0007325818130956852
+  },
+  {
+    "stage": "adam",
+    "step": 60,
+    "recorded_loss": 0.0008523945658227426
+  },
+  {
+    "stage": "adam",
+    "step": 61,
+    "recorded_loss": 0.0009288451306956161
+  },
+  {
+    "stage": "adam",
+    "step": 62,
+    "recorded_loss": 0.0008330337481859208
+  },
+  {
+    "stage": "adam",
+    "step": 63,
+    "recorded_loss": 0.0009198526610836102
+  },
+  {
+    "stage": "adam",
+    "step": 64,
+    "recorded_loss": 0.0007486256558619044
+  },
+  {
+    "stage": "adam",
+    "step": 65,
+    "recorded_loss": 0.0006376756105210377
+  },
+  {
+    "stage": "adam",
+    "step": 66,
+    "recorded_loss": 0.0009547285072472111
+  },
+  {
+    "stage": "adam",
+    "step": 67,
+    "recorded_loss": 0.0012778105297225164
+  },
+  {
+    "stage": "adam",
+    "step": 68,
+    "recorded_loss": 0.0005669318130256838
+  },
+  {
+    "stage": "adam",
+    "step": 69,
+    "recorded_loss": 0.000529871198272428
+  },
+  {
+    "stage": "adam",
+    "step": 70,
+    "recorded_loss": 0.0005960311072380433
+  },
+  {
+    "stage": "adam",
+    "step": 71,
+    "recorded_loss": 0.0007538953841995602
+  },
+  {
+    "stage": "adam",
+    "step": 72,
+    "recorded_loss": 0.0008422964287359572
+  },
+  {
+    "stage": "adam",
+    "step": 73,
+    "recorded_loss": 0.0008576218597953237
+  },
+  {
+    "stage": "adam",
+    "step": 74,
+    "recorded_loss": 0.0009409365722674389
+  },
+  {
+    "stage": "adam",
+    "step": 75,
+    "recorded_loss": 0.0010304894995903932
+  },
+  {
+    "stage": "adam",
+    "step": 76,
+    "recorded_loss": 0.0008829970445325622
+  },
+  {
+    "stage": "adam",
+    "step": 77,
+    "recorded_loss": 0.0013728807764727357
+  },
+  {
+    "stage": "adam",
+    "step": 78,
+    "recorded_loss": 0.0005772918418283273
+  },
+  {
+    "stage": "adam",
+    "step": 79,
+    "recorded_loss": 0.0007560194320860575
+  },
+  {
+    "stage": "adam",
+    "step": 80,
+    "recorded_loss": 0.0007535847546239552
+  },
+  {
+    "stage": "adam",
+    "step": 81,
+    "recorded_loss": 0.0006127156839480998
+  },
+  {
+    "stage": "adam",
+    "step": 82,
+    "recorded_loss": 0.0009250409962449466
+  },
+  {
+    "stage": "adam",
+    "step": 83,
+    "recorded_loss": 0.0011503486832798067
+  },
+  {
+    "stage": "adam",
+    "step": 84,
+    "recorded_loss": 0.001176668944967134
+  },
+  {
+    "stage": "adam",
+    "step": 85,
+    "recorded_loss": 0.0009438284213314182
+  },
+  {
+    "stage": "adam",
+    "step": 86,
+    "recorded_loss": 0.0005523373506339017
+  },
+  {
+    "stage": "adam",
+    "step": 87,
+    "recorded_loss": 0.000887116014241812
+  },
+  {
+    "stage": "adam",
+    "step": 88,
+    "recorded_loss": 0.0008508244773492706
+  },
+  {
+    "stage": "adam",
+    "step": 89,
+    "recorded_loss": 0.0010059957341872492
+  },
+  {
+    "stage": "adam",
+    "step": 90,
+    "recorded_loss": 0.0009267306465281176
+  },
+  {
+    "stage": "adam",
+    "step": 91,
+    "recorded_loss": 0.0007891410289383742
+  },
+  {
+    "stage": "adam",
+    "step": 92,
+    "recorded_loss": 0.0007325129728520115
+  },
+  {
+    "stage": "adam",
+    "step": 93,
+    "recorded_loss": 0.0015817961813897356
+  },
+  {
+    "stage": "adam",
+    "step": 94,
+    "recorded_loss": 0.0008909982987945045
+  },
+  {
+    "stage": "adam",
+    "step": 95,
+    "recorded_loss": 0.0011610709858393495
+  },
+  {
+    "stage": "adam",
+    "step": 96,
+    "recorded_loss": 0.0007903553118777305
+  },
+  {
+    "stage": "adam",
+    "step": 97,
+    "recorded_loss": 0.000945379781942765
+  },
+  {
+    "stage": "adam",
+    "step": 98,
+    "recorded_loss": 0.0008308579780154751
+  },
+  {
+    "stage": "adam",
+    "step": 99,
+    "recorded_loss": 0.0007097571593702903
+  },
+  {
+    "stage": "adam",
+    "step": 100,
+    "recorded_loss": 0.0006101811706753205
+  },
+  {
+    "stage": "adam",
+    "step": 101,
+    "recorded_loss": 0.00055682132632125
+  },
+  {
+    "stage": "adam",
+    "step": 102,
+    "recorded_loss": 0.0005193567186729464
+  },
+  {
+    "stage": "adam",
+    "step": 103,
+    "recorded_loss": 0.0006612764737968245
+  },
+  {
+    "stage": "adam",
+    "step": 104,
+    "recorded_loss": 0.000817577390668739
+  },
+  {
+    "stage": "adam",
+    "step": 105,
+    "recorded_loss": 0.0008612403011244471
+  },
+  {
+    "stage": "adam",
+    "step": 106,
+    "recorded_loss": 0.001247915315271545
+  },
+  {
+    "stage": "adam",
+    "step": 107,
+    "recorded_loss": 0.0010101143865369317
+  },
+  {
+    "stage": "adam",
+    "step": 108,
+    "recorded_loss": 0.000604392572656427
+  },
+  {
+    "stage": "adam",
+    "step": 109,
+    "recorded_loss": 0.0009081556994921737
+  },
+  {
+    "stage": "adam",
+    "step": 110,
+    "recorded_loss": 0.000884745020373291
+  },
+  {
+    "stage": "adam",
+    "step": 111,
+    "recorded_loss": 0.0008401307398705244
+  },
+  {
+    "stage": "adam",
+    "step": 112,
+    "recorded_loss": 0.001105683617696195
+  },
+  {
+    "stage": "adam",
+    "step": 113,
+    "recorded_loss": 0.0008889721996672467
+  },
+  {
+    "stage": "adam",
+    "step": 114,
+    "recorded_loss": 0.0010722461452022816
+  },
+  {
+    "stage": "adam",
+    "step": 115,
+    "recorded_loss": 0.0007752569504434448
+  },
+  {
+    "stage": "adam",
+    "step": 116,
+    "recorded_loss": 0.0008302120282460124
+  },
+  {
+    "stage": "adam",
+    "step": 117,
+    "recorded_loss": 0.000995174285477594
+  },
+  {
+    "stage": "adam",
+    "step": 118,
+    "recorded_loss": 0.0007875693947094572
+  },
+  {
+    "stage": "adam",
+    "step": 119,
+    "recorded_loss": 0.0012976113364989799
+  },
+  {
+    "stage": "adam",
+    "step": 120,
+    "recorded_loss": 0.0011673651565063728
+  },
+  {
+    "stage": "adam",
+    "step": 121,
+    "recorded_loss": 0.0013801404900968257
+  },
+  {
+    "stage": "adam",
+    "step": 122,
+    "recorded_loss": 0.0008564839640957981
+  },
+  {
+    "stage": "adam",
+    "step": 123,
+    "recorded_loss": 0.0008861116065051142
+  },
+  {
+    "stage": "adam",
+    "step": 124,
+    "recorded_loss": 0.001137979449039477
+  },
+  {
+    "stage": "adam",
+    "step": 125,
+    "recorded_loss": 0.0006326015933548429
+  },
+  {
+    "stage": "adam",
+    "step": 126,
+    "recorded_loss": 0.0009295976849557071
+  },
+  {
+    "stage": "adam",
+    "step": 127,
+    "recorded_loss": 0.0009731846925147129
+  },
+  {
+    "stage": "adam",
+    "step": 128,
+    "recorded_loss": 0.0011947701067984377
+  },
+  {
+    "stage": "adam",
+    "step": 129,
+    "recorded_loss": 0.00122744582047587
+  },
+  {
+    "stage": "adam",
+    "step": 130,
+    "recorded_loss": 0.0009161947496679959
+  },
+  {
+    "stage": "adam",
+    "step": 131,
+    "recorded_loss": 0.001073929240417781
+  },
+  {
+    "stage": "adam",
+    "step": 132,
+    "recorded_loss": 0.0006801971951072527
+  },
+  {
+    "stage": "adam",
+    "step": 133,
+    "recorded_loss": 0.001018925736746124
+  },
+  {
+    "stage": "adam",
+    "step": 134,
+    "recorded_loss": 0.0009540833259974421
+  },
+  {
+    "stage": "adam",
+    "step": 135,
+    "recorded_loss": 0.001386641304134146
+  },
+  {
+    "stage": "adam",
+    "step": 136,
+    "recorded_loss": 0.0007633991731829918
+  },
+  {
+    "stage": "adam",
+    "step": 137,
+    "recorded_loss": 0.0011011657584631919
+  },
+  {
+    "stage": "adam",
+    "step": 138,
+    "recorded_loss": 0.0007325267540030384
+  },
+  {
+    "stage": "adam",
+    "step": 139,
+    "recorded_loss": 0.000601920109977527
+  },
+  {
+    "stage": "adam",
+    "step": 140,
+    "recorded_loss": 0.0009576683239287029
+  },
+  {
+    "stage": "adam",
+    "step": 141,
+    "recorded_loss": 0.0009361561260695969
+  },
+  {
+    "stage": "adam",
+    "step": 142,
+    "recorded_loss": 0.0007358083301545078
+  },
+  {
+    "stage": "adam",
+    "step": 143,
+    "recorded_loss": 0.0008845669256074427
+  },
+  {
+    "stage": "adam",
+    "step": 144,
+    "recorded_loss": 0.0008944923087086255
+  },
+  {
+    "stage": "adam",
+    "step": 145,
+    "recorded_loss": 0.0005976442817491119
+  },
+  {
+    "stage": "adam",
+    "step": 146,
+    "recorded_loss": 0.00085515378628114
+  },
+  {
+    "stage": "adam",
+    "step": 147,
+    "recorded_loss": 0.0007306282330748069
+  },
+  {
+    "stage": "adam",
+    "step": 148,
+    "recorded_loss": 0.0009581232204125779
+  },
+  {
+    "stage": "adam",
+    "step": 149,
+    "recorded_loss": 0.0009587061486126876
+  },
+  {
+    "stage": "adam",
+    "step": 150,
+    "recorded_loss": 0.000861348432006926
+  },
+  {
+    "stage": "adam",
+    "step": 151,
+    "recorded_loss": 0.0004913891009614282
+  },
+  {
+    "stage": "adam",
+    "step": 152,
+    "recorded_loss": 0.000574011290841359
+  },
+  {
+    "stage": "adam",
+    "step": 153,
+    "recorded_loss": 0.0011921589431382893
+  },
+  {
+    "stage": "adam",
+    "step": 154,
+    "recorded_loss": 0.0009591653023282132
+  },
+  {
+    "stage": "adam",
+    "step": 155,
+    "recorded_loss": 0.0008808821643832719
+  },
+  {
+    "stage": "adam",
+    "step": 156,
+    "recorded_loss": 0.0009629217906729318
+  },
+  {
+    "stage": "adam",
+    "step": 157,
+    "recorded_loss": 0.000441796717432924
+  },
+  {
+    "stage": "adam",
+    "step": 158,
+    "recorded_loss": 0.0011116855604368036
+  },
+  {
+    "stage": "adam",
+    "step": 159,
+    "recorded_loss": 0.0012178866994364598
+  },
+  {
+    "stage": "adam",
+    "step": 160,
+    "recorded_loss": 0.0009804594032123903
+  },
+  {
+    "stage": "adam",
+    "step": 161,
+    "recorded_loss": 0.001157396447143419
+  },
+  {
+    "stage": "adam",
+    "step": 162,
+    "recorded_loss": 0.0010357294262023048
+  },
+  {
+    "stage": "adam",
+    "step": 163,
+    "recorded_loss": 0.0012407761752023126
+  },
+  {
+    "stage": "adam",
+    "step": 164,
+    "recorded_loss": 0.0010482443363514773
+  },
+  {
+    "stage": "adam",
+    "step": 165,
+    "recorded_loss": 0.0008916478771470573
+  },
+  {
+    "stage": "adam",
+    "step": 166,
+    "recorded_loss": 0.0007397335957288733
+  },
+  {
+    "stage": "adam",
+    "step": 167,
+    "recorded_loss": 0.0006851529977333773
+  },
+  {
+    "stage": "adam",
+    "step": 168,
+    "recorded_loss": 0.0011113400444857423
+  },
+  {
+    "stage": "adam",
+    "step": 169,
+    "recorded_loss": 0.0009789562190204604
+  },
+  {
+    "stage": "adam",
+    "step": 170,
+    "recorded_loss": 0.0007857749179329201
+  },
+  {
+    "stage": "adam",
+    "step": 171,
+    "recorded_loss": 0.0012286331649019031
+  },
+  {
+    "stage": "adam",
+    "step": 172,
+    "recorded_loss": 0.0006349586835555423
+  },
+  {
+    "stage": "adam",
+    "step": 173,
+    "recorded_loss": 0.0008176404453785172
+  },
+  {
+    "stage": "adam",
+    "step": 174,
+    "recorded_loss": 0.0006942310343281589
+  },
+  {
+    "stage": "adam",
+    "step": 175,
+    "recorded_loss": 0.0007759709610599078
+  },
+  {
+    "stage": "adam",
+    "step": 176,
+    "recorded_loss": 0.0010552040701281768
+  },
+  {
+    "stage": "adam",
+    "step": 177,
+    "recorded_loss": 0.0011733089267569744
+  },
+  {
+    "stage": "adam",
+    "step": 178,
+    "recorded_loss": 0.0006867594548434488
+  },
+  {
+    "stage": "adam",
+    "step": 179,
+    "recorded_loss": 0.0007102013414835894
+  },
+  {
+    "stage": "adam",
+    "step": 180,
+    "recorded_loss": 0.001011741430326201
+  },
+  {
+    "stage": "adam",
+    "step": 181,
+    "recorded_loss": 0.0009878052494731618
+  },
+  {
+    "stage": "adam",
+    "step": 182,
+    "recorded_loss": 0.0010047812021905273
+  },
+  {
+    "stage": "adam",
+    "step": 183,
+    "recorded_loss": 0.0008324409677395081
+  },
+  {
+    "stage": "adam",
+    "step": 184,
+    "recorded_loss": 0.0008897514426128627
+  },
+  {
+    "stage": "adam",
+    "step": 185,
+    "recorded_loss": 0.0010110696805005202
+  },
+  {
+    "stage": "adam",
+    "step": 186,
+    "recorded_loss": 0.0008434880381705906
+  },
+  {
+    "stage": "adam",
+    "step": 187,
+    "recorded_loss": 0.0008101490087774753
+  },
+  {
+    "stage": "adam",
+    "step": 188,
+    "recorded_loss": 0.0011700954789259082
+  },
+  {
+    "stage": "adam",
+    "step": 189,
+    "recorded_loss": 0.0010696032559951696
+  },
+  {
+    "stage": "adam",
+    "step": 190,
+    "recorded_loss": 0.0008882197333863011
+  },
+  {
+    "stage": "adam",
+    "step": 191,
+    "recorded_loss": 0.000920375060387157
+  },
+  {
+    "stage": "adam",
+    "step": 192,
+    "recorded_loss": 0.0009724157046084978
+  },
+  {
+    "stage": "adam",
+    "step": 193,
+    "recorded_loss": 0.0007840543108960949
+  },
+  {
+    "stage": "adam",
+    "step": 194,
+    "recorded_loss": 0.0009611038766516907
+  },
+  {
+    "stage": "adam",
+    "step": 195,
+    "recorded_loss": 0.000989506106365594
+  },
+  {
+    "stage": "adam",
+    "step": 196,
+    "recorded_loss": 0.0005636293361411354
+  },
+  {
+    "stage": "adam",
+    "step": 197,
+    "recorded_loss": 0.0008969101113653418
+  },
+  {
+    "stage": "adam",
+    "step": 198,
+    "recorded_loss": 0.000752964951463132
+  },
+  {
+    "stage": "adam",
+    "step": 199,
+    "recorded_loss": 0.0009858713718164196
+  },
+  {
+    "stage": "adam",
+    "step": 200,
+    "recorded_loss": 0.0007895447982595904
+  },
+  {
+    "stage": "adam",
+    "step": 201,
+    "recorded_loss": 0.0009651906464765201
+  },
+  {
+    "stage": "adam",
+    "step": 202,
+    "recorded_loss": 0.0006232755069564044
+  },
+  {
+    "stage": "adam",
+    "step": 203,
+    "recorded_loss": 0.0008012610857376283
+  },
+  {
+    "stage": "adam",
+    "step": 204,
+    "recorded_loss": 0.0006213531345905965
+  },
+  {
+    "stage": "adam",
+    "step": 205,
+    "recorded_loss": 0.0006077502829312533
+  },
+  {
+    "stage": "adam",
+    "step": 206,
+    "recorded_loss": 0.0009710446975185475
+  },
+  {
+    "stage": "adam",
+    "step": 207,
+    "recorded_loss": 0.0006506455065081184
+  },
+  {
+    "stage": "adam",
+    "step": 208,
+    "recorded_loss": 0.0011640340914185244
+  },
+  {
+    "stage": "adam",
+    "step": 209,
+    "recorded_loss": 0.0007349596681251804
+  },
+  {
+    "stage": "adam",
+    "step": 210,
+    "recorded_loss": 0.000805222516696386
+  },
+  {
+    "stage": "adam",
+    "step": 211,
+    "recorded_loss": 0.0005414327664188642
+  },
+  {
+    "stage": "adam",
+    "step": 212,
+    "recorded_loss": 0.0010709399325358015
+  },
+  {
+    "stage": "adam",
+    "step": 213,
+    "recorded_loss": 0.0006042265000012878
+  },
+  {
+    "stage": "adam",
+    "step": 214,
+    "recorded_loss": 0.0009032146379588782
+  },
+  {
+    "stage": "adam",
+    "step": 215,
+    "recorded_loss": 0.0008716512741600996
+  },
+  {
+    "stage": "adam",
+    "step": 216,
+    "recorded_loss": 0.0007364007308008102
+  },
+  {
+    "stage": "adam",
+    "step": 217,
+    "recorded_loss": 0.0011346119181703934
+  },
+  {
+    "stage": "adam",
+    "step": 218,
+    "recorded_loss": 0.00045433601426135334
+  },
+  {
+    "stage": "adam",
+    "step": 219,
+    "recorded_loss": 0.0007390769715215598
+  },
+  {
+    "stage": "adam",
+    "step": 220,
+    "recorded_loss": 0.0008925925867282515
+  },
+  {
+    "stage": "adam",
+    "step": 221,
+    "recorded_loss": 0.0008145924739545325
+  },
+  {
+    "stage": "adam",
+    "step": 222,
+    "recorded_loss": 0.0006861622948690756
+  },
+  {
+    "stage": "adam",
+    "step": 223,
+    "recorded_loss": 0.0009615832577363098
+  },
+  {
+    "stage": "adam",
+    "step": 224,
+    "recorded_loss": 0.0007838235825401069
+  },
+  {
+    "stage": "adam",
+    "step": 225,
+    "recorded_loss": 0.0009936677107105709
+  },
+  {
+    "stage": "adam",
+    "step": 226,
+    "recorded_loss": 0.0009386213621786672
+  },
+  {
+    "stage": "adam",
+    "step": 227,
+    "recorded_loss": 0.0009909294258848749
+  },
+  {
+    "stage": "adam",
+    "step": 228,
+    "recorded_loss": 0.0009408478305176892
+  },
+  {
+    "stage": "adam",
+    "step": 229,
+    "recorded_loss": 0.0007583092865385541
+  },
+  {
+    "stage": "adam",
+    "step": 230,
+    "recorded_loss": 0.0006601218283157524
+  },
+  {
+    "stage": "adam",
+    "step": 231,
+    "recorded_loss": 0.0008631912076697464
+  },
+  {
+    "stage": "adam",
+    "step": 232,
+    "recorded_loss": 0.0008750723686143635
+  },
+  {
+    "stage": "adam",
+    "step": 233,
+    "recorded_loss": 0.0009708703132044905
+  },
+  {
+    "stage": "adam",
+    "step": 234,
+    "recorded_loss": 0.0008874616682217386
+  },
+  {
+    "stage": "adam",
+    "step": 235,
+    "recorded_loss": 0.00034847781905341063
+  },
+  {
+    "stage": "adam",
+    "step": 236,
+    "recorded_loss": 0.000730687846399613
+  },
+  {
+    "stage": "adam",
+    "step": 237,
+    "recorded_loss": 0.0008114976775969212
+  },
+  {
+    "stage": "adam",
+    "step": 238,
+    "recorded_loss": 0.0007538380890353111
+  },
+  {
+    "stage": "adam",
+    "step": 239,
+    "recorded_loss": 0.0006708945547360284
+  },
+  {
+    "stage": "adam",
+    "step": 240,
+    "recorded_loss": 0.0008101941513651319
+  },
+  {
+    "stage": "adam",
+    "step": 241,
+    "recorded_loss": 0.0008280827970312383
+  },
+  {
+    "stage": "adam",
+    "step": 242,
+    "recorded_loss": 0.0010051431612352923
+  },
+  {
+    "stage": "adam",
+    "step": 243,
+    "recorded_loss": 0.0006003370580944195
+  },
+  {
+    "stage": "adam",
+    "step": 244,
+    "recorded_loss": 0.0007783089349605678
+  },
+  {
+    "stage": "adam",
+    "step": 245,
+    "recorded_loss": 0.0007920023796192951
+  },
+  {
+    "stage": "adam",
+    "step": 246,
+    "recorded_loss": 0.0010502382685369674
+  },
+  {
+    "stage": "adam",
+    "step": 247,
+    "recorded_loss": 0.0008853183005705819
+  },
+  {
+    "stage": "adam",
+    "step": 248,
+    "recorded_loss": 0.0008069069570291543
+  },
+  {
+    "stage": "adam",
+    "step": 249,
+    "recorded_loss": 0.0014690084648251315
+  },
+  {
+    "stage": "adam",
+    "step": 250,
+    "recorded_loss": 0.0009763596952002433
+  },
+  {
+    "stage": "adam",
+    "step": 251,
+    "recorded_loss": 0.0005027451504908005
+  },
+  {
+    "stage": "adam",
+    "step": 252,
+    "recorded_loss": 0.0006700607756419552
+  },
+  {
+    "stage": "adam",
+    "step": 253,
+    "recorded_loss": 0.0007482176873524361
+  },
+  {
+    "stage": "adam",
+    "step": 254,
+    "recorded_loss": 0.0010213840816033523
+  },
+  {
+    "stage": "adam",
+    "step": 255,
+    "recorded_loss": 0.0012307771760998788
+  },
+  {
+    "stage": "adam",
+    "step": 256,
+    "recorded_loss": 0.0011598263915843139
+  },
+  {
+    "stage": "adam",
+    "step": 257,
+    "recorded_loss": 0.0006748532306302783
+  },
+  {
+    "stage": "adam",
+    "step": 258,
+    "recorded_loss": 0.0006596890548330431
+  },
+  {
+    "stage": "adam",
+    "step": 259,
+    "recorded_loss": 0.0009429167157429494
+  },
+  {
+    "stage": "adam",
+    "step": 260,
+    "recorded_loss": 0.0009481402290760975
+  },
+  {
+    "stage": "adam",
+    "step": 261,
+    "recorded_loss": 0.0010908389415036138
+  },
+  {
+    "stage": "adam",
+    "step": 262,
+    "recorded_loss": 0.0006584080753319401
+  },
+  {
+    "stage": "adam",
+    "step": 263,
+    "recorded_loss": 0.0008371705821480348
+  },
+  {
+    "stage": "adam",
+    "step": 264,
+    "recorded_loss": 0.0010688762573180435
+  },
+  {
+    "stage": "adam",
+    "step": 265,
+    "recorded_loss": 0.0009607018971957888
+  },
+  {
+    "stage": "adam",
+    "step": 266,
+    "recorded_loss": 0.0015466020652545238
+  },
+  {
+    "stage": "adam",
+    "step": 267,
+    "recorded_loss": 0.0009804535311225787
+  },
+  {
+    "stage": "adam",
+    "step": 268,
+    "recorded_loss": 0.0009849734523886722
+  },
+  {
+    "stage": "adam",
+    "step": 269,
+    "recorded_loss": 0.00044711234458071644
+  },
+  {
+    "stage": "adam",
+    "step": 270,
+    "recorded_loss": 0.000931752754179227
+  },
+  {
+    "stage": "adam",
+    "step": 271,
+    "recorded_loss": 0.0007458915176200549
+  },
+  {
+    "stage": "adam",
+    "step": 272,
+    "recorded_loss": 0.000991118162945678
+  },
+  {
+    "stage": "adam",
+    "step": 273,
+    "recorded_loss": 0.0008695875552274893
+  },
+  {
+    "stage": "adam",
+    "step": 274,
+    "recorded_loss": 0.0009204580151208442
+  },
+  {
+    "stage": "adam",
+    "step": 275,
+    "recorded_loss": 0.0009503656454498066
+  },
+  {
+    "stage": "adam",
+    "step": 276,
+    "recorded_loss": 0.0010933572739151506
+  },
+  {
+    "stage": "adam",
+    "step": 277,
+    "recorded_loss": 0.0009724378087259526
+  },
+  {
+    "stage": "adam",
+    "step": 278,
+    "recorded_loss": 0.0007305162970687823
+  },
+  {
+    "stage": "adam",
+    "step": 279,
+    "recorded_loss": 0.0010024705905768883
+  },
+  {
+    "stage": "adam",
+    "step": 280,
+    "recorded_loss": 0.0006424190478564839
+  },
+  {
+    "stage": "adam",
+    "step": 281,
+    "recorded_loss": 0.0006215321276069824
+  },
+  {
+    "stage": "adam",
+    "step": 282,
+    "recorded_loss": 0.0005381047189279082
+  },
+  {
+    "stage": "adam",
+    "step": 283,
+    "recorded_loss": 0.0007158503393231491
+  },
+  {
+    "stage": "adam",
+    "step": 284,
+    "recorded_loss": 0.0010639939385877237
+  },
+  {
+    "stage": "adam",
+    "step": 285,
+    "recorded_loss": 0.000968896730882027
+  },
+  {
+    "stage": "adam",
+    "step": 286,
+    "recorded_loss": 0.0005622027174104592
+  },
+  {
+    "stage": "adam",
+    "step": 287,
+    "recorded_loss": 0.0007792990658091575
+  },
+  {
+    "stage": "adam",
+    "step": 288,
+    "recorded_loss": 0.0005703421214604781
+  },
+  {
+    "stage": "adam",
+    "step": 289,
+    "recorded_loss": 0.001029891482602501
+  },
+  {
+    "stage": "adam",
+    "step": 290,
+    "recorded_loss": 0.000690470670278864
+  },
+  {
+    "stage": "adam",
+    "step": 291,
+    "recorded_loss": 0.0007202497532665711
+  },
+  {
+    "stage": "adam",
+    "step": 292,
+    "recorded_loss": 0.0014495142896025696
+  },
+  {
+    "stage": "adam",
+    "step": 293,
+    "recorded_loss": 0.0008280181820218887
+  },
+  {
+    "stage": "adam",
+    "step": 294,
+    "recorded_loss": 0.001191294395267114
+  },
+  {
+    "stage": "adam",
+    "step": 295,
+    "recorded_loss": 0.0006932013522335897
+  },
+  {
+    "stage": "adam",
+    "step": 296,
+    "recorded_loss": 0.0007879908912688089
+  },
+  {
+    "stage": "adam",
+    "step": 297,
+    "recorded_loss": 0.0008016983850018234
+  },
+  {
+    "stage": "adam",
+    "step": 298,
+    "recorded_loss": 0.0007989685252896136
+  },
+  {
+    "stage": "adam",
+    "step": 299,
+    "recorded_loss": 0.0008764293404228827
+  },
+  {
+    "stage": "adam",
+    "step": 300,
+    "recorded_loss": 0.001293430109544024
+  },
+  {
+    "stage": "adam",
+    "step": 301,
+    "recorded_loss": 0.0010165766901433905
+  },
+  {
+    "stage": "adam",
+    "step": 302,
+    "recorded_loss": 0.0006341213244609297
+  },
+  {
+    "stage": "adam",
+    "step": 303,
+    "recorded_loss": 0.000846325166153796
+  },
+  {
+    "stage": "adam",
+    "step": 304,
+    "recorded_loss": 0.0010893567879839143
+  },
+  {
+    "stage": "adam",
+    "step": 305,
+    "recorded_loss": 0.0009463690953605197
+  },
+  {
+    "stage": "adam",
+    "step": 306,
+    "recorded_loss": 0.0007580314495778308
+  },
+  {
+    "stage": "adam",
+    "step": 307,
+    "recorded_loss": 0.0008516679813622654
+  },
+  {
+    "stage": "adam",
+    "step": 308,
+    "recorded_loss": 0.0006768487012710296
+  },
+  {
+    "stage": "adam",
+    "step": 309,
+    "recorded_loss": 0.0009339743329124508
+  },
+  {
+    "stage": "adam",
+    "step": 310,
+    "recorded_loss": 0.0007293367918136801
+  },
+  {
+    "stage": "adam",
+    "step": 311,
+    "recorded_loss": 0.0008347811156773462
+  },
+  {
+    "stage": "adam",
+    "step": 312,
+    "recorded_loss": 0.0010967182933880402
+  },
+  {
+    "stage": "adam",
+    "step": 313,
+    "recorded_loss": 0.0007974597745748181
+  },
+  {
+    "stage": "adam",
+    "step": 314,
+    "recorded_loss": 0.0015229752637138752
+  },
+  {
+    "stage": "adam",
+    "step": 315,
+    "recorded_loss": 0.000557003910825691
+  },
+  {
+    "stage": "adam",
+    "step": 316,
+    "recorded_loss": 0.0006163065928809751
+  },
+  {
+    "stage": "adam",
+    "step": 317,
+    "recorded_loss": 0.0007416054986446395
+  },
+  {
+    "stage": "adam",
+    "step": 318,
+    "recorded_loss": 0.0010216820062506897
+  },
+  {
+    "stage": "adam",
+    "step": 319,
+    "recorded_loss": 0.0008694506763949478
+  },
+  {
+    "stage": "adam",
+    "step": 320,
+    "recorded_loss": 0.000803027010262033
+  },
+  {
+    "stage": "adam",
+    "step": 321,
+    "recorded_loss": 0.001301670925497771
+  },
+  {
+    "stage": "adam",
+    "step": 322,
+    "recorded_loss": 0.0005003322149612038
+  },
+  {
+    "stage": "adam",
+    "step": 323,
+    "recorded_loss": 0.0007784506773226188
+  },
+  {
+    "stage": "adam",
+    "step": 324,
+    "recorded_loss": 0.0009700964171820289
+  },
+  {
+    "stage": "adam",
+    "step": 325,
+    "recorded_loss": 0.0008145288996262656
+  },
+  {
+    "stage": "adam",
+    "step": 326,
+    "recorded_loss": 0.0006863294903643395
+  },
+  {
+    "stage": "adam",
+    "step": 327,
+    "recorded_loss": 0.0012334117613100578
+  },
+  {
+    "stage": "adam",
+    "step": 328,
+    "recorded_loss": 0.0006690996009559251
+  },
+  {
+    "stage": "adam",
+    "step": 329,
+    "recorded_loss": 0.0006544885465711145
+  },
+  {
+    "stage": "adam",
+    "step": 330,
+    "recorded_loss": 0.0006448918210434778
+  },
+  {
+    "stage": "adam",
+    "step": 331,
+    "recorded_loss": 0.00040015104042036406
+  },
+  {
+    "stage": "adam",
+    "step": 332,
+    "recorded_loss": 0.0015116304375489146
+  },
+  {
+    "stage": "adam",
+    "step": 333,
+    "recorded_loss": 0.0011621319689689895
+  },
+  {
+    "stage": "adam",
+    "step": 334,
+    "recorded_loss": 0.0011120348778721194
+  },
+  {
+    "stage": "adam",
+    "step": 335,
+    "recorded_loss": 0.0007173560648920932
+  },
+  {
+    "stage": "adam",
+    "step": 336,
+    "recorded_loss": 0.00038700737486440013
+  },
+  {
+    "stage": "adam",
+    "step": 337,
+    "recorded_loss": 0.000595037838868176
+  },
+  {
+    "stage": "adam",
+    "step": 338,
+    "recorded_loss": 0.0008761961589285727
+  },
+  {
+    "stage": "adam",
+    "step": 339,
+    "recorded_loss": 0.0005187505572840698
+  },
+  {
+    "stage": "adam",
+    "step": 340,
+    "recorded_loss": 0.0008385477318542455
+  },
+  {
+    "stage": "adam",
+    "step": 341,
+    "recorded_loss": 0.000734807091867525
+  },
+  {
+    "stage": "adam",
+    "step": 342,
+    "recorded_loss": 0.0007392362858795815
+  },
+  {
+    "stage": "adam",
+    "step": 343,
+    "recorded_loss": 0.0012965812220276248
+  },
+  {
+    "stage": "adam",
+    "step": 344,
+    "recorded_loss": 0.0009056302013935324
+  },
+  {
+    "stage": "adam",
+    "step": 345,
+    "recorded_loss": 0.0006183445691069963
+  },
+  {
+    "stage": "adam",
+    "step": 346,
+    "recorded_loss": 0.001012580800300422
+  },
+  {
+    "stage": "adam",
+    "step": 347,
+    "recorded_loss": 0.0008819323293566538
+  },
+  {
+    "stage": "adam",
+    "step": 348,
+    "recorded_loss": 0.0011841468922170204
+  },
+  {
+    "stage": "adam",
+    "step": 349,
+    "recorded_loss": 0.0010676328537431732
+  },
+  {
+    "stage": "adam",
+    "step": 350,
+    "recorded_loss": 0.0006084917864286109
+  },
+  {
+    "stage": "adam",
+    "step": 351,
+    "recorded_loss": 0.000533769000082786
+  },
+  {
+    "stage": "adam",
+    "step": 352,
+    "recorded_loss": 0.0005794809227567818
+  },
+  {
+    "stage": "adam",
+    "step": 353,
+    "recorded_loss": 0.0006977248137438876
+  },
+  {
+    "stage": "adam",
+    "step": 354,
+    "recorded_loss": 0.0006887497438139072
+  },
+  {
+    "stage": "adam",
+    "step": 355,
+    "recorded_loss": 0.0006516040097008926
+  },
+  {
+    "stage": "adam",
+    "step": 356,
+    "recorded_loss": 0.0006758851669938753
+  },
+  {
+    "stage": "adam",
+    "step": 357,
+    "recorded_loss": 0.0011395847481452635
+  },
+  {
+    "stage": "adam",
+    "step": 358,
+    "recorded_loss": 0.0008590439513033376
+  },
+  {
+    "stage": "adam",
+    "step": 359,
+    "recorded_loss": 0.0007358089337527675
+  },
+  {
+    "stage": "adam",
+    "step": 360,
+    "recorded_loss": 0.0006667091618053988
+  },
+  {
+    "stage": "adam",
+    "step": 361,
+    "recorded_loss": 0.0007064601170514807
+  },
+  {
+    "stage": "adam",
+    "step": 362,
+    "recorded_loss": 0.0010877801879127275
+  },
+  {
+    "stage": "adam",
+    "step": 363,
+    "recorded_loss": 0.0007960677831358766
+  },
+  {
+    "stage": "adam",
+    "step": 364,
+    "recorded_loss": 0.0009540049719098958
+  },
+  {
+    "stage": "adam",
+    "step": 365,
+    "recorded_loss": 0.0005498830609816452
+  },
+  {
+    "stage": "adam",
+    "step": 366,
+    "recorded_loss": 0.0006052566253575756
+  },
+  {
+    "stage": "adam",
+    "step": 367,
+    "recorded_loss": 0.0007622017721780764
+  },
+  {
+    "stage": "adam",
+    "step": 368,
+    "recorded_loss": 0.000735917004296901
+  },
+  {
+    "stage": "adam",
+    "step": 369,
+    "recorded_loss": 0.001089677144974157
+  },
+  {
+    "stage": "adam",
+    "step": 370,
+    "recorded_loss": 0.001069848507687126
+  },
+  {
+    "stage": "adam",
+    "step": 371,
+    "recorded_loss": 0.0006146781262674102
+  },
+  {
+    "stage": "adam",
+    "step": 372,
+    "recorded_loss": 0.0008149363730119625
+  },
+  {
+    "stage": "adam",
+    "step": 373,
+    "recorded_loss": 0.0006943756649412901
+  },
+  {
+    "stage": "adam",
+    "step": 374,
+    "recorded_loss": 0.0005843059647549757
+  },
+  {
+    "stage": "adam",
+    "step": 375,
+    "recorded_loss": 0.0007857853071650358
+  },
+  {
+    "stage": "adam",
+    "step": 376,
+    "recorded_loss": 0.0006139427896240329
+  },
+  {
+    "stage": "adam",
+    "step": 377,
+    "recorded_loss": 0.0010542322196074986
+  },
+  {
+    "stage": "adam",
+    "step": 378,
+    "recorded_loss": 0.0005737161387813286
+  },
+  {
+    "stage": "adam",
+    "step": 379,
+    "recorded_loss": 0.0007419771391355603
+  },
+  {
+    "stage": "adam",
+    "step": 380,
+    "recorded_loss": 0.0008202777835141582
+  },
+  {
+    "stage": "adam",
+    "step": 381,
+    "recorded_loss": 0.0007697149428044904
+  },
+  {
+    "stage": "adam",
+    "step": 382,
+    "recorded_loss": 0.0007965109744074689
+  },
+  {
+    "stage": "adam",
+    "step": 383,
+    "recorded_loss": 0.001202389880687418
+  },
+  {
+    "stage": "adam",
+    "step": 384,
+    "recorded_loss": 0.0010731924275312866
+  },
+  {
+    "stage": "adam",
+    "step": 385,
+    "recorded_loss": 0.0006923188072040102
+  },
+  {
+    "stage": "adam",
+    "step": 386,
+    "recorded_loss": 0.0007538757456974946
+  },
+  {
+    "stage": "adam",
+    "step": 387,
+    "recorded_loss": 0.0007578028567880659
+  },
+  {
+    "stage": "adam",
+    "step": 388,
+    "recorded_loss": 0.0008348846427724023
+  },
+  {
+    "stage": "adam",
+    "step": 389,
+    "recorded_loss": 0.0006291052266942299
+  },
+  {
+    "stage": "adam",
+    "step": 390,
+    "recorded_loss": 0.000911359511561701
+  },
+  {
+    "stage": "adam",
+    "step": 391,
+    "recorded_loss": 0.000618616761908074
+  },
+  {
+    "stage": "adam",
+    "step": 392,
+    "recorded_loss": 0.00106021734536193
+  },
+  {
+    "stage": "adam",
+    "step": 393,
+    "recorded_loss": 0.0007265885049789042
+  },
+  {
+    "stage": "adam",
+    "step": 394,
+    "recorded_loss": 0.0007336933126386601
+  },
+  {
+    "stage": "adam",
+    "step": 395,
+    "recorded_loss": 0.0005016122148017527
+  },
+  {
+    "stage": "adam",
+    "step": 396,
+    "recorded_loss": 0.0006248750856241956
+  },
+  {
+    "stage": "adam",
+    "step": 397,
+    "recorded_loss": 0.0007680850788835659
+  },
+  {
+    "stage": "adam",
+    "step": 398,
+    "recorded_loss": 0.0008466134494234922
+  },
+  {
+    "stage": "adam",
+    "step": 399,
+    "recorded_loss": 0.0007961770943983283
+  },
+  {
+    "stage": "adam",
+    "step": 400,
+    "recorded_loss": 0.0005247400920022007
+  },
+  {
+    "stage": "adam",
+    "step": 401,
+    "recorded_loss": 0.0007287230419507203
+  },
+  {
+    "stage": "adam",
+    "step": 402,
+    "recorded_loss": 0.0006842414689204822
+  },
+  {
+    "stage": "adam",
+    "step": 403,
+    "recorded_loss": 0.0007930250098690638
+  },
+  {
+    "stage": "adam",
+    "step": 404,
+    "recorded_loss": 0.0009168614864518825
+  },
+  {
+    "stage": "adam",
+    "step": 405,
+    "recorded_loss": 0.0006840885038070245
+  },
+  {
+    "stage": "adam",
+    "step": 406,
+    "recorded_loss": 0.0004134723311896999
+  },
+  {
+    "stage": "adam",
+    "step": 407,
+    "recorded_loss": 0.00040737986737685147
+  },
+  {
+    "stage": "adam",
+    "step": 408,
+    "recorded_loss": 0.0007158131242136081
+  },
+  {
+    "stage": "adam",
+    "step": 409,
+    "recorded_loss": 0.0006339372530898504
+  },
+  {
+    "stage": "adam",
+    "step": 410,
+    "recorded_loss": 0.0006511070289823522
+  },
+  {
+    "stage": "adam",
+    "step": 411,
+    "recorded_loss": 0.0008152509476710076
+  },
+  {
+    "stage": "adam",
+    "step": 412,
+    "recorded_loss": 0.0005594590456591964
+  },
+  {
+    "stage": "adam",
+    "step": 413,
+    "recorded_loss": 0.0005582065826993717
+  },
+  {
+    "stage": "adam",
+    "step": 414,
+    "recorded_loss": 0.001158595941414534
+  },
+  {
+    "stage": "adam",
+    "step": 415,
+    "recorded_loss": 0.0006724040898561407
+  },
+  {
+    "stage": "adam",
+    "step": 416,
+    "recorded_loss": 0.00044097989151775023
+  },
+  {
+    "stage": "adam",
+    "step": 417,
+    "recorded_loss": 0.000543295682561939
+  },
+  {
+    "stage": "adam",
+    "step": 418,
+    "recorded_loss": 0.0006821449617234012
+  },
+  {
+    "stage": "adam",
+    "step": 419,
+    "recorded_loss": 0.00043535923392081573
+  },
+  {
+    "stage": "adam",
+    "step": 420,
+    "recorded_loss": 0.00039583590079175963
+  },
+  {
+    "stage": "adam",
+    "step": 421,
+    "recorded_loss": 0.0005094720812705332
+  },
+  {
+    "stage": "adam",
+    "step": 422,
+    "recorded_loss": 0.0005728928954812233
+  },
+  {
+    "stage": "adam",
+    "step": 423,
+    "recorded_loss": 0.0006352167990155605
+  },
+  {
+    "stage": "adam",
+    "step": 424,
+    "recorded_loss": 0.001210756481298786
+  },
+  {
+    "stage": "adam",
+    "step": 425,
+    "recorded_loss": 0.00076477152070002
+  },
+  {
+    "stage": "adam",
+    "step": 426,
+    "recorded_loss": 0.00048096593187986264
+  },
+  {
+    "stage": "adam",
+    "step": 427,
+    "recorded_loss": 0.0006927989298614912
+  },
+  {
+    "stage": "adam",
+    "step": 428,
+    "recorded_loss": 0.000689081995800901
+  },
+  {
+    "stage": "adam",
+    "step": 429,
+    "recorded_loss": 0.00036453335959710817
+  },
+  {
+    "stage": "adam",
+    "step": 430,
+    "recorded_loss": 0.0005512831429712497
+  },
+  {
+    "stage": "adam",
+    "step": 431,
+    "recorded_loss": 0.00047376373330291653
+  },
+  {
+    "stage": "adam",
+    "step": 432,
+    "recorded_loss": 0.0003833938088855417
+  },
+  {
+    "stage": "adam",
+    "step": 433,
+    "recorded_loss": 0.001054301942850828
+  },
+  {
+    "stage": "adam",
+    "step": 434,
+    "recorded_loss": 0.0007980432790894442
+  },
+  {
+    "stage": "adam",
+    "step": 435,
+    "recorded_loss": 0.0005211011768862597
+  },
+  {
+    "stage": "adam",
+    "step": 436,
+    "recorded_loss": 0.0006780027494493464
+  },
+  {
+    "stage": "adam",
+    "step": 437,
+    "recorded_loss": 0.0006959653853489457
+  },
+  {
+    "stage": "adam",
+    "step": 438,
+    "recorded_loss": 0.0006392595020713624
+  },
+  {
+    "stage": "adam",
+    "step": 439,
+    "recorded_loss": 0.0005029731809158782
+  },
+  {
+    "stage": "adam",
+    "step": 440,
+    "recorded_loss": 0.0005670865817916529
+  },
+  {
+    "stage": "adam",
+    "step": 441,
+    "recorded_loss": 0.00030093977680198505
+  },
+  {
+    "stage": "adam",
+    "step": 442,
+    "recorded_loss": 0.0004055501404077118
+  },
+  {
+    "stage": "adam",
+    "step": 443,
+    "recorded_loss": 0.0004846538538225332
+  },
+  {
+    "stage": "adam",
+    "step": 444,
+    "recorded_loss": 0.0006648665423001523
+  },
+  {
+    "stage": "adam",
+    "step": 445,
+    "recorded_loss": 0.0006993428750322612
+  },
+  {
+    "stage": "adam",
+    "step": 446,
+    "recorded_loss": 0.0006883306816676473
+  },
+  {
+    "stage": "adam",
+    "step": 447,
+    "recorded_loss": 0.0008102733023477781
+  },
+  {
+    "stage": "adam",
+    "step": 448,
+    "recorded_loss": 0.0004961163448498979
+  },
+  {
+    "stage": "adam",
+    "step": 449,
+    "recorded_loss": 0.0008433297733716935
+  },
+  {
+    "stage": "adam",
+    "step": 450,
+    "recorded_loss": 0.0009799005529482073
+  },
+  {
+    "stage": "adam",
+    "step": 451,
+    "recorded_loss": 0.000570991117620468
+  },
+  {
+    "stage": "adam",
+    "step": 452,
+    "recorded_loss": 0.00059991505208038
+  },
+  {
+    "stage": "adam",
+    "step": 453,
+    "recorded_loss": 0.0006734456159464047
+  },
+  {
+    "stage": "adam",
+    "step": 454,
+    "recorded_loss": 0.0006771303537144302
+  },
+  {
+    "stage": "adam",
+    "step": 455,
+    "recorded_loss": 0.0007774097009482575
+  },
+  {
+    "stage": "adam",
+    "step": 456,
+    "recorded_loss": 0.0006958900449452961
+  },
+  {
+    "stage": "adam",
+    "step": 457,
+    "recorded_loss": 0.0005732118447455859
+  },
+  {
+    "stage": "adam",
+    "step": 458,
+    "recorded_loss": 0.0005719491084167432
+  },
+  {
+    "stage": "adam",
+    "step": 459,
+    "recorded_loss": 0.0006543856312250606
+  },
+  {
+    "stage": "adam",
+    "step": 460,
+    "recorded_loss": 0.0006073417187767248
+  },
+  {
+    "stage": "adam",
+    "step": 461,
+    "recorded_loss": 0.000579973012308587
+  },
+  {
+    "stage": "adam",
+    "step": 462,
+    "recorded_loss": 0.0005502712468851458
+  },
+  {
+    "stage": "adam",
+    "step": 463,
+    "recorded_loss": 0.0007817773867778383
+  },
+  {
+    "stage": "adam",
+    "step": 464,
+    "recorded_loss": 0.0005506266890171003
+  },
+  {
+    "stage": "adam",
+    "step": 465,
+    "recorded_loss": 0.0005246580892029266
+  },
+  {
+    "stage": "adam",
+    "step": 466,
+    "recorded_loss": 0.000760922918518788
+  },
+  {
+    "stage": "adam",
+    "step": 467,
+    "recorded_loss": 0.0004669041953782513
+  },
+  {
+    "stage": "adam",
+    "step": 468,
+    "recorded_loss": 0.0003532246660612154
+  },
+  {
+    "stage": "adam",
+    "step": 469,
+    "recorded_loss": 0.0005415360821988534
+  },
+  {
+    "stage": "adam",
+    "step": 470,
+    "recorded_loss": 0.0004966815605734712
+  },
+  {
+    "stage": "adam",
+    "step": 471,
+    "recorded_loss": 0.00044933675600979236
+  },
+  {
+    "stage": "adam",
+    "step": 472,
+    "recorded_loss": 0.00043355327130279944
+  },
+  {
+    "stage": "adam",
+    "step": 473,
+    "recorded_loss": 0.0005216923449803811
+  },
+  {
+    "stage": "adam",
+    "step": 474,
+    "recorded_loss": 0.000704061045979423
+  },
+  {
+    "stage": "adam",
+    "step": 475,
+    "recorded_loss": 0.00041040672244589574
+  },
+  {
+    "stage": "adam",
+    "step": 476,
+    "recorded_loss": 0.0005430743760703725
+  },
+  {
+    "stage": "adam",
+    "step": 477,
+    "recorded_loss": 0.00042096250960157837
+  },
+  {
+    "stage": "adam",
+    "step": 478,
+    "recorded_loss": 0.0006966031208299134
+  },
+  {
+    "stage": "adam",
+    "step": 479,
+    "recorded_loss": 0.0004983499801780602
+  },
+  {
+    "stage": "adam",
+    "step": 480,
+    "recorded_loss": 0.00038501549510020237
+  },
+  {
+    "stage": "adam",
+    "step": 481,
+    "recorded_loss": 0.0004545768489680002
+  },
+  {
+    "stage": "adam",
+    "step": 482,
+    "recorded_loss": 0.000551679547870771
+  },
+  {
+    "stage": "adam",
+    "step": 483,
+    "recorded_loss": 0.0004848061488286769
+  },
+  {
+    "stage": "adam",
+    "step": 484,
+    "recorded_loss": 0.00034128635362683615
+  },
+  {
+    "stage": "adam",
+    "step": 485,
+    "recorded_loss": 0.0004894390405477557
+  },
+  {
+    "stage": "adam",
+    "step": 486,
+    "recorded_loss": 0.0005110755720192596
+  },
+  {
+    "stage": "adam",
+    "step": 487,
+    "recorded_loss": 0.0006087622502767241
+  },
+  {
+    "stage": "adam",
+    "step": 488,
+    "recorded_loss": 0.0006763103412893854
+  },
+  {
+    "stage": "adam",
+    "step": 489,
+    "recorded_loss": 0.0002762063307796415
+  },
+  {
+    "stage": "adam",
+    "step": 490,
+    "recorded_loss": 0.00047222870291679746
+  },
+  {
+    "stage": "adam",
+    "step": 491,
+    "recorded_loss": 0.00039112586361399995
+  },
+  {
+    "stage": "adam",
+    "step": 492,
+    "recorded_loss": 0.0007339701364519115
+  },
+  {
+    "stage": "adam",
+    "step": 493,
+    "recorded_loss": 0.000560825530358403
+  },
+  {
+    "stage": "adam",
+    "step": 494,
+    "recorded_loss": 0.00048433528556901935
+  },
+  {
+    "stage": "adam",
+    "step": 495,
+    "recorded_loss": 0.0005360363847897384
+  },
+  {
+    "stage": "adam",
+    "step": 496,
+    "recorded_loss": 0.00043574867557434426
+  },
+  {
+    "stage": "adam",
+    "step": 497,
+    "recorded_loss": 0.0004541825205017204
+  },
+  {
+    "stage": "adam",
+    "step": 498,
+    "recorded_loss": 0.0004368600414774728
+  },
+  {
+    "stage": "adam",
+    "step": 499,
+    "recorded_loss": 0.0002471618156168217
+  },
+  {
+    "stage": "adam",
+    "step": 500,
+    "recorded_loss": 0.0004887311118749861
+  },
+  {
+    "stage": "adam",
+    "step": 501,
+    "recorded_loss": 0.00030753383137356333
+  },
+  {
+    "stage": "adam",
+    "step": 502,
+    "recorded_loss": 0.0003248516618493042
+  },
+  {
+    "stage": "adam",
+    "step": 503,
+    "recorded_loss": 0.00047887953273602704
+  },
+  {
+    "stage": "adam",
+    "step": 504,
+    "recorded_loss": 0.0006202039921153935
+  },
+  {
+    "stage": "adam",
+    "step": 505,
+    "recorded_loss": 0.00036511002778211264
+  },
+  {
+    "stage": "adam",
+    "step": 506,
+    "recorded_loss": 0.00047420818287669485
+  },
+  {
+    "stage": "adam",
+    "step": 507,
+    "recorded_loss": 0.0007139398741798082
+  },
+  {
+    "stage": "adam",
+    "step": 508,
+    "recorded_loss": 0.0005196182316012761
+  },
+  {
+    "stage": "adam",
+    "step": 509,
+    "recorded_loss": 0.0002752424088024633
+  },
+  {
+    "stage": "adam",
+    "step": 510,
+    "recorded_loss": 0.0005953268823252274
+  },
+  {
+    "stage": "adam",
+    "step": 511,
+    "recorded_loss": 0.0004198008429654442
+  },
+  {
+    "stage": "adam",
+    "step": 512,
+    "recorded_loss": 0.00029283822955876806
+  },
+  {
+    "stage": "adam",
+    "step": 513,
+    "recorded_loss": 0.0006669074636320067
+  },
+  {
+    "stage": "adam",
+    "step": 514,
+    "recorded_loss": 0.0004398562603048511
+  },
+  {
+    "stage": "adam",
+    "step": 515,
+    "recorded_loss": 0.0004666080142221335
+  },
+  {
+    "stage": "adam",
+    "step": 516,
+    "recorded_loss": 0.00046032733968562204
+  },
+  {
+    "stage": "adam",
+    "step": 517,
+    "recorded_loss": 0.0005571369015820262
+  },
+  {
+    "stage": "adam",
+    "step": 518,
+    "recorded_loss": 0.0006527443279836407
+  },
+  {
+    "stage": "adam",
+    "step": 519,
+    "recorded_loss": 0.000490563296815301
+  },
+  {
+    "stage": "adam",
+    "step": 520,
+    "recorded_loss": 0.000363073011841043
+  },
+  {
+    "stage": "adam",
+    "step": 521,
+    "recorded_loss": 0.00037582864101105384
+  },
+  {
+    "stage": "adam",
+    "step": 522,
+    "recorded_loss": 0.0006309602319452464
+  },
+  {
+    "stage": "adam",
+    "step": 523,
+    "recorded_loss": 0.0005131024497592449
+  },
+  {
+    "stage": "adam",
+    "step": 524,
+    "recorded_loss": 0.0004443665804329339
+  },
+  {
+    "stage": "adam",
+    "step": 525,
+    "recorded_loss": 0.0004421860630969076
+  },
+  {
+    "stage": "adam",
+    "step": 526,
+    "recorded_loss": 0.0005634232489004608
+  },
+  {
+    "stage": "adam",
+    "step": 527,
+    "recorded_loss": 0.0004568842728693674
+  },
+  {
+    "stage": "adam",
+    "step": 528,
+    "recorded_loss": 0.0002940295449078646
+  },
+  {
+    "stage": "adam",
+    "step": 529,
+    "recorded_loss": 0.0004169638933241963
+  },
+  {
+    "stage": "adam",
+    "step": 530,
+    "recorded_loss": 0.00047030240989779943
+  },
+  {
+    "stage": "adam",
+    "step": 531,
+    "recorded_loss": 0.00040608832161920905
+  },
+  {
+    "stage": "adam",
+    "step": 532,
+    "recorded_loss": 0.0003750399268150615
+  },
+  {
+    "stage": "adam",
+    "step": 533,
+    "recorded_loss": 0.0007139447827356647
+  },
+  {
+    "stage": "adam",
+    "step": 534,
+    "recorded_loss": 0.00047016131227224113
+  },
+  {
+    "stage": "adam",
+    "step": 535,
+    "recorded_loss": 0.00046167703095392206
+  },
+  {
+    "stage": "adam",
+    "step": 536,
+    "recorded_loss": 0.0005330967649433208
+  },
+  {
+    "stage": "adam",
+    "step": 537,
+    "recorded_loss": 0.00033684792158424775
+  },
+  {
+    "stage": "adam",
+    "step": 538,
+    "recorded_loss": 0.00042455407136652727
+  },
+  {
+    "stage": "adam",
+    "step": 539,
+    "recorded_loss": 0.00028198069701208686
+  },
+  {
+    "stage": "adam",
+    "step": 540,
+    "recorded_loss": 0.0004322162750067689
+  },
+  {
+    "stage": "adam",
+    "step": 541,
+    "recorded_loss": 0.00033305452881099483
+  },
+  {
+    "stage": "adam",
+    "step": 542,
+    "recorded_loss": 0.0003234548778960642
+  },
+  {
+    "stage": "adam",
+    "step": 543,
+    "recorded_loss": 0.0003500188340919937
+  },
+  {
+    "stage": "adam",
+    "step": 544,
+    "recorded_loss": 0.00040591484533310506
+  },
+  {
+    "stage": "adam",
+    "step": 545,
+    "recorded_loss": 0.00026163207258418837
+  },
+  {
+    "stage": "adam",
+    "step": 546,
+    "recorded_loss": 0.0003845171897236664
+  },
+  {
+    "stage": "adam",
+    "step": 547,
+    "recorded_loss": 0.0003052365031469441
+  },
+  {
+    "stage": "adam",
+    "step": 548,
+    "recorded_loss": 0.00039899878108245557
+  },
+  {
+    "stage": "adam",
+    "step": 549,
+    "recorded_loss": 0.00043052002548072825
+  },
+  {
+    "stage": "adam",
+    "step": 550,
+    "recorded_loss": 0.0003458860075065979
+  },
+  {
+    "stage": "adam",
+    "step": 551,
+    "recorded_loss": 0.0004556941069805326
+  },
+  {
+    "stage": "adam",
+    "step": 552,
+    "recorded_loss": 0.0004177044406367248
+  },
+  {
+    "stage": "adam",
+    "step": 553,
+    "recorded_loss": 0.0004800834943827794
+  },
+  {
+    "stage": "adam",
+    "step": 554,
+    "recorded_loss": 0.000287670626815755
+  },
+  {
+    "stage": "adam",
+    "step": 555,
+    "recorded_loss": 0.00036734880223979573
+  },
+  {
+    "stage": "adam",
+    "step": 556,
+    "recorded_loss": 0.00038608130657282207
+  },
+  {
+    "stage": "adam",
+    "step": 557,
+    "recorded_loss": 0.000651259165799062
+  },
+  {
+    "stage": "adam",
+    "step": 558,
+    "recorded_loss": 0.0003516863352666308
+  },
+  {
+    "stage": "adam",
+    "step": 559,
+    "recorded_loss": 0.0005075883713999056
+  },
+  {
+    "stage": "adam",
+    "step": 560,
+    "recorded_loss": 0.00047274357775339924
+  },
+  {
+    "stage": "adam",
+    "step": 561,
+    "recorded_loss": 0.00023909192073570093
+  },
+  {
+    "stage": "adam",
+    "step": 562,
+    "recorded_loss": 0.0003041597245298659
+  },
+  {
+    "stage": "adam",
+    "step": 563,
+    "recorded_loss": 0.00041306608456282204
+  },
+  {
+    "stage": "adam",
+    "step": 564,
+    "recorded_loss": 0.00033961453553227685
+  },
+  {
+    "stage": "adam",
+    "step": 565,
+    "recorded_loss": 0.00029756478030985715
+  },
+  {
+    "stage": "adam",
+    "step": 566,
+    "recorded_loss": 0.0004204140089336684
+  },
+  {
+    "stage": "adam",
+    "step": 567,
+    "recorded_loss": 0.00026264923824592527
+  },
+  {
+    "stage": "adam",
+    "step": 568,
+    "recorded_loss": 0.00027493070908733675
+  },
+  {
+    "stage": "adam",
+    "step": 569,
+    "recorded_loss": 0.0002910497695291763
+  },
+  {
+    "stage": "adam",
+    "step": 570,
+    "recorded_loss": 0.00030142532410250625
+  },
+  {
+    "stage": "adam",
+    "step": 571,
+    "recorded_loss": 0.0005047001394070199
+  },
+  {
+    "stage": "adam",
+    "step": 572,
+    "recorded_loss": 0.0005620916468623559
+  },
+  {
+    "stage": "adam",
+    "step": 573,
+    "recorded_loss": 0.00033861023871170127
+  },
+  {
+    "stage": "adam",
+    "step": 574,
+    "recorded_loss": 0.0002866673414378217
+  },
+  {
+    "stage": "adam",
+    "step": 575,
+    "recorded_loss": 0.0003121842007650983
+  },
+  {
+    "stage": "adam",
+    "step": 576,
+    "recorded_loss": 0.0002866518485449572
+  },
+  {
+    "stage": "adam",
+    "step": 577,
+    "recorded_loss": 0.00023617693335906733
+  },
+  {
+    "stage": "adam",
+    "step": 578,
+    "recorded_loss": 0.0003914666911316876
+  },
+  {
+    "stage": "adam",
+    "step": 579,
+    "recorded_loss": 0.0003008781920410975
+  },
+  {
+    "stage": "adam",
+    "step": 580,
+    "recorded_loss": 0.00034593351878520304
+  },
+  {
+    "stage": "adam",
+    "step": 581,
+    "recorded_loss": 0.00044061989406765374
+  },
+  {
+    "stage": "adam",
+    "step": 582,
+    "recorded_loss": 0.00047277274567937864
+  },
+  {
+    "stage": "adam",
+    "step": 583,
+    "recorded_loss": 0.0003330886032510901
+  },
+  {
+    "stage": "adam",
+    "step": 584,
+    "recorded_loss": 0.00043436470035733405
+  },
+  {
+    "stage": "adam",
+    "step": 585,
+    "recorded_loss": 0.0005192847851038839
+  },
+  {
+    "stage": "adam",
+    "step": 586,
+    "recorded_loss": 0.0003162614048947245
+  },
+  {
+    "stage": "adam",
+    "step": 587,
+    "recorded_loss": 0.0002551189858408312
+  },
+  {
+    "stage": "adam",
+    "step": 588,
+    "recorded_loss": 0.0003625256953279276
+  },
+  {
+    "stage": "adam",
+    "step": 589,
+    "recorded_loss": 0.00043247232263394066
+  },
+  {
+    "stage": "adam",
+    "step": 590,
+    "recorded_loss": 0.0003298608927330862
+  },
+  {
+    "stage": "adam",
+    "step": 591,
+    "recorded_loss": 0.00039233587729157836
+  },
+  {
+    "stage": "adam",
+    "step": 592,
+    "recorded_loss": 0.0003140810005954363
+  },
+  {
+    "stage": "adam",
+    "step": 593,
+    "recorded_loss": 0.0004528287281368753
+  },
+  {
+    "stage": "adam",
+    "step": 594,
+    "recorded_loss": 0.0003855201765692728
+  },
+  {
+    "stage": "adam",
+    "step": 595,
+    "recorded_loss": 0.0002590643400656327
+  },
+  {
+    "stage": "adam",
+    "step": 596,
+    "recorded_loss": 0.00023447914846384254
+  },
+  {
+    "stage": "adam",
+    "step": 597,
+    "recorded_loss": 0.00030050538873166433
+  },
+  {
+    "stage": "adam",
+    "step": 598,
+    "recorded_loss": 0.00026001919108301823
+  },
+  {
+    "stage": "adam",
+    "step": 599,
+    "recorded_loss": 0.00039496592704488936
+  },
+  {
+    "stage": "adam",
+    "step": 600,
+    "recorded_loss": 0.0004197090862276342
+  },
+  {
+    "stage": "adam",
+    "step": 601,
+    "recorded_loss": 0.00040442491667807136
+  },
+  {
+    "stage": "adam",
+    "step": 602,
+    "recorded_loss": 0.00032059055287578106
+  },
+  {
+    "stage": "adam",
+    "step": 603,
+    "recorded_loss": 0.0003204898164092966
+  },
+  {
+    "stage": "adam",
+    "step": 604,
+    "recorded_loss": 0.0003673341038869937
+  },
+  {
+    "stage": "adam",
+    "step": 605,
+    "recorded_loss": 0.0003688820710052537
+  },
+  {
+    "stage": "adam",
+    "step": 606,
+    "recorded_loss": 0.0003625914882643667
+  },
+  {
+    "stage": "adam",
+    "step": 607,
+    "recorded_loss": 0.0002995029616725993
+  },
+  {
+    "stage": "adam",
+    "step": 608,
+    "recorded_loss": 0.00048344950039343366
+  },
+  {
+    "stage": "adam",
+    "step": 609,
+    "recorded_loss": 0.00031172132370268927
+  },
+  {
+    "stage": "adam",
+    "step": 610,
+    "recorded_loss": 0.00032843579085471285
+  },
+  {
+    "stage": "adam",
+    "step": 611,
+    "recorded_loss": 0.0004387073094464058
+  },
+  {
+    "stage": "adam",
+    "step": 612,
+    "recorded_loss": 0.00034459658230565147
+  },
+  {
+    "stage": "adam",
+    "step": 613,
+    "recorded_loss": 0.0003411822436872941
+  },
+  {
+    "stage": "adam",
+    "step": 614,
+    "recorded_loss": 0.00038482500866437194
+  },
+  {
+    "stage": "adam",
+    "step": 615,
+    "recorded_loss": 0.00032132258315478257
+  },
+  {
+    "stage": "adam",
+    "step": 616,
+    "recorded_loss": 0.0004391458053045036
+  },
+  {
+    "stage": "adam",
+    "step": 617,
+    "recorded_loss": 0.0003980109652861721
+  },
+  {
+    "stage": "adam",
+    "step": 618,
+    "recorded_loss": 0.0002973941763826394
+  },
+  {
+    "stage": "adam",
+    "step": 619,
+    "recorded_loss": 0.00041001654580878025
+  },
+  {
+    "stage": "adam",
+    "step": 620,
+    "recorded_loss": 0.0003134201931486705
+  },
+  {
+    "stage": "adam",
+    "step": 621,
+    "recorded_loss": 0.0002635061357598694
+  },
+  {
+    "stage": "adam",
+    "step": 622,
+    "recorded_loss": 0.0003498828946998533
+  },
+  {
+    "stage": "adam",
+    "step": 623,
+    "recorded_loss": 0.0004505124875324828
+  },
+  {
+    "stage": "adam",
+    "step": 624,
+    "recorded_loss": 0.00027072099585232786
+  },
+  {
+    "stage": "adam",
+    "step": 625,
+    "recorded_loss": 0.00038983679068229266
+  },
+  {
+    "stage": "adam",
+    "step": 626,
+    "recorded_loss": 0.00038054400740894663
+  },
+  {
+    "stage": "adam",
+    "step": 627,
+    "recorded_loss": 0.000383932764767898
+  },
+  {
+    "stage": "adam",
+    "step": 628,
+    "recorded_loss": 0.0003149978165303025
+  },
+  {
+    "stage": "adam",
+    "step": 629,
+    "recorded_loss": 0.00034865078776762456
+  },
+  {
+    "stage": "adam",
+    "step": 630,
+    "recorded_loss": 0.00033730020713834734
+  },
+  {
+    "stage": "adam",
+    "step": 631,
+    "recorded_loss": 0.0005361097067217693
+  },
+  {
+    "stage": "adam",
+    "step": 632,
+    "recorded_loss": 0.0003803117072505658
+  },
+  {
+    "stage": "adam",
+    "step": 633,
+    "recorded_loss": 0.0003234576970850369
+  },
+  {
+    "stage": "adam",
+    "step": 634,
+    "recorded_loss": 0.0003480655111393878
+  },
+  {
+    "stage": "adam",
+    "step": 635,
+    "recorded_loss": 0.0003086116044311293
+  },
+  {
+    "stage": "adam",
+    "step": 636,
+    "recorded_loss": 0.0003313864525237183
+  },
+  {
+    "stage": "adam",
+    "step": 637,
+    "recorded_loss": 0.000272652623630299
+  },
+  {
+    "stage": "adam",
+    "step": 638,
+    "recorded_loss": 0.000285109675477073
+  },
+  {
+    "stage": "adam",
+    "step": 639,
+    "recorded_loss": 0.00037670380370773116
+  },
+  {
+    "stage": "adam",
+    "step": 640,
+    "recorded_loss": 0.00026274143820435023
+  },
+  {
+    "stage": "adam",
+    "step": 641,
+    "recorded_loss": 0.00027704396916149285
+  },
+  {
+    "stage": "adam",
+    "step": 642,
+    "recorded_loss": 0.0003735904362770842
+  },
+  {
+    "stage": "adam",
+    "step": 643,
+    "recorded_loss": 0.0002567807783503435
+  },
+  {
+    "stage": "adam",
+    "step": 644,
+    "recorded_loss": 0.00026904327423041155
+  },
+  {
+    "stage": "adam",
+    "step": 645,
+    "recorded_loss": 0.00034016847273144027
+  },
+  {
+    "stage": "adam",
+    "step": 646,
+    "recorded_loss": 0.0003390871553595507
+  },
+  {
+    "stage": "adam",
+    "step": 647,
+    "recorded_loss": 0.00033062281220110106
+  },
+  {
+    "stage": "adam",
+    "step": 648,
+    "recorded_loss": 0.00038448300711018096
+  },
+  {
+    "stage": "adam",
+    "step": 649,
+    "recorded_loss": 0.00037278211115108204
+  },
+  {
+    "stage": "adam",
+    "step": 650,
+    "recorded_loss": 0.0002731840697327843
+  },
+  {
+    "stage": "adam",
+    "step": 651,
+    "recorded_loss": 0.00032334236437413396
+  },
+  {
+    "stage": "adam",
+    "step": 652,
+    "recorded_loss": 0.0002738020767982331
+  },
+  {
+    "stage": "adam",
+    "step": 653,
+    "recorded_loss": 0.0004304135676262979
+  },
+  {
+    "stage": "adam",
+    "step": 654,
+    "recorded_loss": 0.0004156281466466742
+  },
+  {
+    "stage": "adam",
+    "step": 655,
+    "recorded_loss": 0.0002008427979668772
+  },
+  {
+    "stage": "adam",
+    "step": 656,
+    "recorded_loss": 0.00023740241969432346
+  },
+  {
+    "stage": "adam",
+    "step": 657,
+    "recorded_loss": 0.0002755387991128142
+  },
+  {
+    "stage": "adam",
+    "step": 658,
+    "recorded_loss": 0.0004605854657622709
+  },
+  {
+    "stage": "adam",
+    "step": 659,
+    "recorded_loss": 0.0003074376318771702
+  },
+  {
+    "stage": "adam",
+    "step": 660,
+    "recorded_loss": 0.00044220651838724773
+  },
+  {
+    "stage": "adam",
+    "step": 661,
+    "recorded_loss": 0.0002990241330962884
+  },
+  {
+    "stage": "adam",
+    "step": 662,
+    "recorded_loss": 0.0002584288966886852
+  },
+  {
+    "stage": "adam",
+    "step": 663,
+    "recorded_loss": 0.00034488336199776004
+  },
+  {
+    "stage": "adam",
+    "step": 664,
+    "recorded_loss": 0.00031395943722065404
+  },
+  {
+    "stage": "adam",
+    "step": 665,
+    "recorded_loss": 0.0003962253874187828
+  },
+  {
+    "stage": "adam",
+    "step": 666,
+    "recorded_loss": 0.00039132423563907116
+  },
+  {
+    "stage": "adam",
+    "step": 667,
+    "recorded_loss": 0.00043881826261863875
+  },
+  {
+    "stage": "adam",
+    "step": 668,
+    "recorded_loss": 0.0003571570754701745
+  },
+  {
+    "stage": "adam",
+    "step": 669,
+    "recorded_loss": 0.00022445326312841966
+  },
+  {
+    "stage": "adam",
+    "step": 670,
+    "recorded_loss": 0.0003961076609685976
+  },
+  {
+    "stage": "adam",
+    "step": 671,
+    "recorded_loss": 0.0003072375885475293
+  },
+  {
+    "stage": "adam",
+    "step": 672,
+    "recorded_loss": 0.00038081857166619295
+  },
+  {
+    "stage": "adam",
+    "step": 673,
+    "recorded_loss": 0.00032928738391598103
+  },
+  {
+    "stage": "adam",
+    "step": 674,
+    "recorded_loss": 0.000247435306474258
+  },
+  {
+    "stage": "adam",
+    "step": 675,
+    "recorded_loss": 0.00021932709158264903
+  },
+  {
+    "stage": "adam",
+    "step": 676,
+    "recorded_loss": 0.00036385408374198756
+  },
+  {
+    "stage": "adam",
+    "step": 677,
+    "recorded_loss": 0.00034152050127203397
+  },
+  {
+    "stage": "adam",
+    "step": 678,
+    "recorded_loss": 0.0003987951677011549
+  },
+  {
+    "stage": "adam",
+    "step": 679,
+    "recorded_loss": 0.0002453113676084112
+  },
+  {
+    "stage": "adam",
+    "step": 680,
+    "recorded_loss": 0.0002710804699899126
+  },
+  {
+    "stage": "adam",
+    "step": 681,
+    "recorded_loss": 0.0001905924243456441
+  },
+  {
+    "stage": "adam",
+    "step": 682,
+    "recorded_loss": 0.00025390945890403795
+  },
+  {
+    "stage": "adam",
+    "step": 683,
+    "recorded_loss": 0.00031517814268593224
+  },
+  {
+    "stage": "adam",
+    "step": 684,
+    "recorded_loss": 0.00022879467965501458
+  },
+  {
+    "stage": "adam",
+    "step": 685,
+    "recorded_loss": 0.00029614267165564814
+  },
+  {
+    "stage": "adam",
+    "step": 686,
+    "recorded_loss": 0.00022627077380370738
+  },
+  {
+    "stage": "adam",
+    "step": 687,
+    "recorded_loss": 0.000271330703740756
+  },
+  {
+    "stage": "adam",
+    "step": 688,
+    "recorded_loss": 0.00036182688707543317
+  },
+  {
+    "stage": "adam",
+    "step": 689,
+    "recorded_loss": 0.0002642255321640162
+  },
+  {
+    "stage": "adam",
+    "step": 690,
+    "recorded_loss": 0.0003902634883321659
+  },
+  {
+    "stage": "adam",
+    "step": 691,
+    "recorded_loss": 0.0003118680168544555
+  },
+  {
+    "stage": "adam",
+    "step": 692,
+    "recorded_loss": 0.0003459328623969794
+  },
+  {
+    "stage": "adam",
+    "step": 693,
+    "recorded_loss": 0.00023536797375235013
+  },
+  {
+    "stage": "adam",
+    "step": 694,
+    "recorded_loss": 0.00021356301848781013
+  },
+  {
+    "stage": "adam",
+    "step": 695,
+    "recorded_loss": 0.0003320122004943524
+  },
+  {
+    "stage": "adam",
+    "step": 696,
+    "recorded_loss": 0.0003501621442347097
+  },
+  {
+    "stage": "adam",
+    "step": 697,
+    "recorded_loss": 0.00033683516680880506
+  },
+  {
+    "stage": "adam",
+    "step": 698,
+    "recorded_loss": 0.00026878283960406093
+  },
+  {
+    "stage": "adam",
+    "step": 699,
+    "recorded_loss": 0.0002953675880030123
+  },
+  {
+    "stage": "adam",
+    "step": 700,
+    "recorded_loss": 0.00021481872554005005
+  },
+  {
+    "stage": "adam",
+    "step": 701,
+    "recorded_loss": 0.0002503719530498141
+  },
+  {
+    "stage": "adam",
+    "step": 702,
+    "recorded_loss": 0.0002987253219960281
+  },
+  {
+    "stage": "adam",
+    "step": 703,
+    "recorded_loss": 0.0002652921892328626
+  },
+  {
+    "stage": "adam",
+    "step": 704,
+    "recorded_loss": 0.0002578459282935602
+  },
+  {
+    "stage": "adam",
+    "step": 705,
+    "recorded_loss": 0.0002702032838197344
+  },
+  {
+    "stage": "adam",
+    "step": 706,
+    "recorded_loss": 0.0002880676254554262
+  },
+  {
+    "stage": "adam",
+    "step": 707,
+    "recorded_loss": 0.0002659916954563155
+  },
+  {
+    "stage": "adam",
+    "step": 708,
+    "recorded_loss": 0.0002088088017207715
+  },
+  {
+    "stage": "adam",
+    "step": 709,
+    "recorded_loss": 0.00037217675206620434
+  },
+  {
+    "stage": "adam",
+    "step": 710,
+    "recorded_loss": 0.0004052585162865796
+  },
+  {
+    "stage": "adam",
+    "step": 711,
+    "recorded_loss": 0.0003206894273307506
+  },
+  {
+    "stage": "adam",
+    "step": 712,
+    "recorded_loss": 0.00018825510120099842
+  },
+  {
+    "stage": "adam",
+    "step": 713,
+    "recorded_loss": 0.000213471569489401
+  },
+  {
+    "stage": "adam",
+    "step": 714,
+    "recorded_loss": 0.00023122989159336566
+  },
+  {
+    "stage": "adam",
+    "step": 715,
+    "recorded_loss": 0.00020442900397746018
+  },
+  {
+    "stage": "adam",
+    "step": 716,
+    "recorded_loss": 0.0003428162727395349
+  },
+  {
+    "stage": "adam",
+    "step": 717,
+    "recorded_loss": 0.0003475011959035967
+  },
+  {
+    "stage": "adam",
+    "step": 718,
+    "recorded_loss": 0.0003651007760113172
+  },
+  {
+    "stage": "adam",
+    "step": 719,
+    "recorded_loss": 0.0002205494523610751
+  },
+  {
+    "stage": "adam",
+    "step": 720,
+    "recorded_loss": 0.00023164923754131084
+  },
+  {
+    "stage": "adam",
+    "step": 721,
+    "recorded_loss": 0.00025690620006675277
+  },
+  {
+    "stage": "adam",
+    "step": 722,
+    "recorded_loss": 0.0002817946652578584
+  },
+  {
+    "stage": "adam",
+    "step": 723,
+    "recorded_loss": 0.0002529336592145649
+  },
+  {
+    "stage": "adam",
+    "step": 724,
+    "recorded_loss": 0.0002478027319832289
+  },
+  {
+    "stage": "adam",
+    "step": 725,
+    "recorded_loss": 0.0003313343405810785
+  },
+  {
+    "stage": "adam",
+    "step": 726,
+    "recorded_loss": 0.0002365105805782987
+  },
+  {
+    "stage": "adam",
+    "step": 727,
+    "recorded_loss": 0.0002367179728073927
+  },
+  {
+    "stage": "adam",
+    "step": 728,
+    "recorded_loss": 0.00018841613936974202
+  },
+  {
+    "stage": "adam",
+    "step": 729,
+    "recorded_loss": 0.00030782709464921614
+  },
+  {
+    "stage": "adam",
+    "step": 730,
+    "recorded_loss": 0.00027228107901585547
+  },
+  {
+    "stage": "adam",
+    "step": 731,
+    "recorded_loss": 0.0003295881563999171
+  },
+  {
+    "stage": "adam",
+    "step": 732,
+    "recorded_loss": 0.00018900547708893868
+  },
+  {
+    "stage": "adam",
+    "step": 733,
+    "recorded_loss": 0.00027470898797914785
+  },
+  {
+    "stage": "adam",
+    "step": 734,
+    "recorded_loss": 0.0002623213528725872
+  },
+  {
+    "stage": "adam",
+    "step": 735,
+    "recorded_loss": 0.0002977040810631718
+  },
+  {
+    "stage": "adam",
+    "step": 736,
+    "recorded_loss": 0.00028031705699676617
+  },
+  {
+    "stage": "adam",
+    "step": 737,
+    "recorded_loss": 0.000200575574545849
+  },
+  {
+    "stage": "adam",
+    "step": 738,
+    "recorded_loss": 0.000309437009587003
+  },
+  {
+    "stage": "adam",
+    "step": 739,
+    "recorded_loss": 0.0002996132788598471
+  },
+  {
+    "stage": "adam",
+    "step": 740,
+    "recorded_loss": 0.0002215544447965912
+  },
+  {
+    "stage": "adam",
+    "step": 741,
+    "recorded_loss": 0.00023847271938022373
+  },
+  {
+    "stage": "adam",
+    "step": 742,
+    "recorded_loss": 0.0002958254308498765
+  },
+  {
+    "stage": "adam",
+    "step": 743,
+    "recorded_loss": 0.0002640116373806365
+  },
+  {
+    "stage": "adam",
+    "step": 744,
+    "recorded_loss": 0.00023832541149808277
+  },
+  {
+    "stage": "adam",
+    "step": 745,
+    "recorded_loss": 0.0002555868188065292
+  },
+  {
+    "stage": "adam",
+    "step": 746,
+    "recorded_loss": 0.00025002696858720153
+  },
+  {
+    "stage": "adam",
+    "step": 747,
+    "recorded_loss": 0.0002016001414560375
+  },
+  {
+    "stage": "adam",
+    "step": 748,
+    "recorded_loss": 0.0002471822165808655
+  },
+  {
+    "stage": "adam",
+    "step": 749,
+    "recorded_loss": 0.00018227297031917433
+  },
+  {
+    "stage": "adam",
+    "step": 750,
+    "recorded_loss": 0.0002821334252173821
+  },
+  {
+    "stage": "adam",
+    "step": 751,
+    "recorded_loss": 0.00019310144756494078
+  },
+  {
+    "stage": "adam",
+    "step": 752,
+    "recorded_loss": 0.0002255463364408064
+  },
+  {
+    "stage": "adam",
+    "step": 753,
+    "recorded_loss": 0.0002881466567526289
+  },
+  {
+    "stage": "adam",
+    "step": 754,
+    "recorded_loss": 0.0001887886546870674
+  },
+  {
+    "stage": "adam",
+    "step": 755,
+    "recorded_loss": 0.00016122390142066773
+  },
+  {
+    "stage": "adam",
+    "step": 756,
+    "recorded_loss": 0.00023609650367475607
+  },
+  {
+    "stage": "adam",
+    "step": 757,
+    "recorded_loss": 0.00024048173391268439
+  },
+  {
+    "stage": "adam",
+    "step": 758,
+    "recorded_loss": 0.00032364535925605325
+  },
+  {
+    "stage": "adam",
+    "step": 759,
+    "recorded_loss": 0.00024197181178612303
+  },
+  {
+    "stage": "adam",
+    "step": 760,
+    "recorded_loss": 0.00025543976357282985
+  },
+  {
+    "stage": "adam",
+    "step": 761,
+    "recorded_loss": 0.00033891360798283686
+  },
+  {
+    "stage": "adam",
+    "step": 762,
+    "recorded_loss": 0.0003122774440462347
+  },
+  {
+    "stage": "adam",
+    "step": 763,
+    "recorded_loss": 0.00017187262326923597
+  },
+  {
+    "stage": "adam",
+    "step": 764,
+    "recorded_loss": 0.00021248493470950848
+  },
+  {
+    "stage": "adam",
+    "step": 765,
+    "recorded_loss": 0.0002049729075378661
+  },
+  {
+    "stage": "adam",
+    "step": 766,
+    "recorded_loss": 0.00028794298683104355
+  },
+  {
+    "stage": "adam",
+    "step": 767,
+    "recorded_loss": 0.00022128040097980583
+  },
+  {
+    "stage": "adam",
+    "step": 768,
+    "recorded_loss": 0.00026358105518940864
+  },
+  {
+    "stage": "adam",
+    "step": 769,
+    "recorded_loss": 0.00020830926986416408
+  },
+  {
+    "stage": "adam",
+    "step": 770,
+    "recorded_loss": 0.00020168880999480622
+  },
+  {
+    "stage": "adam",
+    "step": 771,
+    "recorded_loss": 0.00020841021749764407
+  },
+  {
+    "stage": "adam",
+    "step": 772,
+    "recorded_loss": 0.00027973257732186044
+  },
+  {
+    "stage": "adam",
+    "step": 773,
+    "recorded_loss": 0.00020527833410718537
+  },
+  {
+    "stage": "adam",
+    "step": 774,
+    "recorded_loss": 0.0002922747523469405
+  },
+  {
+    "stage": "adam",
+    "step": 775,
+    "recorded_loss": 0.0002670943548932201
+  },
+  {
+    "stage": "adam",
+    "step": 776,
+    "recorded_loss": 0.00016224162494819422
+  },
+  {
+    "stage": "adam",
+    "step": 777,
+    "recorded_loss": 0.000265727136996929
+  },
+  {
+    "stage": "adam",
+    "step": 778,
+    "recorded_loss": 0.00020027749281784524
+  },
+  {
+    "stage": "adam",
+    "step": 779,
+    "recorded_loss": 0.00017501533046023499
+  },
+  {
+    "stage": "adam",
+    "step": 780,
+    "recorded_loss": 0.0002352824103228775
+  },
+  {
+    "stage": "adam",
+    "step": 781,
+    "recorded_loss": 0.0002797644384271989
+  },
+  {
+    "stage": "adam",
+    "step": 782,
+    "recorded_loss": 0.0001439349336290688
+  },
+  {
+    "stage": "adam",
+    "step": 783,
+    "recorded_loss": 0.0002297581877510829
+  },
+  {
+    "stage": "adam",
+    "step": 784,
+    "recorded_loss": 0.00020401535713161886
+  },
+  {
+    "stage": "adam",
+    "step": 785,
+    "recorded_loss": 0.0002571203726774063
+  },
+  {
+    "stage": "adam",
+    "step": 786,
+    "recorded_loss": 0.00017488337345077765
+  },
+  {
+    "stage": "adam",
+    "step": 787,
+    "recorded_loss": 0.0001829465670936422
+  },
+  {
+    "stage": "adam",
+    "step": 788,
+    "recorded_loss": 0.00022734646368253813
+  },
+  {
+    "stage": "adam",
+    "step": 789,
+    "recorded_loss": 0.0001889824636935771
+  },
+  {
+    "stage": "adam",
+    "step": 790,
+    "recorded_loss": 0.0001432143238775872
+  },
+  {
+    "stage": "adam",
+    "step": 791,
+    "recorded_loss": 0.00020813715829416717
+  },
+  {
+    "stage": "adam",
+    "step": 792,
+    "recorded_loss": 0.00018369393150876803
+  },
+  {
+    "stage": "adam",
+    "step": 793,
+    "recorded_loss": 0.00021657806359601424
+  },
+  {
+    "stage": "adam",
+    "step": 794,
+    "recorded_loss": 0.00019368660396887116
+  },
+  {
+    "stage": "adam",
+    "step": 795,
+    "recorded_loss": 0.00016759714190498441
+  },
+  {
+    "stage": "adam",
+    "step": 796,
+    "recorded_loss": 0.0002324570366404398
+  },
+  {
+    "stage": "adam",
+    "step": 797,
+    "recorded_loss": 0.000165028333943112
+  },
+  {
+    "stage": "adam",
+    "step": 798,
+    "recorded_loss": 0.00014865883722664324
+  },
+  {
+    "stage": "adam",
+    "step": 799,
+    "recorded_loss": 0.00011658916160063552
+  },
+  {
+    "stage": "adam",
+    "step": 800,
+    "recorded_loss": 0.000292497340302935
+  },
+  {
+    "stage": "adam",
+    "step": 801,
+    "recorded_loss": 0.00019369523015224993
+  },
+  {
+    "stage": "adam",
+    "step": 802,
+    "recorded_loss": 0.0003212349335932942
+  },
+  {
+    "stage": "adam",
+    "step": 803,
+    "recorded_loss": 0.0002507170798699197
+  },
+  {
+    "stage": "adam",
+    "step": 804,
+    "recorded_loss": 0.0002819270123442637
+  },
+  {
+    "stage": "adam",
+    "step": 805,
+    "recorded_loss": 0.0002482813845885036
+  },
+  {
+    "stage": "adam",
+    "step": 806,
+    "recorded_loss": 0.00019882348152541117
+  },
+  {
+    "stage": "adam",
+    "step": 807,
+    "recorded_loss": 0.00022608186521913767
+  },
+  {
+    "stage": "adam",
+    "step": 808,
+    "recorded_loss": 0.0002202968509926163
+  },
+  {
+    "stage": "adam",
+    "step": 809,
+    "recorded_loss": 0.0001413880514690631
+  },
+  {
+    "stage": "adam",
+    "step": 810,
+    "recorded_loss": 0.00022483648320812164
+  },
+  {
+    "stage": "adam",
+    "step": 811,
+    "recorded_loss": 0.00017854731773179832
+  },
+  {
+    "stage": "adam",
+    "step": 812,
+    "recorded_loss": 0.00022608214779611027
+  },
+  {
+    "stage": "adam",
+    "step": 813,
+    "recorded_loss": 0.00021915205593687922
+  },
+  {
+    "stage": "adam",
+    "step": 814,
+    "recorded_loss": 0.0002112829728718358
+  },
+  {
+    "stage": "adam",
+    "step": 815,
+    "recorded_loss": 0.00017852488351011896
+  },
+  {
+    "stage": "adam",
+    "step": 816,
+    "recorded_loss": 0.00014341729482597528
+  },
+  {
+    "stage": "adam",
+    "step": 817,
+    "recorded_loss": 0.0001820957811066306
+  },
+  {
+    "stage": "adam",
+    "step": 818,
+    "recorded_loss": 0.0002678771091292417
+  },
+  {
+    "stage": "adam",
+    "step": 819,
+    "recorded_loss": 0.00015216560536998608
+  },
+  {
+    "stage": "adam",
+    "step": 820,
+    "recorded_loss": 0.00036783838462853144
+  },
+  {
+    "stage": "adam",
+    "step": 821,
+    "recorded_loss": 0.00020869639583444183
+  },
+  {
+    "stage": "adam",
+    "step": 822,
+    "recorded_loss": 0.00013871195021770825
+  },
+  {
+    "stage": "adam",
+    "step": 823,
+    "recorded_loss": 0.0001463880079965934
+  },
+  {
+    "stage": "adam",
+    "step": 824,
+    "recorded_loss": 0.00027359442572516546
+  },
+  {
+    "stage": "adam",
+    "step": 825,
+    "recorded_loss": 0.00018154369342996866
+  },
+  {
+    "stage": "adam",
+    "step": 826,
+    "recorded_loss": 0.00020681561780612348
+  },
+  {
+    "stage": "adam",
+    "step": 827,
+    "recorded_loss": 0.00017061707012333219
+  },
+  {
+    "stage": "adam",
+    "step": 828,
+    "recorded_loss": 0.00026123943309547005
+  },
+  {
+    "stage": "adam",
+    "step": 829,
+    "recorded_loss": 0.0001719312137099388
+  },
+  {
+    "stage": "adam",
+    "step": 830,
+    "recorded_loss": 0.00017858648913464972
+  },
+  {
+    "stage": "adam",
+    "step": 831,
+    "recorded_loss": 0.00017333308784368154
+  },
+  {
+    "stage": "adam",
+    "step": 832,
+    "recorded_loss": 0.00014867651227120764
+  },
+  {
+    "stage": "adam",
+    "step": 833,
+    "recorded_loss": 0.00014004273142151434
+  },
+  {
+    "stage": "adam",
+    "step": 834,
+    "recorded_loss": 0.00022334888746078764
+  },
+  {
+    "stage": "adam",
+    "step": 835,
+    "recorded_loss": 0.00014679921216940835
+  },
+  {
+    "stage": "adam",
+    "step": 836,
+    "recorded_loss": 0.00022295788164393535
+  },
+  {
+    "stage": "adam",
+    "step": 837,
+    "recorded_loss": 0.0002716844105199904
+  },
+  {
+    "stage": "adam",
+    "step": 838,
+    "recorded_loss": 0.00021883093312880344
+  },
+  {
+    "stage": "adam",
+    "step": 839,
+    "recorded_loss": 0.00021388547750150218
+  },
+  {
+    "stage": "adam",
+    "step": 840,
+    "recorded_loss": 0.00014464243591554124
+  },
+  {
+    "stage": "adam",
+    "step": 841,
+    "recorded_loss": 0.0002279476348963073
+  },
+  {
+    "stage": "adam",
+    "step": 842,
+    "recorded_loss": 0.0001433885515474744
+  },
+  {
+    "stage": "adam",
+    "step": 843,
+    "recorded_loss": 0.00023459322767854085
+  },
+  {
+    "stage": "adam",
+    "step": 844,
+    "recorded_loss": 0.0001656067735688149
+  },
+  {
+    "stage": "adam",
+    "step": 845,
+    "recorded_loss": 0.00015404302163167375
+  },
+  {
+    "stage": "adam",
+    "step": 846,
+    "recorded_loss": 0.00017171905523079859
+  },
+  {
+    "stage": "adam",
+    "step": 847,
+    "recorded_loss": 0.00013825114199024027
+  },
+  {
+    "stage": "adam",
+    "step": 848,
+    "recorded_loss": 0.000172192592067044
+  },
+  {
+    "stage": "adam",
+    "step": 849,
+    "recorded_loss": 0.0001362062888082058
+  },
+  {
+    "stage": "adam",
+    "step": 850,
+    "recorded_loss": 0.00015125540924583854
+  },
+  {
+    "stage": "adam",
+    "step": 851,
+    "recorded_loss": 0.0001235780422770522
+  },
+  {
+    "stage": "adam",
+    "step": 852,
+    "recorded_loss": 0.00020619078622680022
+  },
+  {
+    "stage": "adam",
+    "step": 853,
+    "recorded_loss": 0.00024233364605825915
+  },
+  {
+    "stage": "adam",
+    "step": 854,
+    "recorded_loss": 0.00019670101268266373
+  },
+  {
+    "stage": "adam",
+    "step": 855,
+    "recorded_loss": 9.947837032691072e-05
+  },
+  {
+    "stage": "adam",
+    "step": 856,
+    "recorded_loss": 0.00021500313686290975
+  },
+  {
+    "stage": "adam",
+    "step": 857,
+    "recorded_loss": 0.0001378518732445698
+  },
+  {
+    "stage": "adam",
+    "step": 858,
+    "recorded_loss": 0.00018167695945898473
+  },
+  {
+    "stage": "adam",
+    "step": 859,
+    "recorded_loss": 0.00015363642643208812
+  },
+  {
+    "stage": "adam",
+    "step": 860,
+    "recorded_loss": 0.00020405770066147621
+  },
+  {
+    "stage": "adam",
+    "step": 861,
+    "recorded_loss": 0.00018157622914204868
+  },
+  {
+    "stage": "adam",
+    "step": 862,
+    "recorded_loss": 0.00017157275526125132
+  },
+  {
+    "stage": "adam",
+    "step": 863,
+    "recorded_loss": 0.00020813652925446012
+  },
+  {
+    "stage": "adam",
+    "step": 864,
+    "recorded_loss": 0.00020574716960409248
+  },
+  {
+    "stage": "adam",
+    "step": 865,
+    "recorded_loss": 0.00020075407754844584
+  },
+  {
+    "stage": "adam",
+    "step": 866,
+    "recorded_loss": 0.00016903897868902066
+  },
+  {
+    "stage": "adam",
+    "step": 867,
+    "recorded_loss": 0.0001750341741153523
+  },
+  {
+    "stage": "adam",
+    "step": 868,
+    "recorded_loss": 0.00012939483268124493
+  },
+  {
+    "stage": "adam",
+    "step": 869,
+    "recorded_loss": 0.0001672721138789047
+  },
+  {
+    "stage": "adam",
+    "step": 870,
+    "recorded_loss": 0.00022307115812900572
+  },
+  {
+    "stage": "adam",
+    "step": 871,
+    "recorded_loss": 0.00013712614993927668
+  },
+  {
+    "stage": "adam",
+    "step": 872,
+    "recorded_loss": 0.00014930951958151294
+  },
+  {
+    "stage": "adam",
+    "step": 873,
+    "recorded_loss": 0.0001834128261155587
+  },
+  {
+    "stage": "adam",
+    "step": 874,
+    "recorded_loss": 0.00011800706726775844
+  },
+  {
+    "stage": "adam",
+    "step": 875,
+    "recorded_loss": 0.00012993172497596203
+  },
+  {
+    "stage": "adam",
+    "step": 876,
+    "recorded_loss": 0.00012195941137646354
+  },
+  {
+    "stage": "adam",
+    "step": 877,
+    "recorded_loss": 0.00015519953997438846
+  },
+  {
+    "stage": "adam",
+    "step": 878,
+    "recorded_loss": 0.00019962485370181394
+  },
+  {
+    "stage": "adam",
+    "step": 879,
+    "recorded_loss": 0.00014054497640504323
+  },
+  {
+    "stage": "adam",
+    "step": 880,
+    "recorded_loss": 0.0001298980581541726
+  },
+  {
+    "stage": "adam",
+    "step": 881,
+    "recorded_loss": 0.00014037160915701463
+  },
+  {
+    "stage": "adam",
+    "step": 882,
+    "recorded_loss": 0.00015015278783057657
+  },
+  {
+    "stage": "adam",
+    "step": 883,
+    "recorded_loss": 0.00017220330851319373
+  },
+  {
+    "stage": "adam",
+    "step": 884,
+    "recorded_loss": 0.0001964746006529825
+  },
+  {
+    "stage": "adam",
+    "step": 885,
+    "recorded_loss": 0.00011765665348583478
+  },
+  {
+    "stage": "adam",
+    "step": 886,
+    "recorded_loss": 0.00013899471092600213
+  },
+  {
+    "stage": "adam",
+    "step": 887,
+    "recorded_loss": 0.00017603510772386732
+  },
+  {
+    "stage": "adam",
+    "step": 888,
+    "recorded_loss": 0.00017201413023593029
+  },
+  {
+    "stage": "adam",
+    "step": 889,
+    "recorded_loss": 0.0001420268545773419
+  },
+  {
+    "stage": "adam",
+    "step": 890,
+    "recorded_loss": 0.00011986369479626776
+  },
+  {
+    "stage": "adam",
+    "step": 891,
+    "recorded_loss": 0.00012881374585045066
+  },
+  {
+    "stage": "adam",
+    "step": 892,
+    "recorded_loss": 0.00021640607686172547
+  },
+  {
+    "stage": "adam",
+    "step": 893,
+    "recorded_loss": 0.00012432303958160755
+  },
+  {
+    "stage": "adam",
+    "step": 894,
+    "recorded_loss": 0.00014058696237702296
+  },
+  {
+    "stage": "adam",
+    "step": 895,
+    "recorded_loss": 0.00018360639171021375
+  },
+  {
+    "stage": "adam",
+    "step": 896,
+    "recorded_loss": 0.00018658823578930422
+  },
+  {
+    "stage": "adam",
+    "step": 897,
+    "recorded_loss": 0.00019310152283970165
+  },
+  {
+    "stage": "adam",
+    "step": 898,
+    "recorded_loss": 0.00014496104510521173
+  },
+  {
+    "stage": "adam",
+    "step": 899,
+    "recorded_loss": 0.0001050599033943353
+  },
+  {
+    "stage": "adam",
+    "step": 900,
+    "recorded_loss": 0.00014428340356409627
+  },
+  {
+    "stage": "adam",
+    "step": 901,
+    "recorded_loss": 0.00015648455072302602
+  },
+  {
+    "stage": "adam",
+    "step": 902,
+    "recorded_loss": 0.00015875146868305422
+  },
+  {
+    "stage": "adam",
+    "step": 903,
+    "recorded_loss": 0.00011798130357415303
+  },
+  {
+    "stage": "adam",
+    "step": 904,
+    "recorded_loss": 0.0001707083562189725
+  },
+  {
+    "stage": "adam",
+    "step": 905,
+    "recorded_loss": 0.000126269626235034
+  },
+  {
+    "stage": "adam",
+    "step": 906,
+    "recorded_loss": 0.00012947523533391432
+  },
+  {
+    "stage": "adam",
+    "step": 907,
+    "recorded_loss": 0.0001068070228102355
+  },
+  {
+    "stage": "adam",
+    "step": 908,
+    "recorded_loss": 0.00019245630005641708
+  },
+  {
+    "stage": "adam",
+    "step": 909,
+    "recorded_loss": 0.00017349221611234235
+  },
+  {
+    "stage": "adam",
+    "step": 910,
+    "recorded_loss": 0.00015368185399372314
+  },
+  {
+    "stage": "adam",
+    "step": 911,
+    "recorded_loss": 0.00013120086502484593
+  },
+  {
+    "stage": "adam",
+    "step": 912,
+    "recorded_loss": 0.00012363996901242676
+  },
+  {
+    "stage": "adam",
+    "step": 913,
+    "recorded_loss": 0.00013153047504223576
+  },
+  {
+    "stage": "adam",
+    "step": 914,
+    "recorded_loss": 0.00012816627953844822
+  },
+  {
+    "stage": "adam",
+    "step": 915,
+    "recorded_loss": 0.0001593287986624584
+  },
+  {
+    "stage": "adam",
+    "step": 916,
+    "recorded_loss": 0.0001881865339873182
+  },
+  {
+    "stage": "adam",
+    "step": 917,
+    "recorded_loss": 8.976497523860263e-05
+  },
+  {
+    "stage": "adam",
+    "step": 918,
+    "recorded_loss": 0.0001688392308081077
+  },
+  {
+    "stage": "adam",
+    "step": 919,
+    "recorded_loss": 0.00011765134286009202
+  },
+  {
+    "stage": "adam",
+    "step": 920,
+    "recorded_loss": 0.00012944290019185472
+  },
+  {
+    "stage": "adam",
+    "step": 921,
+    "recorded_loss": 0.0001231106106408557
+  },
+  {
+    "stage": "adam",
+    "step": 922,
+    "recorded_loss": 0.00019853961985092717
+  },
+  {
+    "stage": "adam",
+    "step": 923,
+    "recorded_loss": 0.00013034587638693617
+  },
+  {
+    "stage": "adam",
+    "step": 924,
+    "recorded_loss": 0.0001591002184546748
+  },
+  {
+    "stage": "adam",
+    "step": 925,
+    "recorded_loss": 0.00013984057422471028
+  },
+  {
+    "stage": "adam",
+    "step": 926,
+    "recorded_loss": 0.0001268509046143491
+  },
+  {
+    "stage": "adam",
+    "step": 927,
+    "recorded_loss": 0.00013413194500304734
+  },
+  {
+    "stage": "adam",
+    "step": 928,
+    "recorded_loss": 0.00012019431161699883
+  },
+  {
+    "stage": "adam",
+    "step": 929,
+    "recorded_loss": 0.00013213559015438176
+  },
+  {
+    "stage": "adam",
+    "step": 930,
+    "recorded_loss": 0.0001577903329475739
+  },
+  {
+    "stage": "adam",
+    "step": 931,
+    "recorded_loss": 0.00015744644503885472
+  },
+  {
+    "stage": "adam",
+    "step": 932,
+    "recorded_loss": 0.0001467362528811616
+  },
+  {
+    "stage": "adam",
+    "step": 933,
+    "recorded_loss": 0.00014454618743268874
+  },
+  {
+    "stage": "adam",
+    "step": 934,
+    "recorded_loss": 0.00012634881767812403
+  },
+  {
+    "stage": "adam",
+    "step": 935,
+    "recorded_loss": 0.00010526302078464355
+  },
+  {
+    "stage": "adam",
+    "step": 936,
+    "recorded_loss": 0.00018067764938413364
+  },
+  {
+    "stage": "adam",
+    "step": 937,
+    "recorded_loss": 7.918150568177892e-05
+  },
+  {
+    "stage": "adam",
+    "step": 938,
+    "recorded_loss": 0.00012175110393778312
+  },
+  {
+    "stage": "adam",
+    "step": 939,
+    "recorded_loss": 0.00010509430210645886
+  },
+  {
+    "stage": "adam",
+    "step": 940,
+    "recorded_loss": 0.00013700427612551222
+  },
+  {
+    "stage": "adam",
+    "step": 941,
+    "recorded_loss": 0.0001217678076470637
+  },
+  {
+    "stage": "adam",
+    "step": 942,
+    "recorded_loss": 6.926225839444839e-05
+  },
+  {
+    "stage": "adam",
+    "step": 943,
+    "recorded_loss": 0.00012545408731065287
+  },
+  {
+    "stage": "adam",
+    "step": 944,
+    "recorded_loss": 0.00010001382153625414
+  },
+  {
+    "stage": "adam",
+    "step": 945,
+    "recorded_loss": 0.00013145554350345944
+  },
+  {
+    "stage": "adam",
+    "step": 946,
+    "recorded_loss": 0.0001089883247736472
+  },
+  {
+    "stage": "adam",
+    "step": 947,
+    "recorded_loss": 0.00010930736329692304
+  },
+  {
+    "stage": "adam",
+    "step": 948,
+    "recorded_loss": 0.0001603384718055978
+  },
+  {
+    "stage": "adam",
+    "step": 949,
+    "recorded_loss": 0.0001098245446558322
+  },
+  {
+    "stage": "adam",
+    "step": 950,
+    "recorded_loss": 0.00012792868968668355
+  },
+  {
+    "stage": "adam",
+    "step": 951,
+    "recorded_loss": 0.00014955845688990513
+  },
+  {
+    "stage": "adam",
+    "step": 952,
+    "recorded_loss": 0.00011136717055876766
+  },
+  {
+    "stage": "adam",
+    "step": 953,
+    "recorded_loss": 0.00015618137671207584
+  },
+  {
+    "stage": "adam",
+    "step": 954,
+    "recorded_loss": 0.00010485083330363833
+  },
+  {
+    "stage": "adam",
+    "step": 955,
+    "recorded_loss": 8.85694893385518e-05
+  },
+  {
+    "stage": "adam",
+    "step": 956,
+    "recorded_loss": 9.166362789878054e-05
+  },
+  {
+    "stage": "adam",
+    "step": 957,
+    "recorded_loss": 0.00011664171837317114
+  },
+  {
+    "stage": "adam",
+    "step": 958,
+    "recorded_loss": 6.1189070238871e-05
+  },
+  {
+    "stage": "adam",
+    "step": 959,
+    "recorded_loss": 9.565380114342454e-05
+  },
+  {
+    "stage": "adam",
+    "step": 960,
+    "recorded_loss": 0.0001081077419635572
+  },
+  {
+    "stage": "adam",
+    "step": 961,
+    "recorded_loss": 9.910683838063826e-05
+  },
+  {
+    "stage": "adam",
+    "step": 962,
+    "recorded_loss": 7.571151531806424e-05
+  },
+  {
+    "stage": "adam",
+    "step": 963,
+    "recorded_loss": 0.00014543714795692763
+  },
+  {
+    "stage": "adam",
+    "step": 964,
+    "recorded_loss": 0.00011524557296951856
+  },
+  {
+    "stage": "adam",
+    "step": 965,
+    "recorded_loss": 0.00012284074184873173
+  },
+  {
+    "stage": "adam",
+    "step": 966,
+    "recorded_loss": 9.804271386796461e-05
+  },
+  {
+    "stage": "adam",
+    "step": 967,
+    "recorded_loss": 0.00014303920031892136
+  },
+  {
+    "stage": "adam",
+    "step": 968,
+    "recorded_loss": 9.503548766949329e-05
+  },
+  {
+    "stage": "adam",
+    "step": 969,
+    "recorded_loss": 0.0001316501461398084
+  },
+  {
+    "stage": "adam",
+    "step": 970,
+    "recorded_loss": 0.00011752495722029793
+  },
+  {
+    "stage": "adam",
+    "step": 971,
+    "recorded_loss": 8.802531752152697e-05
+  },
+  {
+    "stage": "adam",
+    "step": 972,
+    "recorded_loss": 9.088748514047829e-05
+  },
+  {
+    "stage": "adam",
+    "step": 973,
+    "recorded_loss": 9.689178586717338e-05
+  },
+  {
+    "stage": "adam",
+    "step": 974,
+    "recorded_loss": 8.254989372175731e-05
+  },
+  {
+    "stage": "adam",
+    "step": 975,
+    "recorded_loss": 0.00011199934896002588
+  },
+  {
+    "stage": "adam",
+    "step": 976,
+    "recorded_loss": 7.903282860991577e-05
+  },
+  {
+    "stage": "adam",
+    "step": 977,
+    "recorded_loss": 0.00010229343920338299
+  },
+  {
+    "stage": "adam",
+    "step": 978,
+    "recorded_loss": 8.662619808919483e-05
+  },
+  {
+    "stage": "adam",
+    "step": 979,
+    "recorded_loss": 5.55791164837263e-05
+  },
+  {
+    "stage": "adam",
+    "step": 980,
+    "recorded_loss": 0.00013704308872304182
+  },
+  {
+    "stage": "adam",
+    "step": 981,
+    "recorded_loss": 8.130061779079846e-05
+  },
+  {
+    "stage": "adam",
+    "step": 982,
+    "recorded_loss": 8.144059699154395e-05
+  },
+  {
+    "stage": "adam",
+    "step": 983,
+    "recorded_loss": 0.0001063885469380159
+  },
+  {
+    "stage": "adam",
+    "step": 984,
+    "recorded_loss": 7.931347538874439e-05
+  },
+  {
+    "stage": "adam",
+    "step": 985,
+    "recorded_loss": 9.055798456083218e-05
+  },
+  {
+    "stage": "adam",
+    "step": 986,
+    "recorded_loss": 8.604770856309959e-05
+  },
+  {
+    "stage": "adam",
+    "step": 987,
+    "recorded_loss": 5.782013008455836e-05
+  },
+  {
+    "stage": "adam",
+    "step": 988,
+    "recorded_loss": 0.00010127716002883265
+  },
+  {
+    "stage": "adam",
+    "step": 989,
+    "recorded_loss": 6.343028629213214e-05
+  },
+  {
+    "stage": "adam",
+    "step": 990,
+    "recorded_loss": 7.450088589529405e-05
+  },
+  {
+    "stage": "adam",
+    "step": 991,
+    "recorded_loss": 7.437289041249852e-05
+  },
+  {
+    "stage": "adam",
+    "step": 992,
+    "recorded_loss": 6.197048257759523e-05
+  },
+  {
+    "stage": "adam",
+    "step": 993,
+    "recorded_loss": 6.867774538887888e-05
+  },
+  {
+    "stage": "adam",
+    "step": 994,
+    "recorded_loss": 0.00010363020049791017
+  },
+  {
+    "stage": "adam",
+    "step": 995,
+    "recorded_loss": 7.95730835088786e-05
+  },
+  {
+    "stage": "adam",
+    "step": 996,
+    "recorded_loss": 6.188982647769613e-05
+  },
+  {
+    "stage": "adam",
+    "step": 997,
+    "recorded_loss": 0.00015897405460763435
+  },
+  {
+    "stage": "adam",
+    "step": 998,
+    "recorded_loss": 0.00011016598061447466
+  },
+  {
+    "stage": "adam",
+    "step": 999,
+    "recorded_loss": 5.573349727975511e-05
+  },
+  {
+    "stage": "adam",
+    "step": 1000,
+    "recorded_loss": 9.541653123025653e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 1,
+    "recorded_loss": 9.263955771581651e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 2,
+    "recorded_loss": 9.24385024084338e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 3,
+    "recorded_loss": 9.14122931389417e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 4,
+    "recorded_loss": 8.991782203200689e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 5,
+    "recorded_loss": 8.818280061368294e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 6,
+    "recorded_loss": 8.586673781191042e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 7,
+    "recorded_loss": 8.430795018492295e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 8,
+    "recorded_loss": 8.24965717242744e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 9,
+    "recorded_loss": 8.030158358162187e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 10,
+    "recorded_loss": 7.744126849058116e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 11,
+    "recorded_loss": 7.584599294671188e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 12,
+    "recorded_loss": 7.42961463465715e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 13,
+    "recorded_loss": 7.304498800820943e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 14,
+    "recorded_loss": 7.268705448319e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 15,
+    "recorded_loss": 7.031810565058771e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 16,
+    "recorded_loss": 6.959164420614273e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 17,
+    "recorded_loss": 6.810145312220172e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 18,
+    "recorded_loss": 6.232299187859571e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 19,
+    "recorded_loss": 5.674746290016172e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 20,
+    "recorded_loss": 4.8954162524969e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 21,
+    "recorded_loss": 4.392798780667345e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 22,
+    "recorded_loss": 3.897749178467335e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 23,
+    "recorded_loss": 3.4573954866187356e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 24,
+    "recorded_loss": 3.133176555221979e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 25,
+    "recorded_loss": 2.9003791714105333e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 26,
+    "recorded_loss": 2.627734583971736e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 27,
+    "recorded_loss": 2.5497186272472385e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 28,
+    "recorded_loss": 2.436646702593744e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 29,
+    "recorded_loss": 2.2630447111498438e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 30,
+    "recorded_loss": 2.0459012300359385e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 31,
+    "recorded_loss": 1.855214778378088e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 32,
+    "recorded_loss": 1.5932922252120893e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 33,
+    "recorded_loss": 1.4337698095201853e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 34,
+    "recorded_loss": 1.2431796671811657e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 35,
+    "recorded_loss": 1.1454982848056143e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 36,
+    "recorded_loss": 1.094912833559075e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 37,
+    "recorded_loss": 1.0655952506023164e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 38,
+    "recorded_loss": 1.0496737903462718e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 39,
+    "recorded_loss": 1.0068668011604566e-05
+  },
+  {
+    "stage": "ssb",
+    "step": 40,
+    "recorded_loss": 9.879759346120557e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 41,
+    "recorded_loss": 9.586067970785375e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 42,
+    "recorded_loss": 9.154314371469778e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 43,
+    "recorded_loss": 8.778986053491547e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 44,
+    "recorded_loss": 8.378062845728494e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 45,
+    "recorded_loss": 8.016146230495273e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 46,
+    "recorded_loss": 7.795636971829227e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 47,
+    "recorded_loss": 7.654162129163803e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 48,
+    "recorded_loss": 7.4297691856497945e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 49,
+    "recorded_loss": 7.33171560271469e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 50,
+    "recorded_loss": 6.937757214457318e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 51,
+    "recorded_loss": 6.808785870471918e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 52,
+    "recorded_loss": 6.616701706443691e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 53,
+    "recorded_loss": 6.400479326187366e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 54,
+    "recorded_loss": 6.243151180247772e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 55,
+    "recorded_loss": 5.669954541556801e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 56,
+    "recorded_loss": 5.426117763715298e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 57,
+    "recorded_loss": 5.219887499194312e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 58,
+    "recorded_loss": 4.799707736056215e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 59,
+    "recorded_loss": 4.587960199232173e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 60,
+    "recorded_loss": 4.246530888431929e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 61,
+    "recorded_loss": 3.961100322333213e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 62,
+    "recorded_loss": 3.820978918322654e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 63,
+    "recorded_loss": 3.7035611809715254e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 64,
+    "recorded_loss": 3.404919725059546e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 65,
+    "recorded_loss": 3.201287245529788e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 66,
+    "recorded_loss": 3.046880043918956e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 67,
+    "recorded_loss": 2.975441519135187e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 68,
+    "recorded_loss": 2.909557637765979e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 69,
+    "recorded_loss": 2.7407385980112803e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 70,
+    "recorded_loss": 2.610862224236422e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 71,
+    "recorded_loss": 2.493411595653502e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 72,
+    "recorded_loss": 2.414286181635276e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 73,
+    "recorded_loss": 2.2991613440529407e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 74,
+    "recorded_loss": 2.211277192322207e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 75,
+    "recorded_loss": 2.1092183183836786e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 76,
+    "recorded_loss": 2.0288178546528783e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 77,
+    "recorded_loss": 1.9769558912225986e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 78,
+    "recorded_loss": 1.8338647952894051e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 79,
+    "recorded_loss": 1.7699602003710394e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 80,
+    "recorded_loss": 1.7117126610731334e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 81,
+    "recorded_loss": 1.6065407215822716e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 82,
+    "recorded_loss": 1.5243260726289826e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 83,
+    "recorded_loss": 1.4241635969056709e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 84,
+    "recorded_loss": 1.393727286362365e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 85,
+    "recorded_loss": 1.3256995455409915e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 86,
+    "recorded_loss": 1.2952327705404388e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 87,
+    "recorded_loss": 1.2415975280342905e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 88,
+    "recorded_loss": 1.1683393202185237e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 89,
+    "recorded_loss": 1.1131647468013724e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 90,
+    "recorded_loss": 1.0683525361801275e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 91,
+    "recorded_loss": 1.0416366892608246e-06
+  },
+  {
+    "stage": "ssb",
+    "step": 92,
+    "recorded_loss": 9.359258249532917e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 93,
+    "recorded_loss": 8.810846476947256e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 94,
+    "recorded_loss": 8.21134688006953e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 95,
+    "recorded_loss": 7.860055106707123e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 96,
+    "recorded_loss": 7.350323237635811e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 97,
+    "recorded_loss": 6.755435841090333e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 98,
+    "recorded_loss": 6.493567126825138e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 99,
+    "recorded_loss": 6.265095081700768e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 100,
+    "recorded_loss": 6.078144241710432e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 101,
+    "recorded_loss": 5.766968311828778e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 102,
+    "recorded_loss": 5.627848781740575e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 103,
+    "recorded_loss": 5.329561074746211e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 104,
+    "recorded_loss": 5.225470267958511e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 105,
+    "recorded_loss": 4.863012323397329e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 106,
+    "recorded_loss": 4.715339963534383e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 107,
+    "recorded_loss": 4.589791169140392e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 108,
+    "recorded_loss": 4.2469437593023336e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 109,
+    "recorded_loss": 4.0788765684292087e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 110,
+    "recorded_loss": 3.826127040760633e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 111,
+    "recorded_loss": 3.55451260544143e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 112,
+    "recorded_loss": 3.2022466300631264e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 113,
+    "recorded_loss": 2.978005752221127e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 114,
+    "recorded_loss": 2.834140607892731e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 115,
+    "recorded_loss": 2.74437617582541e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 116,
+    "recorded_loss": 2.709715065118117e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 117,
+    "recorded_loss": 2.531528019057482e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 118,
+    "recorded_loss": 2.4598327273993124e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 119,
+    "recorded_loss": 2.385743526240065e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 120,
+    "recorded_loss": 2.2413206380017413e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 121,
+    "recorded_loss": 2.133421424977031e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 122,
+    "recorded_loss": 2.085418853595576e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 123,
+    "recorded_loss": 1.9735950025977378e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 124,
+    "recorded_loss": 1.872053546325878e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 125,
+    "recorded_loss": 1.7823993619944144e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 126,
+    "recorded_loss": 1.7628887402041507e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 127,
+    "recorded_loss": 1.6986162848570605e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 128,
+    "recorded_loss": 1.596377786712088e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 129,
+    "recorded_loss": 1.5529184728745195e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 130,
+    "recorded_loss": 1.4938966670545573e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 131,
+    "recorded_loss": 1.4358931028801088e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 132,
+    "recorded_loss": 1.3778491792438522e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 133,
+    "recorded_loss": 1.3120778698244576e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 134,
+    "recorded_loss": 1.262969549869417e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 135,
+    "recorded_loss": 1.2309848320510883e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 136,
+    "recorded_loss": 1.1980737833605048e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 137,
+    "recorded_loss": 1.1777511267890897e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 138,
+    "recorded_loss": 1.1509763525230616e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 139,
+    "recorded_loss": 1.1320860791315633e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 140,
+    "recorded_loss": 1.0962618605005665e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 141,
+    "recorded_loss": 1.067181014668743e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 142,
+    "recorded_loss": 1.0505399110280738e-07
+  },
+  {
+    "stage": "ssb",
+    "step": 143,
+    "recorded_loss": 9.953146313707776e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 144,
+    "recorded_loss": 9.614858508924342e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 145,
+    "recorded_loss": 9.288700843593062e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 146,
+    "recorded_loss": 8.796697472947714e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 147,
+    "recorded_loss": 8.49867517680765e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 148,
+    "recorded_loss": 8.344985184953127e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 149,
+    "recorded_loss": 8.192882985928883e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 150,
+    "recorded_loss": 8.086162915772491e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 151,
+    "recorded_loss": 8.017638858431528e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 152,
+    "recorded_loss": 7.900585432590675e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 153,
+    "recorded_loss": 7.804764774802811e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 154,
+    "recorded_loss": 7.68080324722691e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 155,
+    "recorded_loss": 7.487085043822815e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 156,
+    "recorded_loss": 7.3648746194849e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 157,
+    "recorded_loss": 7.227943006565358e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 158,
+    "recorded_loss": 7.102380351564358e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 159,
+    "recorded_loss": 6.907438519268632e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 160,
+    "recorded_loss": 6.806632834986959e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 161,
+    "recorded_loss": 6.730622274347714e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 162,
+    "recorded_loss": 6.611720016876935e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 163,
+    "recorded_loss": 6.524488586442527e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 164,
+    "recorded_loss": 6.441125798525681e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 165,
+    "recorded_loss": 6.360147407940958e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 166,
+    "recorded_loss": 6.271244882217265e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 167,
+    "recorded_loss": 6.181982064043268e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 168,
+    "recorded_loss": 6.10966334807969e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 169,
+    "recorded_loss": 6.03414999084856e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 170,
+    "recorded_loss": 5.924029096151269e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 171,
+    "recorded_loss": 5.8341205707584075e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 172,
+    "recorded_loss": 5.7620884787772815e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 173,
+    "recorded_loss": 5.6618567052387224e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 174,
+    "recorded_loss": 5.604204233303773e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 175,
+    "recorded_loss": 5.538632995232393e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 176,
+    "recorded_loss": 5.4216088955315894e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 177,
+    "recorded_loss": 5.356834666535854e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 178,
+    "recorded_loss": 5.2420078326349785e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 179,
+    "recorded_loss": 5.206336865598139e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 180,
+    "recorded_loss": 5.1138000856294225e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 181,
+    "recorded_loss": 5.0357257911847576e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 182,
+    "recorded_loss": 4.954859198291798e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 183,
+    "recorded_loss": 4.8563493415083306e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 184,
+    "recorded_loss": 4.792591983060025e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 185,
+    "recorded_loss": 4.754663954222197e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 186,
+    "recorded_loss": 4.5694879384565383e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 187,
+    "recorded_loss": 4.493269264805938e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 188,
+    "recorded_loss": 4.3996520593720465e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 189,
+    "recorded_loss": 4.2126659336868224e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 190,
+    "recorded_loss": 4.059260960153767e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 191,
+    "recorded_loss": 4.0340134370135536e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 192,
+    "recorded_loss": 3.9604083267800476e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 193,
+    "recorded_loss": 3.891947184855998e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 194,
+    "recorded_loss": 3.850432943538209e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 195,
+    "recorded_loss": 3.810410595216165e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 196,
+    "recorded_loss": 3.771808850458508e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 197,
+    "recorded_loss": 3.7096301058595175e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 198,
+    "recorded_loss": 3.6767880338088585e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 199,
+    "recorded_loss": 3.661125802793954e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 200,
+    "recorded_loss": 3.5848000204450676e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 201,
+    "recorded_loss": 3.541848942146674e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 202,
+    "recorded_loss": 3.497974600544337e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 203,
+    "recorded_loss": 3.4489068282758795e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 204,
+    "recorded_loss": 3.416514529786488e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 205,
+    "recorded_loss": 3.389350077197427e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 206,
+    "recorded_loss": 3.370225792988606e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 207,
+    "recorded_loss": 3.309220485404186e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 208,
+    "recorded_loss": 3.264816614565824e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 209,
+    "recorded_loss": 3.232829394746063e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 210,
+    "recorded_loss": 3.176611227138223e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 211,
+    "recorded_loss": 3.120129119949502e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 212,
+    "recorded_loss": 3.075140944495839e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 213,
+    "recorded_loss": 3.0359984660692664e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 214,
+    "recorded_loss": 2.9491437691462617e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 215,
+    "recorded_loss": 2.8959591497686078e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 216,
+    "recorded_loss": 2.877189592460266e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 217,
+    "recorded_loss": 2.8374623431331398e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 218,
+    "recorded_loss": 2.809707054972844e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 219,
+    "recorded_loss": 2.787634486981013e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 220,
+    "recorded_loss": 2.7815660454730468e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 221,
+    "recorded_loss": 2.7498575670708505e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 222,
+    "recorded_loss": 2.7266803589756786e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 223,
+    "recorded_loss": 2.6959577050641518e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 224,
+    "recorded_loss": 2.6649686344451582e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 225,
+    "recorded_loss": 2.6089750651545615e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 226,
+    "recorded_loss": 2.561036071157107e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 227,
+    "recorded_loss": 2.5232065209395566e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 228,
+    "recorded_loss": 2.4745326725489307e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 229,
+    "recorded_loss": 2.444714844143882e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 230,
+    "recorded_loss": 2.3823096237881436e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 231,
+    "recorded_loss": 2.36828830278608e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 232,
+    "recorded_loss": 2.343326166442221e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 233,
+    "recorded_loss": 2.3086067404171555e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 234,
+    "recorded_loss": 2.2766935444357045e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 235,
+    "recorded_loss": 2.2515652684933568e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 236,
+    "recorded_loss": 2.23682857433054e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 237,
+    "recorded_loss": 2.2076352190902537e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 238,
+    "recorded_loss": 2.1925160626542152e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 239,
+    "recorded_loss": 2.1849505978060988e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 240,
+    "recorded_loss": 2.146478206215959e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 241,
+    "recorded_loss": 2.1275999275090067e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 242,
+    "recorded_loss": 2.119519973311379e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 243,
+    "recorded_loss": 2.0851852739248606e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 244,
+    "recorded_loss": 2.0689996303007486e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 245,
+    "recorded_loss": 2.0534171254754088e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 246,
+    "recorded_loss": 2.027293545276189e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 247,
+    "recorded_loss": 2.0006119579313744e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 248,
+    "recorded_loss": 1.973473190564507e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 249,
+    "recorded_loss": 1.9575472423312133e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 250,
+    "recorded_loss": 1.9394535535579644e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 251,
+    "recorded_loss": 1.9205574017912116e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 252,
+    "recorded_loss": 1.903587106251936e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 253,
+    "recorded_loss": 1.8774589541270586e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 254,
+    "recorded_loss": 1.868836888438114e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 255,
+    "recorded_loss": 1.852811183717988e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 256,
+    "recorded_loss": 1.8397001670971494e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 257,
+    "recorded_loss": 1.8265328328100353e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 258,
+    "recorded_loss": 1.807157753611197e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 259,
+    "recorded_loss": 1.7815712623490447e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 260,
+    "recorded_loss": 1.767558613689583e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 261,
+    "recorded_loss": 1.7489331237117763e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 262,
+    "recorded_loss": 1.7097145161371844e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 263,
+    "recorded_loss": 1.6864400611802064e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 264,
+    "recorded_loss": 1.6587424460414696e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 265,
+    "recorded_loss": 1.6317074015609544e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 266,
+    "recorded_loss": 1.6198852041792702e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 267,
+    "recorded_loss": 1.5868289587557695e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 268,
+    "recorded_loss": 1.572498463216693e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 269,
+    "recorded_loss": 1.5531926141027653e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 270,
+    "recorded_loss": 1.5322252655752884e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 271,
+    "recorded_loss": 1.5259150266806828e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 272,
+    "recorded_loss": 1.4964727350284398e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 273,
+    "recorded_loss": 1.4908011254510425e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 274,
+    "recorded_loss": 1.4719598470361617e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 275,
+    "recorded_loss": 1.4534803967310603e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 276,
+    "recorded_loss": 1.4367421449656814e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 277,
+    "recorded_loss": 1.4241577386969249e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 278,
+    "recorded_loss": 1.4081217695853956e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 279,
+    "recorded_loss": 1.3885531920448223e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 280,
+    "recorded_loss": 1.3672965713021727e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 281,
+    "recorded_loss": 1.3535546838026835e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 282,
+    "recorded_loss": 1.3391239954643958e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 283,
+    "recorded_loss": 1.317041127087796e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 284,
+    "recorded_loss": 1.3005015505888073e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 285,
+    "recorded_loss": 1.2875472754481414e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 286,
+    "recorded_loss": 1.2811781746096422e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 287,
+    "recorded_loss": 1.2530544469902312e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 288,
+    "recorded_loss": 1.2402901344280845e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 289,
+    "recorded_loss": 1.232260794881424e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 290,
+    "recorded_loss": 1.2228720691323532e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 291,
+    "recorded_loss": 1.2087583167905733e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 292,
+    "recorded_loss": 1.1933598353612173e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 293,
+    "recorded_loss": 1.1724999433649506e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 294,
+    "recorded_loss": 1.1590264064067211e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 295,
+    "recorded_loss": 1.1392313892298055e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 296,
+    "recorded_loss": 1.117646847412833e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 297,
+    "recorded_loss": 1.1065860016033956e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 298,
+    "recorded_loss": 1.0911794697039634e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 299,
+    "recorded_loss": 1.0821119902308297e-08
+  },
+  {
+    "stage": "ssb",
+    "step": 300,
+    "recorded_loss": 1.0724022314364294e-08
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "case": "M8_ACTUAL3975_BASIS119_20261030",
+    "source_pin_file_sha256": "4cd03f078945e5ec9f7ff073ac41e01b49e10d0d83c19423604cc5bd6e71a843",
+    "items": [
+      {
+        "file": "m8_report_physics_runtime.py",
+        "expected_sha256": "4f6a0293479b31d26fa2553933f97831d7332aa6cf3ab8f73ce92d01a32354ae",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "m8_stream_characteristic.py",
+        "expected_sha256": "10edeeed3bc2928b65d3c8d79a5abd41bde97fb025eab730c31599325f76f842",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "run_actual_m8_basis119.py",
+        "expected_sha256": "389dccf421fbdf5eb0de3bce7d35a31ababbba921d9f5b5edda3af1f926bbb77",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "FROZEN_MACROS.npz",
+        "expected_sha256": "e1a5273d7ab5f7cb8a2ac857a804ea13ff7ed3dd59204accad0c04813f44cd2d",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "FROZEN_CANDIDATE.json",
+        "expected_sha256": "5a4749590d55a798a758802c79134d331d45bbd2d59a77eaba49388676b76e6a",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "NN_MODEL_ONLY.pt",
+        "expected_sha256": "2e5d47b9091d074619a6e2b006bcf110feb73af464c8cbee150e991196b8d2f3",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "base_solver.py",
+        "expected_sha256": "b91bfb4db2dcdde49302e83882b62f861b4e6ecb628790195db5aa8ad8b44510",
+        "source_exists": true,
+        "source_hash_matches": true
+      }
+    ]
+  },
+  {
+    "case": "M12_SPLIT235_FROM_M8_20261031",
+    "source_pin_file_sha256": "3e4c2233018a826b26088dbb04082904e01b977e411d9ff3f28b04c4d2c39382",
+    "items": [
+      {
+        "file": "FROZEN_FIELD_STATE.npz",
+        "expected_sha256": "2b9c5bc31faf69ad8a3e43770ed5b64ef1c2b18f473cb95842f06548a0064f0a",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "NN_MODEL_ONLY.pt",
+        "expected_sha256": "2e5d47b9091d074619a6e2b006bcf110feb73af464c8cbee150e991196b8d2f3",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "m12_physics_runtime.py",
+        "expected_sha256": "81f9e79b663a31640c5970373082b774b7c20c665f2b9845a582df2fc2f60ad4",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "m8_stream_characteristic.py",
+        "expected_sha256": "10edeeed3bc2928b65d3c8d79a5abd41bde97fb025eab730c31599325f76f842",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "base_solver.py",
+        "expected_sha256": "b91bfb4db2dcdde49302e83882b62f861b4e6ecb628790195db5aa8ad8b44510",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "RESULT.json",
+        "expected_sha256": "98dbd665d4fe5d65e244fdaebe4b014fd2b522d4f1152ee021aec9d5d916849f",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "FROZEN_CANDIDATE.json",
+        "expected_sha256": "804a80fe876663dbf9de023a1e829f41e8aa564cea6f29224db89bd53244fd0f",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "FROZEN_PROTOCOL.json",
+        "expected_sha256": "7c06aeae793de7cac9c77052121f8034ce30fa41c5d82d08de15e25584907afe",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "from_m8_SEED.npz",
+        "expected_sha256": "b596cf499ccedbe347502ab7c893d28e3e7fa65e2245b842cb3756d1b656f14e",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "FIXED_GEOMETRY.npz",
+        "expected_sha256": "4755c5fb10095cf0ebf5a0ad30a4be66c15d4adfabefbf08d106126806861313",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "TRAIN_GEOMETRY.npz",
+        "expected_sha256": "b96815af86466a344f50729ff987c244fd6aa79d336b3e7aa8ffdcb237d27bda",
+        "source_exists": true,
+        "source_hash_matches": true
+      },
+      {
+        "file": "run_m12_split235_correction.py",
+        "expected_sha256": "b6f20e2eeeea3c9d44a0c6cf1650bf04aa60d2c366bad62a1fd0f5e96c62aa72",
+        "source_exists": true,
+        "source_hash_matches": true
+      }
+    ]
+  }
+]

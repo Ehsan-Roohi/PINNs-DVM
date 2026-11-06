@@ -1,0 +1,64 @@
+{
+  "status": "PAIR_MEMBER_EVALUATED",
+  "collision": "shakhov",
+  "training_status": "COMPLETE",
+  "columns": [
+    "rho",
+    "u",
+    "T",
+    "q",
+    "sigma",
+    "m",
+    "R",
+    "Delta",
+    "S"
+  ],
+  "comparisons": {
+    "REFERENCE_3200": {
+      "relative_L2_percent": [
+        0.009589973564555286,
+        0.20291886226799868,
+        0.009184223928705696,
+        0.4100555094782145,
+        0.36056122721312317,
+        0.8284172598084878,
+        1.7124938372516714,
+        1.3978717240384197,
+        1.5748360621206423
+      ],
+      "q_prediction_peak": 0.0435444731267573,
+      "q_reference_peak": 0.04333901664287951,
+      "q_peak_location_prediction": -0.03359374999999998,
+      "q_peak_location_reference": -0.03359374999999998
+    }
+  },
+  "reference_1600_vs3200_percent": [
+    0.009499706380073483,
+    0.20422375711483323,
+    0.00914726369990903,
+    0.40603088637226153,
+    0.35776315556621024,
+    0.8177797508195044,
+    1.6957066972956671,
+    1.3827897923240227,
+    1.5587770339777
+  ],
+  "parent_vs3200_percent": [
+    0.00958576453226517,
+    0.20271842394528128,
+    0.009069823845405146,
+    0.41210270107520397,
+    0.35683059237038234,
+    0.8268310059860488,
+    1.713623382060508,
+    1.3978918140383527,
+    1.575440862447537
+  ],
+  "parent_checkpoint_sha256": "6a1cdc9c1013e4f582e9f14b551503383d30f2ba157486883e1fc0386d458ee0",
+  "continuation_additional_steps": 200,
+  "checkpoint_unchanged_after_postsolve": true,
+  "training_used_field_data": false,
+  "physical_convergence_claim": false,
+  "elapsed_seconds": 200.26232151314616,
+  "peak_cuda_bytes": 47413760
+}

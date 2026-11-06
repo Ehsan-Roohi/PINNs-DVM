@@ -1,0 +1,78 @@
+{
+  "step": 500,
+  "finished": true,
+  "reason": "step_budget",
+  "signature": "74dd4db9774f19da095931cd0797c36f912d4202c2cc4faf3db41585503b2497",
+  "frozen_objective_hash": "2f61667b62cfa62215a16ea778f4095fee27e1c8808ea6a83e111f85e5a30dcf",
+  "loss": 0.0001774424125019174,
+  "gradient_norm": 0.027144153362927727,
+  "validation": {
+    "terms": {
+      "kinetic": 1.7863970090848016e-05,
+      "tail": 0.00018290096599124202,
+      "raw": 3.59473214747089e-08,
+      "flux": 1.9640389793895268e-07,
+      "invariant": 2.183994564846825e-07,
+      "stress": 2.101705508727332e-07,
+      "heat": 3.367069963886109e-07,
+      "R_projection": 1.8600665186526815e-06,
+      "Delta_projection": 4.691503016821313e-06,
+      "phase": 3.887264106291473e-09,
+      "boundary": 2.944273022836194e-07
+    },
+    "metrics": {
+      "flux_max": 0.001961427518185066,
+      "projection_max": 0.006055590427199701,
+      "f_negative_mass": 4.114972521400269e-05,
+      "target_negative_mass": 0.00013106321806002615,
+      "rho_min": 0.999769762093861,
+      "T_min": 0.9997838528554365,
+      "incoming_max": 1.9637925148368993e-15,
+      "outgoing_left_rms": 0.007025497548785865,
+      "outgoing_right_rms": 0.0006718127810687348,
+      "collision_invariant_defect_max": 5.881076647238242e-14
+    }
+  },
+  "refinement": {
+    "normalized_refinement_max": [
+      2.49280335895552e-06,
+      1.392544907952075e-06,
+      1.83273963851487e-06,
+      7.4673007819077235e-06,
+      5.7526994273748855e-06,
+      2.4466901093543707e-05,
+      2.517122912615027e-05,
+      3.2829179551310764e-05
+    ],
+    "normalized_velocity_extension_max": [
+      3.2460716198334794e-09,
+      1.804716135397079e-09,
+      2.3860007971059094e-09,
+      9.73127878480345e-09,
+      7.497132774241478e-09,
+      3.187025712799517e-08,
+      3.2803613873709806e-08,
+      4.276916880117116e-08
+    ],
+    "velocity_extension_vmax": 18.0,
+    "velocity_extension_nvx": 216,
+    "velocity_extension_nr": 72
+  },
+  "acceptance": {
+    "physics_checks": {
+      "flux": false,
+      "projection": false,
+      "kinetic": false,
+      "tail": false,
+      "phase": true,
+      "quadrature": true,
+      "positive_macros": true
+    },
+    "local_physics_gate_pass": false,
+    "CONVERGED": false,
+    "endpoint_equilibrium_diagnostic": 2.944273022836194e-07,
+    "interpretation": "Necessary diagnostics only; domain independence and an independent solution check remain required."
+  },
+  "checkpoint_sha256": "e57fdc024de44b6c3f2d4cf423973a63a1f73dbb5767ad7af472e75a7b6c1916",
+  "peak_gpu_bytes": 2570241024
+}

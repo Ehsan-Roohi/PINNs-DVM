@@ -1,0 +1,18 @@
+{
+  "L": 30,
+  "nx": 128,
+  "chunk_size": 8,
+  "steps": 500,
+  "wall_seconds": 2400,
+  "checkpoint_every": 25,
+  "validation_every": 25,
+  "c1": 0.0001,
+  "c2": 0.9,
+  "max_evals": 40,
+  "max_step": 10,
+  "initial_step": 1,
+  "gtol": 1e-12,
+  "input_checkpoint_sha256": "eb22496ba34a1f5a3519f6a959e6c62a7b7088a4aa84389de6b6ce46e68d25f7",
+  "input_signature": "296bff4194d722dadefc6c374070e5769f89bcec37c38f747692fdb5662af4b7",
+  "phase": "new fixed-objective SSB phase from own unsupervised Adam checkpoint; no foreign curvature"
+}

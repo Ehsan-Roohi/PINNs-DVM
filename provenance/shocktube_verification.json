@@ -1,0 +1,31 @@
+{
+  "all_jobs_terminal": true,
+  "ALL_members_verified": true,
+  "all_local_members_verified": true,
+  "all_durable_members_verified": true,
+  "verified_files": {
+    "[private-location:5ac42ea4f395]": "ef062c38e35529d49532588dcbde4759e3b3876e3e7b05e91b8f90c4b8f0d79d",
+    "[private-location:8f9bd874f7e9]": "e705c7ecdb027883df4d39a1fd99a3493d19ed2eed2aff02f3cf3a34e0915bac",
+    "[private-location:910bfce5ce14]": "02c7064c1053dceb09a875cb5451a11e6f0c9d53ee9719f46b60213fe5f523cc",
+    "[private-location:78b9feb48647]": "c0fb7ae3faf18cea9a62d68d4a56290f6d9e28104f4228d1d9398c5e03ebe11f",
+    "[private-location:d88802b2e4c8]": "0036dc37d14bbf59c0851f4fe7907275f70610678ccb5cef1e9ebcbcbf140dd2",
+    "[private-location:7e15ce37336b]": "e6661df25e10bca642c8a0671d38f0491db5c80841b77daa65c18df080f0a880",
+    "[private-location:123bd1f729d5]": "e3e5fdfaac4e5e8285c381bfa07ce0d1b41d12f8e1f3bec7001820197dfb23fa",
+    "[private-location:17a0aa22f826]": "d5cf3e107efd93240fd27b20562756b9fbfc2696d4964784a153c759339417f8",
+    "[private-location:b074cf9b8227]": "521e6acb66dea7142c6a21f84d92cb66649576d7e70bfdb9c80679f583d28692",
+    "[private-location:581bb38586cb]": "83d4940e394af7fc3526a9a3e7c98b47fe83dba5265374537413ac024c1729cb",
+    "[private-location:8859ab5ae758]": "6d127a4ba08e7d550b00ea24c73911041fd1285d37167b1bc8c9ffe932690c5a",
+    "[private-location:96cfe04fa500]": "9a23c9122777efd4ed2944d2e6358e7cb0b404e05369e8f6b0b508cfc5a215e8",
+    "[private-location:f7b5097712b6]": "6e5f3c7ae1f8c02b62597901cdf624776ef4197dda0499b710e993815f67ef4f",
+    "[private-location:4dacd888f3e9]": "9ff1e4fe5b22880f6287ef86932f1bafb0aa2ae0ccfe5b17c2d66c77c1643dd6",
+    "[private-location:1b29921f0d3d]": "2723076211f8b03f02a5b899477bec7da93f8023c4c2ba2ebe09918436d9eb4e",
+    "[private-location:dc33dd88ec80]": "9a82a1b11d930913dd235a5d49efc28e1a3fbe97faff8e9c2a7dc01e8698635f",
+    "[private-location:72ce16819999]": "36ae4862648c89a1249327217ad124d6dfc0d28b509aa45cba7a251616f8397c",
+    "[private-location:12c0a9f7f535]": "612a12ee4568d6f2d57c9205fdd0af8cf09016daea2b64cd53b52f8af98ce7bc"
+  },
+  "nativearchivehash": "1215c25fed147242044d8a779e8c6843c66501402d705138da046eea0f42bcab",
+  "local_ack_sha256": "d4cc110e02a0d6549d48aa6cd22a3af7bf32777b171f8821a8e1462ba2a129e2",
+  "history_ack_sha256": "8a2ac00b0cae82f4b28f974671d959935ea7393acc124f1e968110256b7479ac",
+  "extractor_sha256": "8a7acce09d79494f2212013f3869ee318fdb6c97b2aaa6b569261b3df772d8bf",
+  "scope": "Selected saved arrays and JSON only; no checkpoint extraction, model loading or solver execution."
+}

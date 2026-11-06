@@ -1,0 +1,2 @@
+step,loss_before,loss_after,rank,singular_minmax_ratio,trust_scale,alpha,max_step_du_over_J,max_step_dT_over_T2
+1,5.8042249040097e-10,1.6718817143682077e-10,469,0.005764348525018162,1.0,1.0,8.502080466808887e-05,0.0001014714743300116
