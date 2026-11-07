@@ -1,6 +1,6 @@
 # PINNs-DVM
 
-Code and saved results for **Neural kinetic solvers for shock waves: sparse-moment supervision and physics-based training**.
+Code and saved results for **Physics-informed neural networks (PINNs) for kinetic shock waves with and without moment supervision**.
 
 This repository distinguishes **data-assisted** calculations (moment supervision and reference-derived scales or sampling) from **equation-trained** neural solvers and **equation-based characteristic corrections**. DVM fields are post-solve evaluation data for the latter methods; the supervised subtrees explicitly use reference information during training. Classification is case-specific, not a blanket data-free claim.
 
@@ -17,7 +17,11 @@ This repository distinguishes **data-assisted** calculations (moment supervision
 
 The stationary neural results cover Shakhov Mach 2–5 and BGK Mach 6–7. Characteristic BGK corrections cover Mach 7, 8 and 12. These are own-model continuation trajectories, not separate cold starts at every Mach number. The independent Mach-2 and shock-tube experiments are identified separately.
 
-## Run the shock-tube calculation
+## Data-assisted shock-tube refinement
+
+The [constrained continuation](code/supervised_shocktube/constrained_continuation) contains the executed three-stage algorithm, shared network and configuration, matched reference, saved fields, losses and independent physical assessments. The selected base case has heat-flux and stress relative L2 discrepancies of 1.1811% and 1.3351%. Training inputs and exact checkpoint bindings are documented with the code.
+
+## Run the equation-trained shock-tube calculation
 
 Install `requirements.txt` in a separate Python environment. Linux is recommended.
 

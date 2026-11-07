@@ -2723,6 +2723,46 @@
       "bytes": 1503
     },
     {
+      "path": "code/supervised_shocktube/constrained_continuation/audit_32.py",
+      "sha256": "65a9c5aaef060b1c5297e554552b42f28f98b2a520efbd74f0f802d66d35be14",
+      "bytes": 3679
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/audit_64.py",
+      "sha256": "fcc0d89f7cd1067280d713551c71e90f23ce8e5ef05ac7e67c5f96178cf95e3a",
+      "bytes": 3745
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/balance.py",
+      "sha256": "9b1520c5f079a00e0e9b9c76ebfc1265b11a4a089e00ae02279f8bcf0458a9f3",
+      "bytes": 11754
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/CONFIG.json",
+      "sha256": "3569cf21904793af549d2ac1b786122bd93661ccac387d6cc685e39c40080b16",
+      "bytes": 1552
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/extrema.py",
+      "sha256": "6b2399fe1612b45dc56e5e7fc6bab0cff67cd5fc404fe2db2ac06ca0b7b5d134",
+      "bytes": 12586
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/joint.py",
+      "sha256": "4ff27d86bb09af4a8c4ef21e1edfb0ab17a0add876bcc1339c0f82acc2aef328",
+      "bytes": 9503
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/legacy.py",
+      "sha256": "bab5b7db84dcec760948b2a232e35ecddb1fa282764199af81301c3e2651e59e",
+      "bytes": 19121
+    },
+    {
+      "path": "code/supervised_shocktube/constrained_continuation/README.md",
+      "sha256": "42d988c56c31b9c481fc97667527057e2d5ba22e8214e373753f701caee3b08e",
+      "bytes": 2316
+    },
+    {
       "path": "code/supervised_shocktube/README.md",
       "sha256": "3b66822cd231787f276d3c1b05fc34aff4db05361cf19f8cde48ba10f99fb267",
       "bytes": 2355
@@ -3493,6 +3533,66 @@
       "bytes": 3896
     },
     {
+      "path": "data/supervised_shocktube/constrained_continuation/assessment_32.json",
+      "sha256": "1dff103b45772e8a6a7b17dd0f88220b3a7d2eb42bfb2c3bc6144bc2840b7c77",
+      "bytes": 52991
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/assessment_64.json",
+      "sha256": "9db46feca37a13ce46303f74f36f4717f06fc83f56c39f9c0fcff4daa7275bb3",
+      "bytes": 155698
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/balance/AFTER.npz",
+      "sha256": "bdc38ed9cec8f2d01e1d16fc5364c838fe9b651bd604e54321fb4c32e342fa35",
+      "bytes": 28492
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/balance/LOSS.jsonl",
+      "sha256": "d9ab3da9b4b36dfab40ad39f1616f55e8eb732c1fafa164d459b335cb30f714d",
+      "bytes": 6922
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/balance/RESULT.json",
+      "sha256": "46198f7f049ad983891d08b6c627f56b1c8eb662f4011f40c30eb736688cd96c",
+      "bytes": 3467
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/extrema/AFTER.npz",
+      "sha256": "061d6a9641bc87256e75b367e630a952e302248858c2fecfd4ed99dc501650aa",
+      "bytes": 28492
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/extrema/LOSS.jsonl",
+      "sha256": "fb4a9bca10efc10441782bfd3d77fa8f79e65faf4335df5b8a4fcd3eaeb25f8f",
+      "bytes": 34244
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/extrema/RESULT.json",
+      "sha256": "b873bd3207b3cc85b906c85d961195cd6ff79e05b647f67b7e8b65a31ac607ae",
+      "bytes": 3739
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/joint/AFTER.npz",
+      "sha256": "86e4e0c206aa913ee3bd109db0567f08699690591d28ed1cc7606f936d16c40a",
+      "bytes": 28492
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/joint/LOSS.jsonl",
+      "sha256": "4b9ffb0c22be823a8ad462ca99503c19a8ab0bea0dbbe0af9634bea3c117d00c",
+      "bytes": 17020
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/joint/RESULT.json",
+      "sha256": "f56c93cdf7c431a94eeadceb9d31ef9d0860362ac2870c0733c380fab0d939cb",
+      "bytes": 3146
+    },
+    {
+      "path": "data/supervised_shocktube/constrained_continuation/REFERENCE.npz",
+      "sha256": "f3af7ec26ad6064e27e79a35dab26f2ae1773d39174c00f99f7882b783fd5ec7",
+      "bytes": 13501
+    },
+    {
       "path": "data/supervised_shocktube/evaluation/ablation_v2_metadata.csv",
       "sha256": "3bb4c148db67ae8eeecc5680fc12bc20e4c7de658c9445c4f06f5e8bce2b4eb1",
       "bytes": 786
@@ -3573,9 +3673,24 @@
       "bytes": 22203
     },
     {
+      "path": "provenance/SUPERVISED_ADOPTED_RESULT.json",
+      "sha256": "17f3fa56f9faa11308022298ec8c35d732806bfcc416e624de7aedb7813762b9",
+      "bytes": 648
+    },
+    {
+      "path": "provenance/SUPERVISED_CONTINUATION_BINDINGS.json",
+      "sha256": "a051cf36c37c2952f3fc91a33ca5a14d0455d1a0e2ef74fda6e201ef83eea0da",
+      "bytes": 1741
+    },
+    {
+      "path": "provenance/SUPERVISED_CONTINUATION_MANIFEST.json",
+      "sha256": "c37d3c0404ea45222744f9a9caf2a24f02c5c744975fe465b54ac4c1b3defa2e",
+      "bytes": 2807
+    },
+    {
       "path": "README.md",
-      "sha256": "567378d52df943d5739f86cd04de41f3c249baec7f028a6dce317c620c888fad",
-      "bytes": 6434
+      "sha256": "795481cb256ce39f1b900ae11887c27f457b115d31e0aede41254a7f08d9bdcd",
+      "bytes": 6918
     },
     {
       "path": "requirements.txt",
@@ -3633,5 +3748,6 @@
     "replacement": "provenance/archive_integrity.json",
     "loss_file_catalog": "provenance/loss_catalog.json"
   },
-  "scientific_scope": "Data-assisted and equation-trained cases explicitly separated"
+  "scientific_scope": "Data-assisted and equation-trained cases explicitly separated",
+  "latest_update": "Executed constrained shock-tube continuation, shared model/configuration, reference and saved CPU assessments"
 }

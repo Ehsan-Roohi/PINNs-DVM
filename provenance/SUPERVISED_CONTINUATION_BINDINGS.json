@@ -1,0 +1,32 @@
+{
+  "joint": {
+    "archive_sha256": "bd7bb09232f3b557d1c7e100d9eb669124460979926e7be899324d2654cf891e",
+    "inputs": {
+      "train.py": "4ff27d86bb09af4a8c4ef21e1edfb0ab17a0add876bcc1339c0f82acc2aef328",
+      "CONFIG.json": "3569cf21904793af549d2ac1b786122bd93661ccac387d6cc685e39c40080b16",
+      "legacy.py": "bab5b7db84dcec760948b2a232e35ecddb1fa282764199af81301c3e2651e59e",
+      "INPUT.pt": "129a071c84f1ff037d6394354e5828769286a74a2d4c9a874c9dc27065ef86a6",
+      "REFERENCE.npz": "f3af7ec26ad6064e27e79a35dab26f2ae1773d39174c00f99f7882b783fd5ec7"
+    }
+  },
+  "balance": {
+    "archive_sha256": "1e37b0af1ef5fb4db3b6663035b1ecfc81b07c41bd8628615ed47d989c79a675",
+    "inputs": {
+      "train.py": "9b1520c5f079a00e0e9b9c76ebfc1265b11a4a089e00ae02279f8bcf0458a9f3",
+      "CONFIG.json": "3569cf21904793af549d2ac1b786122bd93661ccac387d6cc685e39c40080b16",
+      "legacy.py": "bab5b7db84dcec760948b2a232e35ecddb1fa282764199af81301c3e2651e59e",
+      "INPUT.pt": "0668e01f77d17328ae301ac7b6830de6f32d7b5d0c1aa3fe0a72cf4208aa70d1",
+      "REFERENCE.npz": "f3af7ec26ad6064e27e79a35dab26f2ae1773d39174c00f99f7882b783fd5ec7"
+    }
+  },
+  "extrema": {
+    "archive_sha256": "de684d9793dff315b3bd713d59d0d45b4fd32a24b45a6dd7c56204c2c50a5147",
+    "inputs": {
+      "train.py": "6b2399fe1612b45dc56e5e7fc6bab0cff67cd5fc404fe2db2ac06ca0b7b5d134",
+      "CONFIG.json": "3569cf21904793af549d2ac1b786122bd93661ccac387d6cc685e39c40080b16",
+      "legacy.py": "bab5b7db84dcec760948b2a232e35ecddb1fa282764199af81301c3e2651e59e",
+      "INPUT.pt": "3044b54b9067b0deb18b8ea57e9c2b7b3e3b5ba4d8e93540d4a06c5b707d5737",
+      "REFERENCE.npz": "f3af7ec26ad6064e27e79a35dab26f2ae1773d39174c00f99f7882b783fd5ec7"
+    }
+  }
+}
