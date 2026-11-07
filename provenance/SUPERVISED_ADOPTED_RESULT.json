@@ -1,0 +1,21 @@
+{
+  "candidate_job": "66898929",
+  "reference": "same original BGK400point reference",
+  "figure": "D:\\ChatGPT Backup\\Projects\\JFM_1410_REVISION_20261105\\AUTHOR_CURRENT\\source\\figures\\supervised\\ORIGINAL_MAIN_SHOCKTUBE_CLEAN.pdf",
+  "new_extrema_summaries": 3,
+  "normalization": "loss curves normalized by each stage own initial component, not a shared objective",
+  "stages": [
+    45,
+    11,
+    44
+  ],
+  "fields_L2_fraction": [
+    6.060989846115797e-07,
+    6.860565024006684e-05,
+    1.7007409202202805e-07,
+    0.011811050060591114,
+    0.013350860907671984
+  ],
+  "no_smoothing": true,
+  "no_alignment": true
+}
