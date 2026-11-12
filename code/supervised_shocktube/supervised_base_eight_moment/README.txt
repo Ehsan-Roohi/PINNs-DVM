@@ -2,7 +2,8 @@ Eight-moment data-assisted BGK shock tube (Kn = 1, t_f = 0.02)
 ================================================================
 
 Material behind section 5.2, table 3, figures 4, 5 and 33 and table 15 of the manuscript
-"Physics-informed neural networks (PINNs) for kinetic shock waves with and without moment supervision".
+"Physics-informed neural networks (PINNs) for kinetic shock waves: simultaneous accuracy of lower- and
+higher-order moments, with and without moment supervision".
 
 accepted_state/
   STATE.pt                 final model state (common-tail envelope, after 35 output-layer updates), with the

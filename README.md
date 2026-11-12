@@ -1,6 +1,6 @@
 # PINNs-DVM
 
-Code and saved results for **Physics-informed neural networks (PINNs) for kinetic shock waves with and without moment supervision**.
+Code and saved results for **Physics-informed neural networks (PINNs) for kinetic shock waves: simultaneous accuracy of lower- and higher-order moments, with and without moment supervision**.
 
 This repository distinguishes **data-assisted** calculations (moment supervision and reference-derived scales or sampling) from **equation-trained** neural solvers and **equation-based characteristic corrections**. DVM fields are post-solve evaluation data for the latter methods; the supervised subtrees explicitly use reference information during training. Classification is case-specific, not a blanket data-free claim.
 
