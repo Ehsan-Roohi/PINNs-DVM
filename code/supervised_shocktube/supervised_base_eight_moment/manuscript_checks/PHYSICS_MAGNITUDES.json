@@ -1,0 +1,346 @@
+{
+ "kernels": [
+  "mass",
+  "momentum",
+  "energy"
+ ],
+ "points": {
+  "training": 64,
+  "selection": 64,
+  "unused": 64
+ },
+ "states": {
+  "five_field": {
+   "training": {
+    "balance_rms": [
+     0.2653577983973448,
+     1.4084133841640465,
+     0.6243156376214459
+    ],
+    "time_term_rms": [
+     0.6607163400973554,
+     4.043122233281953,
+     1.6898552924013244
+    ],
+    "flux_term_rms": [
+     0.702763339393369,
+     3.371562149244333,
+     1.712814591943061
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.4016213650145913,
+     0.3483479605366234,
+     0.36944917143424666
+    ],
+    "kinetic_residual_mean_square": 6.645244698098437e-08,
+    "streaming_mean_square": 6.64756664494396e-08,
+    "collision_mean_square": 2.411342608451918e-12,
+    "residual_over_streaming_rms_ratio": 0.9998253383708076,
+    "residual_over_collision_rms_ratio": 166.0068575867925
+   },
+   "selection": {
+    "balance_rms": [
+     0.26468764218493035,
+     1.1414973202132506,
+     0.6272854414261553
+    ],
+    "time_term_rms": [
+     0.6924064255938047,
+     3.337094323800051,
+     1.7304708298263514
+    ],
+    "flux_term_rms": [
+     0.7385356295197791,
+     3.3080368516244105,
+     1.7504319355793991
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.3822720766317779,
+     0.34206324708058977,
+     0.3624940857795921
+    ],
+    "kinetic_residual_mean_square": 4.275204890495977e-08,
+    "streaming_mean_square": 4.277325498446986e-08,
+    "collision_mean_square": 2.1462981384312692e-12,
+    "residual_over_streaming_rms_ratio": 0.999752079792016,
+    "residual_over_collision_rms_ratio": 141.13458227613123
+   },
+   "unused": {
+    "balance_rms": [
+     0.22231688491096716,
+     1.4757698220006694,
+     0.522172858023082
+    ],
+    "time_term_rms": [
+     0.6362128393519969,
+     3.7004890028874735,
+     1.660937496200995
+    ],
+    "flux_term_rms": [
+     0.722232042390733,
+     3.3801179638408447,
+     1.6324030793385185
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.34943791001986696,
+     0.3988040015384814,
+     0.3143844119465241
+    ],
+    "kinetic_residual_mean_square": 6.781139735625992e-08,
+    "streaming_mean_square": 6.77875466960219e-08,
+    "collision_mean_square": 1.5617349126360402e-12,
+    "residual_over_streaming_rms_ratio": 1.0001759066660458,
+    "residual_over_collision_rms_ratio": 208.3759953538802
+   }
+  },
+  "eight_moment_original_envelopes": {
+   "training": {
+    "balance_rms": [
+     0.1179783515670033,
+     0.43725307974795535,
+     0.24739833246037943
+    ],
+    "time_term_rms": [
+     0.726633880962049,
+     3.37931786868854,
+     1.808815413267619
+    ],
+    "flux_term_rms": [
+     0.7349051292389663,
+     3.364932346458816,
+     1.7916243250305028
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.16236285515726612,
+     0.12939092939417574,
+     0.1367736755479406
+    ],
+    "kinetic_residual_mean_square": 7.656365717779855e-09,
+    "streaming_mean_square": 7.6602821765353e-09,
+    "collision_mean_square": 1.998131387750355e-12,
+    "residual_over_streaming_rms_ratio": 0.9997443332123152,
+    "residual_over_collision_rms_ratio": 61.901235031579155
+   },
+   "selection": {
+    "balance_rms": [
+     0.12089828339148607,
+     0.7436751479597209,
+     0.29873228255694345
+    ],
+    "time_term_rms": [
+     0.6596546315099804,
+     3.53939709854125,
+     1.6334024421157576
+    ],
+    "flux_term_rms": [
+     0.6475295495947107,
+     3.346192094465777,
+     1.5909659206757483
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.18327512249060426,
+     0.21011351008515658,
+     0.18288957751893248
+    ],
+    "kinetic_residual_mean_square": 1.5911883707560872e-08,
+    "streaming_mean_square": 1.5927349133264256e-08,
+    "collision_mean_square": 1.7686819960589138e-12,
+    "residual_over_streaming_rms_ratio": 0.9995143830394353,
+    "residual_over_collision_rms_ratio": 94.84969102940599
+   },
+   "unused": {
+    "balance_rms": [
+     0.12269609036544446,
+     0.8102605746604477,
+     0.34657108446686985
+    ],
+    "time_term_rms": [
+     0.63229405187781,
+     3.4952128961582556,
+     1.537779934140614
+    ],
+    "flux_term_rms": [
+     0.6468469557244537,
+     3.429069358634068,
+     1.5323266492226164
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.19404909788579716,
+     0.23182009186079658,
+     0.22537105392817508
+    ],
+    "kinetic_residual_mean_square": 1.976895309426654e-08,
+    "streaming_mean_square": 1.9796943416167437e-08,
+    "collision_mean_square": 1.3441617637626646e-12,
+    "residual_over_streaming_rms_ratio": 0.9992928145020179,
+    "residual_over_collision_rms_ratio": 121.27354334067918
+   }
+  },
+  "common_tail_same_weights": {
+   "training": {
+    "balance_rms": [
+     0.1179789576614384,
+     0.43723708342930867,
+     0.24728169570504224
+    ],
+    "time_term_rms": [
+     0.7266339899921136,
+     3.3793178163787942,
+     1.8088157939598424
+    ],
+    "flux_term_rms": [
+     0.7349051252111878,
+     3.3649295856012005,
+     1.7916159278773252
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.1623636649074438,
+     0.1293861978030355,
+     0.1367091643774823
+    ],
+    "kinetic_residual_mean_square": 7.652247865181377e-09,
+    "streaming_mean_square": 7.656189816044952e-09,
+    "collision_mean_square": 1.9980763088262835e-12,
+    "residual_over_streaming_rms_ratio": 0.9997425313055117,
+    "residual_over_collision_rms_ratio": 61.88543945181931
+   },
+   "selection": {
+    "balance_rms": [
+     0.12089814121685821,
+     0.743673200516727,
+     0.29877938150045863
+    ],
+    "time_term_rms": [
+     0.6596546161537012,
+     3.5393972230017967,
+     1.63340266312273
+    ],
+    "flux_term_rms": [
+     0.6475295761974622,
+     3.3461907269213955,
+     1.5909650523947287
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.18327491122822467,
+     0.21011295247782635,
+     0.182918387637041
+    ],
+    "kinetic_residual_mean_square": 1.590948356821605e-08,
+    "streaming_mean_square": 1.5924958465020107e-08,
+    "collision_mean_square": 1.7686734170842728e-12,
+    "residual_over_streaming_rms_ratio": 0.9995140126093777,
+    "residual_over_collision_rms_ratio": 94.84276724056485
+   },
+   "unused": {
+    "balance_rms": [
+     0.12269607700076166,
+     0.8102681181535457,
+     0.3465489104818093
+    ],
+    "time_term_rms": [
+     0.6322941246406631,
+     3.4952128984249407,
+     1.5377801921395557
+    ],
+    "flux_term_rms": [
+     0.6468470041067488,
+     3.429067684144004,
+     1.5323244562191034
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.1940490544182909,
+     0.2318222499461133,
+     0.22535659664054217
+    ],
+    "kinetic_residual_mean_square": 1.9768371370569636e-08,
+    "streaming_mean_square": 1.9796375168476042e-08,
+    "collision_mean_square": 1.3440711293021274e-12,
+    "residual_over_streaming_rms_ratio": 0.9992924535889167,
+    "residual_over_collision_rms_ratio": 121.27584779963851
+   }
+  },
+  "after_output_layer_refinement": {
+   "training": {
+    "balance_rms": [
+     0.11436051041622633,
+     0.43267771296747454,
+     0.24601715240819547
+    ],
+    "time_term_rms": [
+     0.7239567120200877,
+     3.3741247675132127,
+     1.8036810628716422
+    ],
+    "flux_term_rms": [
+     0.7331016752083476,
+     3.365190926561974,
+     1.7886515444993367
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.1579659508883083,
+     0.12823405854264405,
+     0.1363972586242666
+    ],
+    "kinetic_residual_mean_square": 7.635755675496312e-09,
+    "streaming_mean_square": 7.639435995018988e-09,
+    "collision_mean_square": 2.003792690263236e-12,
+    "residual_over_streaming_rms_ratio": 0.9997590945926561,
+    "residual_over_collision_rms_ratio": 61.73047486676345
+   },
+   "selection": {
+    "balance_rms": [
+     0.11845666948413479,
+     0.7390399323308083,
+     0.30130326568325605
+    ],
+    "time_term_rms": [
+     0.6576217554836665,
+     3.533289509558003,
+     1.6313049391900885
+    ],
+    "flux_term_rms": [
+     0.6466635140658246,
+     3.3459875810378104,
+     1.5889913050886744
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.1801288787914452,
+     0.20916483926143334,
+     0.18470076222097834
+    ],
+    "kinetic_residual_mean_square": 1.600129625081495e-08,
+    "streaming_mean_square": 1.6016053902985045e-08,
+    "collision_mean_square": 1.777197282685467e-12,
+    "residual_over_streaming_rms_ratio": 0.99953917945838,
+    "residual_over_collision_rms_ratio": 94.88766566605199
+   },
+   "unused": {
+    "balance_rms": [
+     0.12007267876021972,
+     0.8032609677190967,
+     0.34734341948659536
+    ],
+    "time_term_rms": [
+     0.6308547665484714,
+     3.4892088413344586,
+     1.536058146118252
+    ],
+    "flux_term_rms": [
+     0.6460612034383857,
+     3.428079843392339,
+     1.5299052009485188
+    ],
+    "balance_rms_over_time_term_rms": [
+     0.19033331461876812,
+     0.2302129234006776,
+     0.2261264785869997
+    ],
+    "kinetic_residual_mean_square": 1.9658777029841827e-08,
+    "streaming_mean_square": 1.968628200887861e-08,
+    "collision_mean_square": 1.352741311747606e-12,
+    "residual_over_streaming_rms_ratio": 0.9993011734519398,
+    "residual_over_collision_rms_ratio": 120.55101513419024
+   }
+  }
+ }
+}

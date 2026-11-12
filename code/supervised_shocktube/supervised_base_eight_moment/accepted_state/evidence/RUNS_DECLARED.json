@@ -1,0 +1,25 @@
+﻿{
+    "declared_utc":  "2026-11-11T05:17:11Z",
+    "held_out_reference_seen_for_any_stage_B_candidate":  false,
+    "development":  "Trainer design used training-only smoke runs (DEVELOPMENT_SMOKE_RUNS); no held-out value was read",
+    "runs":  [
+                 {
+                     "name":  "RUN_S_STRICT",
+                     "physics_limit_rel":  1E-06,
+                     "max_attempts":  40,
+                     "purpose":  "the rule declared at the start: no protected component may rise above source*(1+1e-6)"
+                 },
+                 {
+                     "name":  "RUN_E_ENDPOINT_TOL",
+                     "physics_limit_rel":  0.0005,
+                     "max_attempts":  150,
+                     "purpose":  "physical components may rise by at most 0.05 % over the source (half of the project\u0027s own endpoint tolerance 1e-3, train_all_moments.py lines 193-198); data components keep 1e-6"
+                 }
+             ],
+    "assessment":  "stageb_assess.py, criteria E1-E7 fixed in that file before any candidate was assessed; each run assessed once",
+    "code_sha256":  {
+                        "stageb_train.py":  "7327b96f91708b90e74a5c574f77dc24c14dd552b98bbec8fbd0b941d7da92ea",
+                        "stageb_assess.py":  "c92bfc7294f13e62bc77c90ddd38ef3cff179529f5ee0f63561f2704d495cc61",
+                        "stageb_problem.py":  "61aa8b4e08c09811c556c12f0b29bc1e030473c3b96fd5287efd48884788e9e2"
+                    }
+}

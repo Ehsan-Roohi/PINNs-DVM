@@ -1,0 +1,76 @@
+{
+ "bgk": {
+  "recomputed_table8_percent": {
+   "rho": 0.0096,
+   "u": 0.2042,
+   "T": 0.0092,
+   "q": 0.41,
+   "sigma": 0.3604,
+   "m": 0.8263,
+   "R": 1.7145,
+   "Delta": 1.3976,
+   "S": 1.5759
+  },
+  "table8_percent": {
+   "rho": 0.0096,
+   "u": 0.2042,
+   "T": 0.0092,
+   "q": 0.41,
+   "sigma": 0.3604,
+   "m": 0.8263,
+   "R": 1.7145,
+   "Delta": 1.3976,
+   "S": 1.5759
+  },
+  "model_positions": 401,
+  "reference_nodes": 3200,
+  "reference_markers_per_panel": [
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25
+  ],
+  "figure": "shocktube_bgk_physics.pdf"
+ },
+ "shakhov": {
+  "recomputed_table8_percent": {
+   "rho": 0.0096,
+   "u": 0.2029,
+   "T": 0.0092,
+   "q": 0.4101,
+   "sigma": 0.3606,
+   "m": 0.8284,
+   "R": 1.7125,
+   "Delta": 1.3979,
+   "S": 1.5748
+  },
+  "table8_percent": {
+   "rho": 0.0096,
+   "u": 0.2029,
+   "T": 0.0092,
+   "q": 0.4101,
+   "sigma": 0.3606,
+   "m": 0.8284,
+   "R": 1.7125,
+   "Delta": 1.3979,
+   "S": 1.5748
+  },
+  "model_positions": 401,
+  "reference_nodes": 3200,
+  "reference_markers_per_panel": [
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25,
+   25
+  ],
+  "figure": "shocktube_shakhov_physics.pdf"
+ }
+}

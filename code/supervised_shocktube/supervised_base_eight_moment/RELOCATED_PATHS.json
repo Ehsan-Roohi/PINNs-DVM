@@ -1,0 +1,20 @@
+{
+ "policy": "Local absolute paths are relocated to symbolic roots; the files are otherwise unchanged.",
+ "files": {
+  "accepted_state/evidence/ASSESSMENT.json": {
+   "original_sha256": "4fc8f8e499c24ff9006c40fc56c940a1657b6ade9500b3ccb49f4323070956b4",
+   "release_sha256": "8552670867a1c3d3bcc5096eb15d90ed07ff45bbff48898494df923c39a1161c",
+   "change": "local folder in the \"run\" field replaced by <author working folder>"
+  },
+  "variants/RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS/ASSESSMENT.json": {
+   "original_sha256": "0959009df9a3dc182cb61191cc734cd02198867c935ffd399429244d962910f3",
+   "release_sha256": "50d89c6b1d52485725fbcb248ac946a5fbcc288fafa871999165e17c73679612",
+   "change": "local folder in the \"run\" field replaced by <author working folder>"
+  },
+  "manuscript_checks/FACTS_STAGE1_LINEAGE.md": {
+   "original_sha256": "fe0f4d93a6b37217dc1cee3164695236e9dfb634184f0b66a4e4f5ffda48d054",
+   "release_sha256": "94ffac4026e50cd45de6c82e9d7e7c937c60d783f7fe358ea8c9fff309e434a7",
+   "change": "local project root replaced by <projects>"
+  }
+ }
+}

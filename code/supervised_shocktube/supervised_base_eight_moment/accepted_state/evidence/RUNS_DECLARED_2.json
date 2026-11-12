@@ -1,0 +1,19 @@
+﻿{
+    "declared_utc":  "2026-11-11T05:35:58Z",
+    "what_was_known":  "RUN_S_STRICT assessed once: E1,E2,E3,E5,E6,E7 pass; E4 fails (selection-point raw PDE +0.58 %, energy balance RMS +0.84 %; relative PDE -2.3 %, mass -2.0 %, momentum -0.6 %)",
+    "run":  {
+                "name":  "RUN_S2_STRICT_SELECTION_GUARD",
+                "physics_limit_rel":  1E-06,
+                "guard_selection":  true,
+                "max_attempts":  60,
+                "change":  "the five physical quantities on the checkpoint\u0027s selection points are held at source*(1+1e-6) and enter the step\u0027s constraints, as the project\u0027s own controller caps them (train_field_gn_from168.py, selection())"
+            },
+    "RUN_E_ENDPOINT_TOL":  "declared earlier, NOT run: the strict run did not stall, so a looser physics limit is not needed",
+    "new_independent_check":  "E8: the same five physical quantities on 64 audit points (seed 20261111) that no training or selection step uses; rule after \u003c= before*(1+1e-3)",
+    "primary_candidate_rule":  "the strict-rule run is the primary candidate whatever its held-out numbers",
+    "code_sha256":  {
+                        "stageb_train.py":  "c193653356b45c74f88b1c600cdab00e7626d8b117d32065814c601dea190f37",
+                        "stageb_assess.py":  "e3706063a4fe2c2116a241306057abc11886b7d66639d37fd9b391ae4e3e882a",
+                        "stageb_problem.py":  "1c8614344b2116c443182875c91f0d225b4f1dff1f8ec66f3b28f53adbd10480"
+                    }
+}

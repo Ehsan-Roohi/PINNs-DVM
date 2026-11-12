@@ -19,7 +19,11 @@ The stationary neural results cover Shakhov Mach 2–5 and BGK Mach 6–7. Chara
 
 ## Data-assisted shock-tube refinement
 
-The [constrained continuation](code/supervised_shocktube/constrained_continuation) contains the executed three-stage algorithm, shared network and configuration, matched reference, saved fields, losses and independent physical assessments. The selected base case has heat-flux and stress relative L2 discrepancies of 1.1811% and 1.3351%. Training inputs and exact checkpoint bindings are documented with the code.
+The [constrained continuation](code/supervised_shocktube/constrained_continuation) contains the executed three-stage algorithm, shared network and configuration, matched reference, saved fields, losses and independent physical assessments. The selected base case (five-field state) has heat-flux and stress relative L2 discrepancies of 1.1811% and 1.3351% against the 400-cell DVM solution that supplied its observations. Training inputs and exact checkpoint bindings are documented with the code.
+
+## Eight-moment data-assisted base case
+
+[`code/supervised_shocktube/supervised_base_eight_moment`](code/supervised_shocktube/supervised_base_eight_moment) extends the base shock tube (Kn = 1, t_f = 0.02) to the third- and fourth-order moments m_xxx, R_xx and Delta (manuscript section 5.2). It contains the model state, the executed common-tail envelope and output-layer refinement code, the 6400-cell BGK DVM reference fields, the observation locations, the accepted-update history and the assessment arrays, with the scripts behind the reported numbers and figures. Against the 6400-cell reference the final state has heat-flux and stress discrepancies of 0.33% and 0.67% and 1.8-2.0% in the higher moments; on the same reference the equation-trained BGK calculation is more accurate. Read its `README.txt` and `STATUS_NOTE.txt` first. `SHA256_MANIFEST.json` lists its files, and `RELOCATED_PATHS.json` records the three files whose local absolute paths were replaced by symbolic roots.
 
 ## Run the equation-trained shock-tube calculation
 
