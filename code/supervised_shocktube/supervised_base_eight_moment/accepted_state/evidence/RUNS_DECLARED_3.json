@@ -1,0 +1,17 @@
+﻿{
+    "declared_utc":  "2026-11-11T05:48:41Z",
+    "what_was_known":  "RUN_S2_STRICT_SELECTION_GUARD stalled after 13 accepted updates (LINE_SEARCH_REJECTED; training m loss +13 %, R -45 %, Delta -59 %); it was not assessed against the reference",
+    "run":  {
+                "name":  "RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS",
+                "physics_limit_rel":  1E-06,
+                "guard_selection":  true,
+                "max_attempts":  80,
+                "change":  "lower-field row weights use the fixed source losses instead of the current losses; nothing else"
+            },
+    "assessment":  "stageb_assess.py E1-E8, once",
+    "code_sha256":  {
+                        "stageb_train.py":  "f9f5fbf47a08d61191c2f66c66719d1d17ed0f0948fe301e9bbad15c1863d602",
+                        "stageb_assess.py":  "e3706063a4fe2c2116a241306057abc11886b7d66639d37fd9b391ae4e3e882a",
+                        "stageb_problem.py":  "1c8614344b2116c443182875c91f0d225b4f1dff1f8ec66f3b28f53adbd10480"
+                    }
+}

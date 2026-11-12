@@ -1,0 +1,269 @@
+{
+ "files": 66,
+ "manifest": {
+  "accepted_state/code/all_moment_model.py": {
+   "bytes": 5091,
+   "sha256": "dd5c7dd2435c919df463da2f3e64063481d13c3f9a0c6faacbda76de318f0eb3"
+  },
+  "accepted_state/code/common_tail_envelope.py": {
+   "bytes": 4778,
+   "sha256": "d36d01763e48c27e523679300df7f82fa369b0da09526afd10faacbbae12527b"
+  },
+  "accepted_state/code/common_tail_model.py": {
+   "bytes": 4786,
+   "sha256": "3d1c396a799bb8485a6c5be15259c49d4713d5ee573d0105bd48605b3af2e968"
+  },
+  "accepted_state/code/function_trust_proposal.py": {
+   "bytes": 8821,
+   "sha256": "dbe5351a534e38b2efedbe72b72cae6dd03c3d5590019c03eac0162e73fb2b13"
+  },
+  "accepted_state/code/legacy.py": {
+   "bytes": 19121,
+   "sha256": "bab5b7db84dcec760948b2a232e35ecddb1fa282764199af81301c3e2651e59e"
+  },
+  "accepted_state/code/q_amplitude_adapter.py": {
+   "bytes": 1314,
+   "sha256": "6f9bb5399e9c78a5656e4de6c5a1cb1e8990f7f7d822cbd2b4e03ec36feb15e1"
+  },
+  "accepted_state/evidence/ACCEPTED.jsonl": {
+   "bytes": 24676,
+   "sha256": "bb42be91f68092d7b28e8c64d096b79d916a3fe86d1bf21fce440eb5200c3c1b"
+  },
+  "accepted_state/evidence/ASSESSMENT.json": {
+   "bytes": 41528,
+   "sha256": "8552670867a1c3d3bcc5096eb15d90ed07ff45bbff48898494df923c39a1161c"
+  },
+  "accepted_state/evidence/ASSESSMENT_FIELDS.npz": {
+   "bytes": 1788855,
+   "sha256": "b7cdcda81d096ea353375a9f8b998b5f0b8bc03ad71d8b6e0e25d722d58a4191"
+  },
+  "accepted_state/evidence/EXECUTED_CODE/stageb_assess_first_pass_E1_E7.py": {
+   "bytes": 5552,
+   "sha256": "c92bfc7294f13e62bc77c90ddd38ef3cff179529f5ee0f63561f2704d495cc61"
+  },
+  "accepted_state/evidence/EXECUTED_CODE/stageb_problem.py": {
+   "bytes": 14249,
+   "sha256": "61aa8b4e08c09811c556c12f0b29bc1e030473c3b96fd5287efd48884788e9e2"
+  },
+  "accepted_state/evidence/EXECUTED_CODE/stageb_train.py": {
+   "bytes": 22765,
+   "sha256": "7327b96f91708b90e74a5c574f77dc24c14dd552b98bbec8fbd0b941d7da92ea"
+  },
+  "accepted_state/evidence/EXECUTED_CODE_RECONSTRUCTION.json": {
+   "bytes": 1483,
+   "sha256": "2d8b08e545146463e1e807ab097b79dc656d2667e3444815631ac3481131b3f4"
+  },
+  "accepted_state/evidence/GRADIENT_CHECK.json": {
+   "bytes": 2278,
+   "sha256": "9a330a8d773522d29fc7bc7107b28e1479c2e1f1740c2a4214306e536a0cd44b"
+  },
+  "accepted_state/evidence/ORIGINAL_ENDPOINT_PHYSICS_POINTS.json": {
+   "bytes": 804,
+   "sha256": "b63612ad3b4a8dc60c6b4749410be531ae0ac4d0b88d1a2cc723c88fd9040618"
+  },
+  "accepted_state/evidence/RUN_SETTINGS.json": {
+   "bytes": 4620,
+   "sha256": "12c1a0573dcb68c25c57d5cb0b4bd5100d2dc6a521103aac10a0df15e5151447"
+  },
+  "accepted_state/evidence/RUNS_DECLARED.json": {
+   "bytes": 1508,
+   "sha256": "6da5f0608b7db21ccd7572181657066fa3988026de51be43f5caf72b9e420f2f"
+  },
+  "accepted_state/evidence/RUNS_DECLARED_2.json": {
+   "bytes": 1537,
+   "sha256": "0394e71b596f4139c40b345210842b1aa7146073adeacd0a71d3e567ce5346a1"
+  },
+  "accepted_state/evidence/RUNS_DECLARED_3.json": {
+   "bytes": 1053,
+   "sha256": "e2f15d97d14ad008aef013cbf2b3ad303703fd84805378e01243ddaa85923fe9"
+  },
+  "accepted_state/evidence/SOURCE_CHECK.json": {
+   "bytes": 3272,
+   "sha256": "5e1bc867c9e63efdc0dd95099602e58f5513bcb71509d4704a893be02192dfad"
+  },
+  "accepted_state/evidence/TRAIN_RESULT.json": {
+   "bytes": 2085,
+   "sha256": "dea4ae4f63090b01afaee35fc9f3e05c9b1239c9055cb48dad53669fa5b605a0"
+  },
+  "accepted_state/inputs/OBSERVATION_LOCATIONS_FROZEN.npz": {
+   "bytes": 4932,
+   "sha256": "c9724c94719342c116a81502a8fdb837235f8e6f8bc5d6d0c10dd17a2b1a4cff"
+  },
+  "accepted_state/inputs/REFERENCE6400_FIELDS.npz": {
+   "bytes": 420386,
+   "sha256": "c4fe0f1fbd0789b3793729791b9d9490465578b151c78bf3bac17571b3eeb090"
+  },
+  "accepted_state/RELOAD_VERIFICATION.json": {
+   "bytes": 2249,
+   "sha256": "bd92a85a6de4e668cd001fafe050475929d4661e785555e71d5b4eae49730d98"
+  },
+  "accepted_state/STATE.pt": {
+   "bytes": 1204702,
+   "sha256": "0ba06f816850ff30362a981571203e3234d4506e2d596972a31250d00ff42676"
+  },
+  "accepted_state/verify_accepted_source.py": {
+   "bytes": 7456,
+   "sha256": "371b368187f43ec3e08fd4488fafd5bd18129e5b0c4bce2bbbc707980b3184e7"
+  },
+  "comparison_inputs/EQUATION_TRAINED_BGK_FIELDS.npz": {
+   "bytes": 33006,
+   "sha256": "ef062c38e35529d49532588dcbde4759e3b3876e3e7b05e91b8f90c4b8f0d79d"
+  },
+  "comparison_inputs/REFERENCE_3200_FIELDS.npz": {
+   "bytes": 212217,
+   "sha256": "abd59cf3b39d9ce2da171bb6a465c00c904d3ca6c7965a65ea69b511a467cbdc"
+  },
+  "figures/ORIGINAL_MAIN_SHOCKTUBE_CLEAN.pdf": {
+   "bytes": 41427,
+   "sha256": "cd86477f6bfd42130b489f94c8b540365009877210969bc1533d3d4481897386"
+  },
+  "figures/SHOCKTUBE_HIGHER_UPSTREAM_DETAIL.pdf": {
+   "bytes": 23984,
+   "sha256": "05179ac34ec8555040f927c58bdbaee64dc18f21d5ea63386e89e29db20b247e"
+  },
+  "figures/SUPERVISED_OUTPUT_LAYER.pdf": {
+   "bytes": 28977,
+   "sha256": "b6ef62d05e3b9dd784c8ac5df6ae118cb05cc04e6ddcf3324390bd3bc213c418"
+  },
+  "manuscript_checks/check_kernels.py": {
+   "bytes": 1542,
+   "sha256": "8603dbf63e97800844f4807408f77f90ea52d555e3bca41d47027859c877133f"
+  },
+  "manuscript_checks/eight_field_grid.py": {
+   "bytes": 3725,
+   "sha256": "ab9ed5f18fb901e211b2cadfdef3d9869d2f59a8707db95ebd8b1287803c549d"
+  },
+  "manuscript_checks/EQUATION_TRAINED_FIGURE_CHECK.json": {
+   "bytes": 1227,
+   "sha256": "23aba68d6459a7d3a7d2100c2229d347450bbd07c8cfbc5776b2ba2a4561e2f6"
+  },
+  "manuscript_checks/FACTS_AFTER_REVIEW.json": {
+   "bytes": 18917,
+   "sha256": "aa757950a7df7d423d3922514a584b35e4b175d6bdb1860cf2143f0c53ffbcd4"
+  },
+  "manuscript_checks/facts_after_review.py": {
+   "bytes": 6581,
+   "sha256": "dea933e69a981296d81a9c129f0f3353cc894b524e05130743c7d0b6ea4ead91"
+  },
+  "manuscript_checks/FACTS_CASE_AND_LINEAGE.json": {
+   "bytes": 4937,
+   "sha256": "18e6e0ea0fe2106d0bc3e5d9d44fd84ece9d24e22fd3a73a2d496da34a69bab2"
+  },
+  "manuscript_checks/facts_case_and_lineage.py": {
+   "bytes": 3845,
+   "sha256": "81c8dfe7401ac823f2daf143cf2a83aa00666c2532e49ca4b4abee4d6b856c42"
+  },
+  "manuscript_checks/FACTS_FOR_METHODS.json": {
+   "bytes": 12881,
+   "sha256": "d67e5641383fd4d3cd57c8524d181652af346b9a55da9df628fc7e616f59c640"
+  },
+  "manuscript_checks/facts_for_methods.py": {
+   "bytes": 5170,
+   "sha256": "2105d2cd34c932786e0fe5ea763ee270860c1a99f2182b1956a931fcd230d808"
+  },
+  "manuscript_checks/FACTS_HELDOUT_AND_SCALES.json": {
+   "bytes": 1677,
+   "sha256": "1cb0135635a3fce422ec62d10dba12e688a390879dde7b980d1561143fa1a841"
+  },
+  "manuscript_checks/facts_heldout_and_scales.py": {
+   "bytes": 2168,
+   "sha256": "2d152feaca0c2be2fd91c377a69277d39756199399f8f15afb37ca540b7fe4a0"
+  },
+  "manuscript_checks/FACTS_REGIONAL.json": {
+   "bytes": 10805,
+   "sha256": "2212377be95bc7120ed73e86a4d3802f0e5424b1f2939337c5e13164bcc8579e"
+  },
+  "manuscript_checks/facts_regional.py": {
+   "bytes": 1782,
+   "sha256": "2d2034c09e4ccde24f6dece1029d8c37e8db307b4d73c1332c36c4d9153e8a33"
+  },
+  "manuscript_checks/facts_sign_regions.py": {
+   "bytes": 1063,
+   "sha256": "44a3628973c24694c90483154ea92cd43cbf46c0bf9f54c770021e1b5f987287"
+  },
+  "manuscript_checks/FACTS_STAGE1_LINEAGE.md": {
+   "bytes": 27850,
+   "sha256": "94ffac4026e50cd45de6c82e9d7e7c937c60d783f7fe358ea8c9fff309e434a7"
+  },
+  "manuscript_checks/KERNEL_CHECK.json": {
+   "bytes": 2271,
+   "sha256": "43021ab1fa8d8577b7094737b2f937416b6815564d7bef43efaede671b6a963d"
+  },
+  "manuscript_checks/make_equation_trained_figures.py": {
+   "bytes": 3057,
+   "sha256": "22367612b93c31ca789100ff5e5977312a079cc6cc25316822d8de39eb5e02c1"
+  },
+  "manuscript_checks/make_manuscript_figures.py": {
+   "bytes": 6380,
+   "sha256": "fcc8628d9c9ea8b4c492a8b6970788128fd267128d14bd51551c27b6de4e153e"
+  },
+  "manuscript_checks/PHYSICS_MAGNITUDES.json": {
+   "bytes": 9489,
+   "sha256": "e82d83d90d983ff91e0d68e4fde32f616dac578cc274b572b3e8947e07b912e2"
+  },
+  "manuscript_checks/physics_magnitudes.py": {
+   "bytes": 4810,
+   "sha256": "280eda566a443b1a88ae1d3eb1d1913af4c88918c03f70a3501c6ebe657377de"
+  },
+  "manuscript_checks/REFERENCE_REFINEMENT_3200_6400.json": {
+   "bytes": 727,
+   "sha256": "ab77b75ccb0cb93d8ba1414a1ad42520bbb7a122a3e826a662e25a79b6beeb8b"
+  },
+  "manuscript_checks/reference_refinement_3200_6400.py": {
+   "bytes": 1371,
+   "sha256": "807defbe6473c7c4e7ad8ee6b9eb6cb1a58727fe8e223943bca6a36999734ed9"
+  },
+  "manuscript_checks/stage0/STAGE0_FIELDS.npz": {
+   "bytes": 869918,
+   "sha256": "6a9f806aea15f1714a0296bf066a60e52bf3c82d110ed11ca9904fc834d78e71"
+  },
+  "manuscript_checks/stage0/STAGE0_FIVE_FIELD.json": {
+   "bytes": 1376,
+   "sha256": "a8a6bd2bbf6e80307d6eb8616b2f9eac7ad8d10f4d54563113beaca7cbbc78b3"
+  },
+  "manuscript_checks/stage0_five_field.py": {
+   "bytes": 1917,
+   "sha256": "b99968728702fbcea2c816ac7993cdea17525880068457367ec34cde867d79a1"
+  },
+  "README.txt": {
+   "bytes": 4615,
+   "sha256": "6bb434e4b25612919ea3acdb8b351968f8fba0be722bcfaf803a24a9ebdd11d3"
+  },
+  "RELOCATED_PATHS.json": {
+   "bytes": 1090,
+   "sha256": "5157ed74ca22eeb5e035d3ab087748b1fce2af549cf22deda5ab29e5668e322c"
+  },
+  "STATUS_NOTE.txt": {
+   "bytes": 863,
+   "sha256": "bb69af84bab0b5398bb1591cee77a43d39e84d894cdcb9ae4c8e24aaea4cbe06"
+  },
+  "variants/RUN_S2_STRICT_SELECTION_GUARD/ACCEPTED.jsonl": {
+   "bytes": 10612,
+   "sha256": "a8693766cc8992d7a233fa4a64d30eb86955f40f890c3f9f72416398717bbde2"
+  },
+  "variants/RUN_S2_STRICT_SELECTION_GUARD/RUN_SETTINGS.json": {
+   "bytes": 5179,
+   "sha256": "f8f7868c7065dc4718bf01666b24135c85f7f6115e9892bad49d69c380f18776"
+  },
+  "variants/RUN_S2_STRICT_SELECTION_GUARD/TRAIN_RESULT.json": {
+   "bytes": 2606,
+   "sha256": "b69cd2ee7a1bde7ddf0ec0765cd879a48fcd0b18df2a5f743ffe0ac062d9a7bf"
+  },
+  "variants/RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS/ACCEPTED.jsonl": {
+   "bytes": 32736,
+   "sha256": "12699313e1635f57dd32cd906ede3f647e4d1aa160224bd625d56b6dfd7b313b"
+  },
+  "variants/RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS/ASSESSMENT.json": {
+   "bytes": 41819,
+   "sha256": "50d89c6b1d52485725fbcb248ac946a5fbcc288fafa871999165e17c73679612"
+  },
+  "variants/RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS/RUN_SETTINGS.json": {
+   "bytes": 5179,
+   "sha256": "de3e25fbda5b027abda9843822fd6c06e8c1ea2ed37e9ad1b5af46d708731156"
+  },
+  "variants/RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS/TRAIN_RESULT.json": {
+   "bytes": 2608,
+   "sha256": "883b2c3f34e677b56e40ee486aa3f2d1127fbe8863cb29a9d3cdaab18daf7761"
+  }
+ }
+}

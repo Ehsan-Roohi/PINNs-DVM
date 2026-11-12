@@ -1,0 +1,191 @@
+{
+ "case_of_checkpoint_170": {
+  "x_min": -0.5,
+  "x_max": 0.5,
+  "t_final": 0.02,
+  "kn": 1.0,
+  "smooth_k": 20.0,
+  "left": {
+   "rho": 1.0,
+   "ux": 0.0,
+   "T": 1.0
+  },
+  "right": {
+   "rho": 0.125,
+   "ux": 0.0,
+   "T": 0.8
+  }
+ },
+ "velocity_grid_of_checkpoint_170": {
+  "vmax": 7.0,
+  "nvx": 32,
+  "nvy": 12,
+  "nvz": 12,
+  "weight_alpha": 0.1,
+  "weight_beta": 4.0,
+  "normalize_weight": true
+ },
+ "REFERENCE_CONFIG": {
+  "seed": 1234,
+  "dtype": "float32",
+  "case": {
+   "x_min": -0.5,
+   "x_max": 0.5,
+   "t_final": 0.02,
+   "kn": 1.0,
+   "smooth_k": 20.0,
+   "left": {
+    "rho": 1.0,
+    "ux": 0.0,
+    "uy": 0.0,
+    "uz": 0.0,
+    "T": 1.0
+   },
+   "right": {
+    "rho": 0.125,
+    "ux": 0.0,
+    "uy": 0.0,
+    "uz": 0.0,
+    "T": 0.8
+   }
+  },
+  "velocity": {
+   "vmax": 7.0,
+   "nvx": 32,
+   "nvy": 12,
+   "nvz": 12,
+   "weight_alpha": 0.1,
+   "weight_beta": 4.0,
+   "normalize_weight": true
+  },
+  "model": {
+   "hidden": 96,
+   "layers": 4,
+   "activation": "silu",
+   "fourier_freqs": [
+    1,
+    2,
+    4
+   ],
+   "T_env": 2.0,
+   "last_bias": -4.0,
+   "hard_ic": true,
+   "hard_ic_mode": "mult_exp",
+   "hard_ic_scale": 3.0
+  },
+  "train": {
+   "device": "auto",
+   "allow_tf32": true,
+   "steps": 3000,
+   "batch_pde": 4,
+   "batch_ic": 8,
+   "batch_bc": 4,
+   "lr": 0.00015,
+   "min_lr": 1e-06,
+   "weight_decay": 1e-06,
+   "lambda_pde": 2.0,
+   "lambda_pde_rel": 0.02,
+   "lambda_ic": 5.0,
+   "lambda_bc": 20.0,
+   "lambda_macro_ic": 2.0,
+   "rel_eps": 0.0001,
+   "ic_eps": 1e-05,
+   "rho_floor": 1e-08,
+   "T_floor": 1e-05,
+   "shock_fraction": 0.45,
+   "shock_sigma": 0.12,
+   "grad_clip": 1.0,
+   "log_every": 50,
+   "save_every": 500
+  },
+  "run": {
+   "root": "runs",
+   "name": "smoke_fixed"
+  }
+ },
+ "reference_6400_vs_400": {
+  "rho": {
+   "relative_L2_difference_percent": 0.07033613113001674,
+   "max_abs_difference": 0.0015529099673818325,
+   "max_abs_400": 0.999997944974638
+  },
+  "u": {
+   "relative_L2_difference_percent": 1.503213457157372,
+   "max_abs_difference": 0.004866008213898099,
+   "max_abs_400": 0.32707060934420795
+  },
+  "T": {
+   "relative_L2_difference_percent": 0.07503421402233079,
+   "max_abs_difference": 0.00248483625339746,
+   "max_abs_400": 1.0000198336641015
+  },
+  "q": {
+   "relative_L2_difference_percent": 2.9924637665791933,
+   "max_abs_difference": 0.0014727180928661501,
+   "max_abs_400": 0.04185527653729558
+  },
+  "sigma": {
+   "relative_L2_difference_percent": 2.5266598384658305,
+   "max_abs_difference": 0.0007436262021034423,
+   "max_abs_400": 0.03706622725761834
+  },
+  "m": {
+   "relative_L2_difference_percent": 5.464424653933728,
+   "max_abs_difference": 0.0005797620047238898,
+   "max_abs_400": 0.009741200998890667
+  },
+  "R": {
+   "relative_L2_difference_percent": 13.384614676110564,
+   "max_abs_difference": 0.0027360769919910176,
+   "max_abs_400": 0.018684855482906437
+  }
+ },
+ "cp_schema": "HMM_CHECKPOINTED_CONTINUATION_CPU_CHECKPOINT_V1",
+ "cp_accepted_updates": 170,
+ "cp_attempts": 171,
+ "cp_optimizer_kind": "Column-scaled fixed-damping LM with group-GN fraction and Ct projection; Jacobian recomputed each accepted cycle",
+ "cp_controller_policy": "Bounded alternative damping geometry; selected LM_mu=1e-06; function_radius=.025; canonical objective unchanged",
+ "cp_data_provenance": {
+  "original_reference_cells": 400,
+  "macro_locations": 160,
+  "moment_locations": 42,
+  "scalar_data_rows": 690,
+  "physical_rows": 7,
+  "exact_source_provenance": "5d15d5d50b087135cbe5ab661699af6cf68e3493ea6f478769684b7b8eec871e",
+  "endpoint_moves": [],
+  "targets_interpolated_only_within6400cellcentercoverage": true
+ },
+ "cp_phase": "accepted_joint_cycle_boundary",
+ "cp_all_parameters_trainable": true,
+ "cp_parent_accepted_updates": 168,
+ "cp_cumulative_CPU_accepted_joint_cycles": 153,
+ "cp_LM_mu": 1e-06,
+ "cp_function_radius": 0.025,
+ "guard_history_len": 544,
+ "guard_history_first": {
+  "attempt": 1,
+  "backtrack": 0,
+  "alpha": 1.0,
+  "radius_before": 0.1,
+  "radius_after": 0.2,
+  "predicted_half_objective_decrease": 0.055557159257385504,
+  "actual_half_objective_decrease": 0.05310577303578956,
+  "actual_to_predicted_decrease_ratio": 0.9558763217132981,
+  "actual_function_blocks": "<class 'dict'>",
+  "actual_function_gauge": 0.0999873463730957,
+  "losses": "<class 'list'>",
+  "frozen_component_limits": "<class 'list'>",
+  "eta": "<class 'dict'>",
+  "failed": "<class 'list'>",
+  "field_and_selection_physics": "<class 'dict'>",
+  "accepted": true,
+  "full_assessment_skipped_because_necessary_guard_failed": false,
+  "seconds": 4.942751979921013,
+  "cumulative_function_blocks_vs_original_diagnostic_only": "<class 'dict'>"
+ },
+ "guard_history_last": {
+  "cycle_index": 2,
+  "source_accepted_updates": 169,
+  "trials": "<class 'list'>"
+ }
+}

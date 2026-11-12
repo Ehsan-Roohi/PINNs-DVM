@@ -1,0 +1,35 @@
+{
+ "RUN_S_STRICT": {
+  "recorded_sha256": {
+   "stageb_train": "7327b96f91708b90e74a5c574f77dc24c14dd552b98bbec8fbd0b941d7da92ea",
+   "stageb_problem": "61aa8b4e08c09811c556c12f0b29bc1e030473c3b96fd5287efd48884788e9e2"
+  },
+  "stageb_train_rebuilt_and_matches": true,
+  "stageb_problem_rebuilt_and_matches": true
+ },
+ "RUN_S2_STRICT_SELECTION_GUARD": {
+  "recorded_sha256": {
+   "stageb_train": "c193653356b45c74f88b1c600cdab00e7626d8b117d32065814c601dea190f37",
+   "stageb_problem": "1c8614344b2116c443182875c91f0d225b4f1dff1f8ec66f3b28f53adbd10480"
+  },
+  "stageb_train_rebuilt_and_matches": true,
+  "stageb_problem_rebuilt_and_matches": true
+ },
+ "RUN_S3_STRICT_SELECTION_GUARD_FIXED_WEIGHTS": {
+  "recorded_sha256": {
+   "stageb_train": "f9f5fbf47a08d61191c2f66c66719d1d17ed0f0948fe301e9bbad15c1863d602",
+   "stageb_problem": "1c8614344b2116c443182875c91f0d225b4f1dff1f8ec66f3b28f53adbd10480"
+  },
+  "stageb_train_rebuilt_and_matches": true,
+  "stageb_problem_rebuilt_and_matches": true
+ },
+ "stageb_assess_first_pass": {
+  "declared_sha256": "c92bfc7294f13e62bc77c90ddd38ef3cff179529f5ee0f63561f2704d495cc61",
+  "rebuilt_and_matches": true
+ },
+ "current_files_sha256": {
+  "stageb_train.py": "f9f5fbf47a08d61191c2f66c66719d1d17ed0f0948fe301e9bbad15c1863d602",
+  "stageb_problem.py": "1c8614344b2116c443182875c91f0d225b4f1dff1f8ec66f3b28f53adbd10480",
+  "stageb_assess.py": "e3706063a4fe2c2116a241306057abc11886b7d66639d37fd9b391ae4e3e882a"
+ }
+}
