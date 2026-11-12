@@ -3689,8 +3689,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "07811c56e29c80d3f0a1a8d432e33a295bdda3f4d6f3b3747b1c839ea0c43c4b",
-      "bytes": 7997
+      "sha256": "b17d3a4316047865348dfb380e999ca8da226b3e7c4edace40e75ef1da423191",
+      "bytes": 8056
     },
     {
       "path": "requirements.txt",
@@ -3989,8 +3989,8 @@
     },
     {
       "path": "code/supervised_shocktube/supervised_base_eight_moment/README.txt",
-      "sha256": "6bb434e4b25612919ea3acdb8b351968f8fba0be722bcfaf803a24a9ebdd11d3",
-      "bytes": 4615
+      "sha256": "f899400017b0f6afceb2981f6bcf6545c1d24ce7b38a2a474eba8ab32effc53f",
+      "bytes": 4675
     },
     {
       "path": "code/supervised_shocktube/supervised_base_eight_moment/RELOCATED_PATHS.json",
@@ -3999,7 +3999,7 @@
     },
     {
       "path": "code/supervised_shocktube/supervised_base_eight_moment/SHA256_MANIFEST.json",
-      "sha256": "1f835d92b1eb245b118b6aa5e5fcd7999422fdf006c5b01f98325e8d5eb3c5a3",
+      "sha256": "f4d03649b1bebc31a80817f31866d2861a9708d40fa013cc34aa0cbfe76264ee",
       "bytes": 10559
     },
     {
